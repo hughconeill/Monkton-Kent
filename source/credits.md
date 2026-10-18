@@ -41,4 +41,4 @@ details.
 ## Hugh O'Neill (Website manager)
 
 Although not a contributor of any content, Hugh has built and maintains the website.
-So, if you find any errors or have a suggestion to improve things please contact Hugh (details on the About page).
+So, if you find any errors, technical issues or have a suggestion to improve things please contact Hugh (details on the About page).

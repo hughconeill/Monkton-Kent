@@ -8,7 +8,7 @@ before records, photographs, and living memory are lost. It draws on:
 - Official records
 - Local newspaper archives
 - Oral history interviews with residents and former residents
-- Personal photographs, letters, and documents contributed by families
+- Personal photographs, letters, and documents contributed by residents or other contributors
 
 This is a not-for-profit endeavour for the benefit of all and the believed consent of all those involved.
 
