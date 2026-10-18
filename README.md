@@ -22,7 +22,6 @@ docs-site/
     │   ├── monkton-memories/  # Terry Marsh's Monkton News column (numbered)
     │   └── farming-life/      # Terry Marsh's Monkton News column (numbered)
     ├── places.md            # Monkton's listed buildings (Historic England)
-    ├── news.md               # Press coverage of Monkton, from web sources
     ├── other-monktons.md     # Other places named Monkton, worldwide
     ├── gallery.md           # Photo gallery
     ├── _static/images/    # Photos and scans go here (currently grey
@@ -40,7 +39,7 @@ needs them again.
 
 - **Every factual claim should cite a source.** There's no `sources.md` in
   this project — pages sourced from the open web (`history/origins.md`,
-  `places.md`, `history/monkton-1926.md`, `news.md`, `other-monktons.md`)
+  `places.md`, `history/monkton-1926.md`, `other-monktons.md`)
   cite with plain inline Markdown
   links to the original page, directly in the prose or in a trailing
   "Source(s):" line. Prefer the most authoritative source you can find (e.g.

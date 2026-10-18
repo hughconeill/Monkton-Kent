@@ -9,7 +9,6 @@ This is an ongoing project to gather information and personal histories in the v
 This is a test version 2 of the new Monkton-in-Thanet history website, adding some new bits:
 - Stuart's 1926 Centenary trail
 - Some of Monkton's history taken from sources on the web
-- Other stories about Monkton on the web (in the news)
 - Other Monktons around the world
 - A list of listed buildings
 - Some War Graves Commmission references to the war graves in the churchyard 
@@ -48,12 +47,6 @@ Monkton Memories and A Farming Life — Terry Marsh's columns from the Monkton N
 Monkton's listed buildings, from Historic England's register.
 :::
 
-:::{grid-item-card} 📰 In the News
-:link: news
-:link-type: doc
-Recent local and regional press coverage of Monkton.
-:::
-
 :::{grid-item-card} 🌍 Other Monktons
 :link: other-monktons
 :link-type: doc
@@ -79,7 +72,6 @@ about
 church/index
 history/index
 places
-news
 other-monktons
 gallery
 ```

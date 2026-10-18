@@ -58,8 +58,7 @@ without Sphinx warnings/errors and renders as expected.
   `source/history/origins.md` (Anglo-Saxon/medieval Monkton, sourced from
   British History Online's Hasted transcription and the Kent Archaeological
   Society journal). `source/places.md` (linked from the root `index.md`) lists
-  Monkton's 22 Historic England-listed buildings. `source/news.md` collects
-  published local/regional press coverage of Monkton (most recent first).
+  Monkton's 22 Historic England-listed buildings.
   `source/other-monktons.md` lists other places named Monkton worldwide
   (England, Wales, Scotland, North America, plus one non-place curiosity),
   grouped into Markdown tables by region. Unlike the rest of the site, these
@@ -72,7 +71,9 @@ without Sphinx warnings/errors and renders as expected.
   `source/timeline.md`, and an earlier placeholder `source/sources.md` —
   these were removed for being unfinished (bracketed placeholders, never
   wired into a `toctree`). They no longer exist; don't assume they're just
-  unlinked.
+  unlinked. `source/news.md` ("In the News", press coverage of Monkton from
+  the open web) existed briefly as a finished, linked page but was removed
+  at the user's request — don't recreate it without being asked.
 - Images referenced from `history/`/`people/`/church pages sometimes point at
   `_static/images/placeholder-*.jpg` (literal grey placeholders) — replace with real
   scans before treating a page as finished. Some newer pages (e.g. `index.md`,
@@ -85,7 +86,7 @@ without Sphinx warnings/errors and renders as expected.
   Markdown footnote (`[^label]` ... `[^label]: full citation`) linking back to a
   `source/sources.md` organized by record type — that file no longer exists (see
   above), so this isn't in active use. Pages sourced from the open web
-  (`origins.md`, `places.md`, `monkton-1926.md`, `news.md`,
+  (`origins.md`, `places.md`, `monkton-1926.md`,
   `other-monktons.md`) instead cite with inline
   Markdown links directly in the prose/a trailing "Source(s):" line, pointing at
   the original page (British History Online, Historic England, Wikipedia, etc.)

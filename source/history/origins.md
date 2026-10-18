@@ -118,8 +118,7 @@ Sources: Paul Tritton,
 *Kent Archaeological Society* magazine (New Year 2022); KentOnline,
 ["The tumultuous history of Kent's most divisive airport"](https://www.kentonline.co.uk/thanet/news/the-tumultuous-history-of-kents-most-divisive-airport-276080/).
 For the chalk pits' own later story — quarrying through the 20th
-century and their 1985 opening as a nature reserve — see
-[In the News](../news.md) and Terry Marsh's
+century and their 1985 opening as a nature reserve — see Terry Marsh's
 [Monkton Memories](monkton-memories/19-chalk-pits.md).
 
 ## Monkton today
