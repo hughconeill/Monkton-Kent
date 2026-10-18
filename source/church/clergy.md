@@ -91,10 +91,10 @@ Monkton was created a vicarage with chapels at Birchington & Wade.
 | 2023 | JEF FOULGER *(priest-in-charge)* | 
 
 ```{admonition} Peter Gausden
-:class: important
+:class: note
 
-Whilst not our vicar and so appearing on this list, 
-Peter has been leading the services at St Mary Magdalene for many years.
-[Ask Stuart to write something]
+Whilst not our vicar and so not appearing on this list, 
+Peter has been leading the services at St Mary Magdalene for many years 
+and is a key figure at the church.
 ```
 

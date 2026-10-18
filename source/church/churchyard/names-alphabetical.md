@@ -7,19 +7,16 @@ Directors' Minster burial plan.
 
 Format: **Surname, Forename(s)** — birth/death dates (age at death) — plot reference.
 
-```{admonition} About the Block Ref column (need Stuart's help here)
+```{admonition} About the FD Ref column
 :class: note
 
 Most entries carry a second reference alongside the plot number (e.g. "E38",
-"B30") — a letter (A–F) and a number. It isn't tied only to the cremation
-tablet areas (regular graves have one too), so it most likely comes from the
-Burials Book or the Coles Funeral Directors' burial plan mentioned above,
-rather than being part of this survey's own numbering. Its exact meaning
-hasn't been confirmed — it's recorded here exactly as found.
+"B30") — a letter (A–F) and a number. 
+It comes the Coles Funeral Directors' burial plan mentioned above and its exact meaning hasn't been confirmed — it's recorded here exactly as found.
 ```
 
 {.names-table}
-| Name | Dates | Plot No. | Block Ref |
+| Name | Dates | Plot No. | FD Ref |
 |------|-------|----------|-----------|
 | ADAMS, Elizabeth | ?.?.???? - ? 10.4.1801 (?) | 112/111 |  |
 | ADAMS, Emma | ?.?.???? - 3.6.1855 (24) | 11 |  |
