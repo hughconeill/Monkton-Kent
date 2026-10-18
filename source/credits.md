@@ -30,7 +30,7 @@ the village was actually like to live and work in.
 Karen has kindly given access to her archive collection of village photographs, newspaper clippings and articles.  These will be gradually added to the website over the coming weeks & months.
 (More details will be added as we scan and upload the items).
 
-## Hugh O'Neill - Website Manager
+## Hugh O'Neill — Website Manager
 
 Although not a contributor of any content, Hugh has built and maintains the website.
 So, if you find any errors, technical issues or have a suggestion to improve things please contact Hugh (details on the About page).
