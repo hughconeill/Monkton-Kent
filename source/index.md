@@ -3,10 +3,11 @@
 Welcome to the community history archive for Monkton. 
 This is an ongoing project to gather information and personal histories in the village led by Stuart Horsburgh.
 
-```{admonition} Version 2 
+```{admonition} Version 1
 :class: tip
 
-This is a test version 2 of the new Monkton-in-Thanet history website, adding some new bits:
+This is first public version of the new Monkton-in-Thanet history website, featuring:
+- Stuart's history of the church and comprehensive survey of the churchyard
 - Stuart's 1926 Centenary trail
 - Some of Monkton's history taken from sources on the web
 - Other Monktons around the world

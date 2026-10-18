@@ -16,11 +16,11 @@ This is a not-for-profit endeavour for the benefit of all and the believed conse
 
 This project is led by:
 **Stuart Horsburgh**, 
-Email: [use an image]
+Email: stuartfrancishorsburgh@gmail.com
 
 The website is maintained by:
 **Hugh O'Neill**, 
-Email: [use an image]
+Email: hugh.oneill@croftdata.com
 
 ## Contributing
 
