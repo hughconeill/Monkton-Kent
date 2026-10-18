@@ -60,6 +60,12 @@ Every other Monkton we've found, in the UK and beyond.
 Historical photographs and images.
 :::
 
+:::{grid-item-card} 🙏 Credits
+:link: credits
+:link-type: doc
+Who's behind this project, and what they've contributed.
+:::
+
 ::::
 
 {.toc-heading}
@@ -75,6 +81,7 @@ history/index
 places
 other-monktons
 gallery
+credits
 ```
 
 ## About this project

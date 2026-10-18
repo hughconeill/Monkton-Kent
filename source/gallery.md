@@ -13,6 +13,15 @@ This section will be expanded and divided into sections in the future when the a
 :gutter: 3
 
 :::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1792342488/Ginger_NewInn_dmdiqx.png
+:alt: Ginger in the New Inn 1951
+:target: https://res.cloudinary.com/monkton/image/upload/v1792342488/Ginger_NewInn_dmdiqx.png
+```
+^^^
+Ginger in the public bar of the New Inn 1951
+:::
+
+:::{grid-item-card}
 ```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1786112650/MonktonVillage_b9t5ce.png
 :alt: Monkton Village
 :target: https://res.cloudinary.com/monkton/image/upload/v1786112650/MonktonVillage_b9t5ce.png
