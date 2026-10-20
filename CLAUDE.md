@@ -5,9 +5,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## What this is
 
 A Sphinx documentation site recording the history of Monkton (Thanet, Kent) — led by
-Stuart Horsburgh — currently focused on St Mary Magdalene church: its architecture,
-clergy back to 1291, bells, war memorial, and a full churchyard survey. Content is
-Markdown via MyST, rendered with the Furo theme, and deployed to GitHub Pages.
+Stuart Horsburgh. It started focused on St Mary Magdalene church (architecture, clergy
+back to 1291, bells, war memorial, and a full churchyard survey) and has since grown to
+cover the village's Anglo-Saxon/medieval origins, Terry Marsh's reminiscence columns,
+Stuart's 1926 centenary walk, listed buildings, other places named Monkton worldwide, a
+photo gallery, and a Credits page — see "Architecture" below for the current page list.
+Content is Markdown via MyST, rendered with the Furo theme, and deployed to GitHub
+Pages. See `PROJECT-BRIEF.md` for scope/handover and `README.md` for local setup.
 
 ## Commands
 
@@ -116,4 +120,26 @@ Actions tab) builds the site with `sphinx-build -b html source build/html` and p
 it to GitHub Pages via `actions/deploy-pages`. Work on other branches does **not** go
 live until it is merged to `main` — Version 2 was developed on `Version_2_Terry` and
 went live when PR #1 was merged. The repository is named `Monkton-Kent` on GitHub, so
-the site lives at `https://hughconeill.github.io/Monkton-Kent/`.
+the site builds to `https://hughconeill.github.io/Monkton-Kent/`, which redirects to the
+project's custom domain, `https://monkton-kent.uk/` — that's the URL to share, not the
+`github.io` one.
+
+## Keeping the other project docs current
+
+This repo has three top-level docs, each for a different reader — when a change affects
+what one of them promises, update it in the same turn as the change, not as a follow-up:
+
+- **`CLAUDE.md`** (this file) — for Claude Code: what's actually live vs. scaffolded,
+  file-by-file architecture, and editorial conventions as currently practiced.
+- **`README.md`** — for a human contributor setting up the project locally: install
+  steps, build commands, the project layout tree, and how to add a page.
+- **`PROJECT-BRIEF.md`** — the project's own short brief: scope (what's in/out), who's
+  responsible for what, and handover notes (repo, contacts, where originals are kept).
+  It's meant to stay short enough that a new maintainer reads the whole thing.
+
+In practice this means: adding, removing, or renaming a page updates README.md's
+project-layout tree (and PROJECT-BRIEF.md's scope list, if it changes what the site
+covers); a new contributor, a changed contact, or a changed repo/domain updates
+PROJECT-BRIEF.md's handover notes; and a new convention, dependency, or build step
+updates whichever of the three describes that area. Don't assume one file being right
+means the others are — check all three against the file you're changing.

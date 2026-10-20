@@ -24,6 +24,7 @@ docs-site/
     ├── places.md            # Monkton's listed buildings (Historic England)
     ├── other-monktons.md     # Other places named Monkton, worldwide
     ├── gallery.md           # Photo gallery
+    ├── credits.md            # Who's contributed, and what they've contributed
     ├── _static/images/    # Photos and scans go here (currently grey
     │                       # placeholder JPGs — swap these out)
     ├── _static/custom.css # Site-wide CSS overrides (loaded via html_css_files)
@@ -158,7 +159,10 @@ One-time setup after pushing to GitHub:
    the site will be live at `https://<username>.github.io/<repo-name>/`.
 
 After that, there's no manual deploy step: edit a page, commit, push,
-and the live site updates in a minute or two.
+and the live site updates in a minute or two. For this project, that's
+`https://hughconeill.github.io/Monkton-Kent/`, which redirects to the
+custom domain `https://monkton-kent.uk/` — share the custom domain,
+not the `github.io` link.
 
 ## Deploying
 
