@@ -35,7 +35,11 @@ without Sphinx warnings/errors and renders as expected.
   extensions, Furo theme, brand colors, logo/favicon. Also loads
   `source/_static/custom.css` (via `html_css_files`) for style tweaks the
   theme's `html_theme_options` can't express — currently just left-aligning
-  the sidebar logo, which Furo centers by default.
+  the sidebar logo, which Furo centers by default. `html_js_files` loads
+  GoatCounter analytics (`gc.zgo.at/count.js`, pointed at the
+  `monkton-kent.goatcounter.com` account) on every page via the
+  `data-goatcounter`/`async` attributes Sphinx attaches to the tag — no
+  separate script file or template override needed.
 - `source/index.md` — home page. Its `toctree` is the actual site nav; only pages
   listed there (directly or via a nested `toctree`) are reachable/built into the
   visible site. **When adding a new page, it must be added to a `toctree` or it

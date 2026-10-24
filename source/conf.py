@@ -38,6 +38,11 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 html_css_files = ["custom.css"]
 
+# GoatCounter analytics (privacy-friendly, no cookies) - https://www.goatcounter.com/
+html_js_files = [
+    ("https://gc.zgo.at/count.js", {"data-goatcounter": "https://monkton-kent.goatcounter.com/count", "async": "async"}),
+]
+
 # -- Options for HTML output ---------------------------------------------------
 
 html_theme = "furo"
