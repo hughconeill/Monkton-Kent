@@ -77,7 +77,7 @@ in the churchyard survey itself:
 - **[Private Ernest Fitall](https://www.cwgc.org/find-records/find-war-dead/casualty-details/365926/ernest-fitall/)**,
   The Buffs (East Kent Regiment), 3rd Bn. (service no. 6453; latterly
   426th Agricultural Company, Labour Corps), died 31 October 1918,
-  aged 31. Husband of Fanny Fitall of Monkton Street, Ramsgate. Grave
+  aged 31. Son of Fanny Fitall of Monkton Street, Ramsgate. Grave
   position: "South of Church tower, near South boundary." Headstone
   inscription: "R.I.P. THY WILL BE DONE." (plot 182)
 - **[Private Walter George Long](https://www.cwgc.org/find-records/find-war-dead/casualty-details/365927/walter-george-long/)**,
