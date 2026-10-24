@@ -77,3 +77,23 @@ The ancient **CHURCHYARD** is the only one in Thanet still open for burials, and
 Finally, at one time, though there is no trace of the lines now, on a wall near the W. end someone wrote the following : “Insula rotunda, Tanetos, quam circuit unda, Fertilis et munda, nulla est in orbe secunda.”, which a past vicar of Monkton, Rev. E.H.MacLachlan (1871-84), writing in Archaelogia Cantiana, Vol. 12, translated as follows:- “Thanet, that island round, which waters bound so sound, With fruits so crowned, what second can be found.”
 
 Ancient parish churches, despite their being a very important part of our national heritage, receive no support from Government or the Church Commissioners, the latter being responsible in the main for church administration, education and the payment and housing of the clergy. Responsibility for maintenance and repair of this building therefore rests with the local Church Council, and the funds needed for upkeep are donated or raised by the church members, supported by grants from charitable foundations.
+
+If you feel you would like to help with our expenses, we will be most grateful. There is a slot for donations in the top right hand corner of the wall safe, positioned behind the organ. Thank You.
+
+```{epigraph}
+This is the House of God and He is here.
+
+Pray then to Him who loves you and bids you welcome;
+
+Give thanks for those who, in years past built this place to His glory;
+
+Pray for those today who serve God here and seek to build His Kingdom of Love.
+
+Rejoice in God’s gifts of beauty in art and music, architecture and handicraft;
+
+And worship Him, the one God and Father of us all,
+
+Through our Lord and Saviour, Jesus Christ.
+
+We hope you have enjoyed your visit to our Church, and may God bless you on your way.
+```

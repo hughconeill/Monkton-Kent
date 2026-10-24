@@ -26,5 +26,5 @@ By 2018, the Revd. Cawley had found two more light bells that were installed to 
 
 \#6 (A) 34” 7cwt 9lb from 1880.
 
-There is a long, high, steep, but safe, wooden ladder up to the ringing room, built by village carpenter Robert Jakeman. Beginners of all ages are welcome to start learning, as are established ringers who wish to ring with us.
+There is a long, high, steep, but safe, wooden ladder up to the ringing room, built by village carpenter Robert Jakeman. Beginners of all ages are welcome to start learning, as are established ringers who wish to ring with us. Practice night is presently every Friday from 5–6pm, but you should confirm this with the Bell Secretary beforehand, Heather Gunton, 01843 821585 or 07807 019322.
 

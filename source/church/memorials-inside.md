@@ -56,7 +56,7 @@ Also **MARGARET** his wife, daughter of / JOHN COLLARD Gent of Broomfield / in t
 
 To the memory of / **MARY** / eldest daughter of JAMES and MARGARET **WHITE** / late of Monkton Parsonage / who died February the 6<sup>th</sup> 1863 aged 89 years / her remains are interred in a vault / in the church yard. // *\[buried 13.2.1863, aged 89 years\]*
 
-In the family vault in this chancel / are the remains of / **FRANCES**, fourth daughter of the above / and wife of STEPHEN **SHARP** late of Littlebourne, who died December the 20<sup>th</sup> 1829 aged 50 years. /// *\[FRANCES SHARP nee WHITE, Nonington, buried 29.12.1829, aged 51 years\]*
+In the family vault in this chancel / are the remains of / **FRANCES**, fourth daughter of the above / and wife of STEPHEN **SHARP** late of Littlebourne, who died December the 20<sup>th</sup> 1829 aged 50?51 years. /// *\[FRANCES SHARP nee WHITE, Nonington, buried 29.12.1829, aged 51 years\]*
 
 4.  *\[ chancel floor tomb closest to the nave \]*
 
@@ -64,7 +64,7 @@ In a vault beneath / are deposited the remains of / **JOHN DOWKER**, late of thi
 
 Also of **FRANCES** his wife / who died January 24<sup>th</sup> 1791 / aged 86 years. //
 
-Also of **ELIZABETH** daughter of the above / who died December 18<sup>th</sup> 1752(1), aged 12 years. //
+Also of **ELIZABETH** daughter of the above / who died December 18<sup>th</sup> 1752?51, aged 12 years. //
 
 Likewise of **JOHN**, son of the above / late of Stourmouth who died Sept. 12<sup>th</sup> 1781 / aged 59 years. // *\[buried 16.9.1781\]*
 
@@ -88,6 +88,8 @@ Also **ELIZABETH**, his wife, who died / September the 14<sup>th</sup> 1858 aged
 
 **JANE** died March 10<sup>th</sup> 1826 aged 24 years. /// *\[Gore St, baptised 28.3.1802, buried 18.3.1826, aged 24 years\]*
 
+*\[THE 14 CHILDREN OF HENRY & ELIZABETH COLLARD, from the parish registers: Henry, baptised 19.5.1796. Margaret, baptised 25.4.1797. Mary Ann, baptised 31.1.1799, buried 15.5.1817, aged 18 years. Elizabeth, baptised 11.12.1800. Jane, baptised 28.3.1802, buried 18.3.1826, aged 24 years. Harriet, baptised 21.10.1803. Emma, baptised 15.9.1805. Ambrose, baptised 1807. John, baptised 11.12.1808 -- Guess? later John White Collard, East Peckham, buried 21.9.1861, aged 53 years. Charles, born 24.10.1810, baptised 25.11.1810 (or baptised 5.8.1812?). William, born ?.2.1812, baptised 5.8.1812. Fanny, born 12.3.1814, baptised 20.8.1816. Maria, born 11.4.1816, baptised 20.8.1816. James, baptised 12.12.1819, buried 20.6.1822, aged 4 years.\]*
+
 7.  *\[ north wall nave in the middle -- where the stolen clock was hung \]*
 
 In memory of / **HENRY THOMAS WILLETT** / Monkton Parsonage / Church Warden for 40 years. / Died Sept 5<sup>th</sup> 1945 / presented by his family. ///
@@ -106,7 +108,7 @@ Also **Mrs CATHERINE BURKETT** / Widow of the above named / Mr JOHN BURKETT / wh
 
 10. *\[ south wall nave closest to the chancel and pulpit \]*
 
-Sacred to the memory of **THOMAS DENNE** of the ville of Sarre Esq. // *\[son of Thomas & Elizabeth, baptised 29.10.1766, buried 24.3.1821, buried 24.3.1821, aged 54 years\]*
+Sacred to the memory of **THOMAS DENNE** of the ville of Sarre Esq. // *\[son of Thomas & Elizabeth, baptised 29.10.1766, buried 24.3.1821, aged 54 years\]*
 
 Whose life was eminently distinguished by the most conscientious observance of / every religious, moral and social duty. //
 
@@ -114,7 +116,7 @@ His piety was sincere, his charities were extensive and unostentatious / and the
 
 He died ( to the great grief of his family and friends ) on the 16th day of March 1821, aged 64?54 years. / His memory will be long cherished, and his loss is severely felt by a numerous / circle of friends and relatives, to whom his worth was known / and by whom it can be best appreciated. //
 
-He married in November 1780, **MARY**, only child of the late HENRY COLLARD esq. / of Gore Street in this parish, who died June 18<sup>th</sup> 1800 aged 54?34 Years. / by whom he had issue, one son, *{THOMAS COLLARD DENNE}* who died April 15<sup>th</sup> 1797, aged 11 months . And two daughters **MARY ELIZABETH** wife of the REVD. JOHN **HILTON**, / And **JANE** who died November 14<sup>th</sup> 1817 aged 23 years. //
+He married in November 1780, **MARY**, only child of the late HENRY COLLARD esq. / of Gore Street in this parish, who died June 18<sup>th</sup> 1800 aged 54?34 Years. / by whom he had issue, one son, *{THOMAS COLLARD DENNE}* who died April 15<sup>th</sup> 1797, aged 11 months . And two daughters **MARY ELIZABETH** wife of the REVD. JOHN **HILTON**, / And **JANE** who died November 14<sup>th</sup> 1817 aged 23 years. // *\[Thomas Collard Denne, son of Thomas & Mary, buried 18.4.1797\] \[Jane Denne, Sarre, buried 21.11.1817, aged 23 years\]*
 
 In August 1816 he married his second wife **MARY,** daughter of GEORGE SLATER esq. / of Margate, who now survives him, and with sincere sorrow deplored his loss. //
 
@@ -136,12 +138,13 @@ Here lyeth buried the body / **of MARGARET PARKAR** who had / two husbands. 1. G
 
 14. *\[ ledger stone black - hidden under the nave floor at the west end -- others in white stone \]*
 
-{Coat of Arms} Here lieth ye Body of **MR JNO: *(John*) AYLING**, late vicar of this Church 48 years, who married ELIZ: *(Elizabeth*) ye: Daugr (*daughter*) of MR ABRAHAM TERRY sometime of this Parish. By whome He had issue 4 Chil: *(children)* Viz: ELIZ: *(Elizabeth*) SETH: ANN & ELIZABETH: two Surviving Seth & Ann. He departed This life Decr: *(December*) ye 4<sup>th</sup> : 1710 Aged 74 years. // *\[clerk, vicar of Monkton & Birchington 48 years, buried 8.12.1710\]*
+{Coat of Arms} Here lieth ye Body of **MR JNO: *(John*) AYLING**, late vicar of this Church 48 years, who married ELIZ: *(Elizabeth*) ye: Daugr (*daughter*) of MR ABRAHAM TERRY sometime of this Parish. By whome He had issue 4 Chil: *(children)* Viz: ELIZ: *(Elizabeth*) SETH: ANN & ELIZABETH: two Surviving Seth & Ann. He departed This life Decr: *(December*) ye 4<sup>th</sup> : 1710 Aged 74 years. // *\[clerk, vicar of Monkton & Birchington for 48 years, buried 8.12.1710\]*
 
 Here lieth interr'd the Body of **ELIZ: *(Elizabeth***) the Daughr: (*daughter*) of JOHN **AYLING** Vicr: *(Vicar*) of this Church and **ELIZ: *(Elizabeth***) his wife who departed this life June the 23<sup>rd</sup>: A.D: 1706 in the 21<sup>st</sup>: Year of her Age. {Skull motif} // *\[Elis. Ayling, daughter, buried 26.6.1706\]*
 
 Here lyes ye Body of **THO: *(Thomas***) ye son of MR Wm (*William*) **YOUNG** & ANNE his wife who died Janr: *(January*) Ye 23<sup>rd</sup> 1715 Aged 9 months // *\[THOMAS YOUNG, son of Mr ......? Vicar of Chislet & his wife Anne, buried 26.1.1715\]*
 
-**M(ARY?) YOUNG** Died Febr *(February*) 1712 Aged 4 m (*months*) 
+**M(ARY?) YOUNG** Died Febr *(February*) 1712 Aged 4 m (*months*) ///
+
 *\[WILLIAM YOUNG married AN(NE) AYLING 12.10.1706\]*
 
