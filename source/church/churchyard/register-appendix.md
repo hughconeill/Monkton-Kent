@@ -31,7 +31,7 @@ THE 2 CHILDREN OF SACKETT & MARY ADAMS :- EMMA ADAMS (1831-55).
 
 **15.** MARY SHARP, Canterbury, buried 29/5/1868, aged 64 years. ELIZA ANN EMMA SHARP, Myrtle House, Dane Hill, Margate, buried 9/7/1898, aged 79 years.
 
-**18**. *\[Guess ? :- JOHN HOGBIN, Monkton, aged 70 years, buried 19/6/1870. ? OR.....??? Birchington, buried 2/7/1897, aged 76 years\]* HARRIET HOGBIN nee COLLARD, *\[Guess? Birchington, baptised 21/10/1803, daughter of Henry & Elizabeth Collard, buried 18/1/1898, aged 72 years"\]*
+**18**. *\[Guess ? :- JOHN HOGBIN, Monkton, aged 70 years, buried 19/6/1870. ? OR...??? Birchington, buried 2/7/1897, aged 76 years\]* HARRIET HOGBIN nee COLLARD, *\[Guess? Birchington, baptised 21/10/1803, daughter of Henry & Elizabeth Collard, buried 18/1/1898, aged 72 years"\]*
 
 **19**. *\[Guess?:- HENRY COLLARD, son of Henry & Elizabeth Collard, baptised 19/5/1796. \] ?*
 
@@ -45,9 +45,9 @@ THE 2 CHILDREN OF SACKETT & MARY ADAMS :- EMMA ADAMS (1831-55).
 
 MID "? to the ? of / ? N ? COLLARD / ? / who died ? / ? / ELIZABETH wife of the above / ? / Mr ? JAMES WHITE / ? / who died ? 11<sup>th</sup> 1838 ? / aged ? //
 
-LHS "...second daughter...."
+LHS "...second daughter..."
 
-MID/LHS......"ELIZABETH / third daughter of HENRY & ELIZth COLLARD / who died o? of Mar? 1889? / in the ? /? COLLARD / wife of AMBROSE ? years of this parish / eldest daughter ? / who died Nov ? aged 72 years / also of the ? / AMBROSE COLLARD / who died ? May ? th 1912 ? aged 77 years" //
+MID/LHS..."ELIZABETH / third daughter of HENRY & ELIZth COLLARD / who died o? of Mar? 1889? / in the ? /? COLLARD / wife of AMBROSE ? years of this parish / eldest daughter ? / who died Nov ? aged 72 years / also of the ? / AMBROSE COLLARD / who died ? May ? th 1912 ? aged 77 years" //
 
 **23**. "also of HENRY COLLARD / New House Monkton / died November ?th ? / aged ? years // Guess? Buried 21/11/1928, aged 92 years.
 
@@ -57,7 +57,7 @@ MID/LHS......"ELIZABETH / third daughter of HENRY & ELIZth COLLARD / who died o?
 
 **26**. GEORGE RIGDEN, Minster, buried 23/9/1852, aged 58 years. SARAH RIGDEN, Margate, buried 27/12/1880, aged 77 years.
 
-" .....dejected wife to mourn / her irreparable loss //
+" ...dejected wife to mourn / her irreparable loss //
 
 **27.** FALLON HORNE, 123 Newgate St. London, baptised 7.8.1809, buried 16/10/1858, aged 44 years. EDWARD HENRY HORNE, Manston, buried 23/11/1865, aged 49 years. SARAH HORNE, Athelton House, Margate, buried 26/5/1897, aged 72 years.
 
@@ -77,13 +77,13 @@ May be unconnected...? MARGARET MURIEL (Muriel Margaret?) SARGENT BROOKE MEARES,
 
 **37.** UNA ELLA CLITHEROE MEARS, Beckenham, baptised 2/7/1899, buried 22/2/1900, aged 8 months*. {small stone cross -- U. E. C. M.}*
 
-**42**. MARY? / ? SARAH? Daughter of William....
+**42**. MARY? / ? SARAH? Daughter of William...
 
 Also of the above WILL ? SMITH / who died the 19 of July 1800 / aged 69 years ///
 
 *\[Guess?:- MARY SMITH, daughter of William & Sarah Smith, baptised 17/5/1746.\] ?*
 
-*\[Guess?:- SARAH SMITH, Monkton, buried 8/1/1818, (41). OR ...... MARGARET SMITH, St Lawrence, buried 5/11/1822, (37) \]*
+*\[Guess?:- SARAH SMITH, Monkton, buried 8/1/1818, (41). OR ... MARGARET SMITH, St Lawrence, buried 5/11/1822, (37) \]*
 
 **43**. THOMAS IMPETT, buried 30/12/1838, aged 71 years. WILLIAM IMPETT, Ramsgate, buried 12/3/1856, aged 52 years. Guess:-? MARY IMPETT, Ramsgate, buried 15/6/1851, aged 84 years. ANN IMPETT, Middlesex Lunatic Asylum, Hanwell, buried 22/8/1865, aged 65 years.
 
@@ -107,7 +107,7 @@ Also of the above WILL ? SMITH / who died the 19 of July 1800 / aged 69 years //
 
 **58**. JOHN HARVEY, Wingham, son of Thomas & Mary Harvey, baptised 7/11/1756, buried 28/4/1839, aged 82 years. GEORGE HARVEY, buried 12/5/1808*. \[Guess? ELIZABETH HARVEY, buried 6/11/1845, aged 85 years \]?*
 
-**59.** MARY COLLARD, buried 30/8/1780. MARY DENNE, wife of Thomas Denne, buried 23/6/1800, aged 34 years. HENRY COLLARD, buried 2/9/1809, aged 79 years.
+**59.** MARY COLLARD, buried 30/8/1780. MARY DENNE, wife of Thomas Denne, buried 23/6/1800, aged 34 years. HENRY COLLARD, buried 2/9/1809, aged 79 years. *Listed Grade II.*
 
 **66**. RICHARD COOPER, buried 22/8/1725. *\[Guess? MARY COOPER, widow, buried 26/10/1726 OR !!! buried 21/4/1737 \]?*
 
@@ -119,11 +119,11 @@ THE 6 CHILDREN OF RICHARD & MARY :- WILLIAM COOPER, baptised 13/12/1716, buried 
 
 **69**. EDWARD STARK, buried 6/11/1859, aged 54(5?) years. THOMASINE STARK, buried 4/4/1869, aged 62 years.
 
-**70**. THOMAS BRETT, \[Guess? son of Thomas & Elizabeth, baptised 3/7/1803, buried 10/4/1878, aged 76 years OR ..... son of James & Mary, baptised 19/6/1768, buried 10/5/1843, aged 75 years \]? (also ref. 75!) *\[?Guess - SARAH BRETT, Ramsgate, buried 24/1/1884, aged 74 years\]*
+**70**. THOMAS BRETT, \[Guess? son of Thomas & Elizabeth, baptised 3/7/1803, buried 10/4/1878, aged 76 years OR ... son of James & Mary, baptised 19/6/1768, buried 10/5/1843, aged 75 years \]? (also ref. 75!) *\[?Guess - SARAH BRETT, Ramsgate, buried 24/1/1884, aged 74 years\]*
 
 **74**. \[Guess? THOMAS HOLLAND(S), buried 31/8/1761. THOMAS HOLLAND, son of Jno & Elisabeth, baptised 15/9/1717.\]?* Catherine Holland(s), buried 28/9/1756.
 
-**75.** THOMAS BRETT, son of James & Mary, baptised 19/6/1768, buried 10/5/1843, aged 75 years. JOHN BRETT, Monkton, baptised 25/10/1795, buried 15/1/1816, aged 20 years. ELIZABETH BRETT, Minster, buried 3/11/1899, aged 66 years ?? OR.....*\[Guess? ELISABETH BRETT, buried 6/4/1852, aged 84 years.\]*
+**75.** THOMAS BRETT, son of James & Mary, baptised 19/6/1768, buried 10/5/1843, aged 75 years. JOHN BRETT, Monkton, baptised 25/10/1795, buried 15/1/1816, aged 20 years. ELIZABETH BRETT, Minster, buried 3/11/1899, aged 66 years ?? OR...*\[Guess? ELISABETH BRETT, buried 6/4/1852, aged 84 years.\]*
 
 **76**. JAMES SMITH, baptised 19/3/1770, buried 15/12/1830, aged 61 years. NANNY SMITH, buried 13/6/1831, aged 80 years. FRANCIS SMITH, baptised 5/3/1772, buried 24/2/1825, aged 53 years. SIDNEY SMITH, Sturry, buried 10/11/1856, 53 years. ELIZABETH SMITH, Margate, buried 20/7/1858, aged 84 years. FRANCIS RICHARD SMITH, Eastbourne, buried 11/2/1822, aged 23 years. JAMES SMITH, Vincent St. John, buried 29/9/1824, aged 23 years. JAMES SMITH, buried 7/8/1793. ELIZABETH SMITH, buried 10/11/1807.
 
@@ -147,9 +147,9 @@ THE 6 CHILDREN OF RICHARD & MARY :- WILLIAM COOPER, baptised 13/12/1716, buried 
 
 **101**. EDWARD KEELER, buried 14/9/1766.
 
-**102**. WILLIAM DENNE, buried 2.10.1816, aged 47 yrs? ELIZABETH DENNE, buried 29.9.1819, aged 82? SARAH DENNE, Ramsgate, baptised 30/11/1775, buried 4/4/1846, aged 70 years. MARTHA DENNE, Ramsgate, baptised 15/5/1771, buried 23/3/1849, aged 77 years.
+**102**. WILLIAM DENNE, buried 2.10.1816, aged 47 years? ELIZABETH DENNE, buried 29.9.1819, aged 82? SARAH DENNE, Ramsgate, baptised 30/11/1775, buried 4/4/1846, aged 70 years. MARTHA DENNE, Ramsgate, baptised 15/5/1771, buried 23/3/1849, aged 77 years.
 
-THE 9 CHILDREN OF THOMAS & ELIZABETH DENNE :- JOHN DENNE, baptised 31/8/1762, buried 19/9/1762. ELIZABETH DENNE, baptised 25/8/1763, buried 2/9/1763. ELIZABETH DENNE, baptised 20/9/1764, ? buried 29/9/1819? Aged 82? . THOMAS DENNE, baptised 29/10/1766, buried Sarre, buried 24/3/1821, aged 54 years. WILLIAM DENNE, baptism 5/1/1769, St Nicholas, buried 2/10/1816, aged 47 years. MARTHA DENNE, Ramsgate, baptised 15/5/1771, buried 23/3/1849, aged 77 years. MARY DENNE, baptised 26/5/1773. SARAH DENNE, baptised 30/11/1775, Ramsgate, buried 4/4/1846, aged 70 years.
+THE 9 CHILDREN OF THOMAS & ELIZABETH DENNE :- JOHN DENNE, baptised 31/8/1762, buried 19/9/1762. ELIZABETH DENNE, baptised 25/8/1763, buried 2/9/1763. ELIZABETH DENNE, baptised 20/9/1764, ? buried 29/9/1819? Aged 82? . THOMAS DENNE, baptised 29/10/1766, buried Sarre, buried 24/3/1821, aged 54 years. WILLIAM DENNE, baptism 5/1/1769, St Nicholas, buried 2/10/1816, aged 47 years. MARTHA DENNE, Ramsgate, baptised 15/5/1771, buried 23/3/1849, aged 77 years. MARY DENNE, baptised 26/5/1773. SARAH DENNE, baptised 30/11/1775, Ramsgate, buried 4/4/1846, aged 70 years. *Listed Grade II.*
 
 **112**. \[Guess? ELIZABETH ADAMS, buried 10/4/1801 \]?*
 
@@ -165,7 +165,7 @@ THE 9 CHILDREN OF THOMAS & ELIZABETH DENNE :- JOHN DENNE, baptised 31/8/1762, bu
 
 **149**. VALENTINE CANTIS, church warden 25/4?, buried 9/4/1732. SARAH CANTIS, buried 22/9/1754.
 
-**151**. *\[Guess? SARAH CANTIS, buried 4/3/1711. OR.... Buried 26.7.1730 \]?*
+**151**. *\[Guess? SARAH CANTIS, buried 4/3/1711. OR... Buried 26.7.1730 \]?*
 
 **154**. "Here lieth the Body of / MRS MARY CANTIS, wife ?daughter of / MR VALENTINE CANTIS, of the City / of Canterbury. She departed this / life March the 30<sup>th</sup> 1762. Aged 71 / a ? Mother ? ?faid VALENTINE CANTIS / who died the 14<sup>th</sup> of Dec. 1773 / aged 78 years / A ? Ho? / ? also ? / VALENTINE MARY ? CANTIS / who died Dec. 16 ? 1791 ? aged ? years / And like ?? children / \[tree split\] / ? the ? / and ?? / ?? / 1787 aged ? / ? JOHN ? of the ? / ? Son ? / and ?? 7 / ? 1?00 aged 71 ?" //
 
@@ -210,4 +210,6 @@ THE 12 CHILDREN OF WILLIAM (labourer) & MARY ANN(E) STUDHAM :- GEORGE STUDHAM, b
 **208**. \[Guess? GEORGE HORNE, Birchington, buried 9/11/1846, aged 86 years. ANNE HORN, Ware, Sandwich, 17/11/1880, aged 97 years \]?*
 
 **211.** ???? SAMUELL 2026
+
+**237.5.** *(new memorial, 2026)* In loving memory / of / JOHN STUART HILL / 5.9.1934 -- 24.1.2020 / JANE ELLEN HILL / 30.4.1938 -- 26.2.2025 / much missed by / all the family
 

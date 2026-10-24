@@ -279,8 +279,8 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | HENHAM, Geraldine Mary | ?.?.???? -- 25.1.1932 (65) | 150 | A2 |
 | HENHAM, Revd. Hubert Collison *(Vicar 23-46*) | ?.?.???? -- 21.1.1948 (84) | 153 | A5 |
 | HEYES, Walter Stephen | ?.?.???? -- 11.7?.1968 ? (68) |  |  |
-| HILL, Jane Ellen | ?.?.???? -- 26.2.2025 (86) |  |  |
-| HILL, John Stuart | ?.?.???? -- 24.1.2020 (86) |  |  |
+| HILL, Jane Ellen | 30.4.1938 -- 26.2.2025 (86) | Crem. West 237.5 |  |
+| HILL, John Stuart | 5.9.1934 -- 24.1.2020 (85) | Crem. West 237.5 |  |
 | HILLS, George | ?.?.???? - 30.8.1868 (68) 156 & | 7 |  |
 | HILLS, Sarah / Elizabeth | ?.?.???? -- 9.7.1878 (70) 156 & | 7 |  |
 | HILTON, Revd John |  | 10 Nave |  |
@@ -289,8 +289,8 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | HINDMARSH ? , Sarah | ?.?.???? -- 2.3.1833 (72) | 52 |  |
 | HOEY, Marjorie Kathleen Sarah (*ALLNUT SMITH)* | 21.2.1887 -- 26.6.1974 (87) | 170 | B22 |
 | HOGBIN ?, Harriet *\[ nee Collard?* \] ? | 21.10.1803 -- 14.1.1898 (72) | 18 |  |
-| HOGBIN ? , ? John ? | 28.6.1897 (76) OR.... - ? 19.6.1870 (70) ? | 18 |  |
-| HOLDEN ?Ralph John -- | 8.3.1938, 52yrs?*{unmarked E. of 81, b/n 81&96 -- under seat!}* |  | E4/8 |
+| HOGBIN ? , ? John ? | 28.6.1897 (76) OR... - ? 19.6.1870 (70) ? | 18 |  |
+| HOLDEN ?Ralph John -- | 8.3.1938, 52 years?*{unmarked E. of 81, b/n 81&96 -- under seat!}* |  | E4/8 |
 | HOLDEN, Craig William | ?.?.????--10.6.1961 ? *{unmarked near 81 under seat}* |  | E4/8 |
 | HOLDEN, Cyril Ralph Charles | ?.?.????--4.3.1958 ? (49) *{unmarked nr.81}* |  | E4/8 |
 | HOLDEN, Ellen Elizabeth | ?.?.????--14.7.1968? (86) *{unmarked nr.81 under seat*) |  | E4/8 |
@@ -497,7 +497,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | SHARP, Stephen *(husband of Frances*) | ??? | 15 |  |
 | SHONK, Edith Emily | ?.?.???? -- 2.2.1969 (86?) | 177 | B13 |
 | SHONK, Ernest William (*'Bill')* | ?.?.1919? -- 17.8.1968 (84) | 177 | B13 |
-| SHONK, Ezra George | ?.?.???? -- ?1.5.195 ? (60?) | 185 | B1 |
+| SHONK, Ezra George | ?.?.???? -- ?1.5.1937? (60?) | 185 | B1 |
 | SHONK, George | ??? - 8.3.1947 (75) | 185 | B1 |
 | SHONK, Sarah | ?.?.???? -- 16.2.1922?23 (66?69) | 177 | B13 |
 | SHONK, Stephen | ?.?.???? -- 2.9.1909?8 (59?57) | 177 | B13 |
