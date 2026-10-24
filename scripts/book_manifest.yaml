@@ -1,0 +1,49 @@
+# Manifest for scripts/build_book.py — defines what goes into the printable
+# history book, and in what order. See scripts/README.md for how to use this.
+#
+# Two ways to list content for a part:
+#   sources: [a.md, b.md]   — an explicit, ordered list (for hand-picked pages)
+#   glob: "some/dir/[0-9]*.md"  — a glob, sorted alphabetically (for numbered
+#                                  article series — new instalments are picked
+#                                  up automatically, no manifest edit needed)
+# Paths are relative to source/.
+
+title: "The History of Monkton"
+subtitle: "Thanet, Kent"
+cover_image: _static/monkton_coa.png
+output: build/book/the-history-of-monkton.docx
+
+parts:
+  - title: "The Church of St Mary Magdalene"
+    sources:
+      - church/short-guide.md
+      - church/bells.md
+      - church/clergy.md
+      - church/richard-culmer.md
+      - church/war-memorial.md
+      - church/memorials-inside.md
+
+  - title: "Origins and the 1926 Centenary Walk"
+    sources:
+      - history/origins.md
+      - history/monkton-1926.md
+
+  - title: "Monkton Memories"
+    subtitle: "by Terry Marsh"
+    glob: "history/monkton-memories/[0-9]*.md"
+
+  - title: "A Farming Life"
+    subtitle: "by Terry Marsh"
+    glob: "history/farming-life/[0-9]*.md"
+
+  - title: "Places"
+    sources:
+      - places.md
+
+  - title: "Other Monktons"
+    sources:
+      - other-monktons.md
+
+  - title: "Credits"
+    sources:
+      - credits.md

@@ -4,3 +4,9 @@ furo>=2024.1.29
 sphinx-copybutton>=0.5.2
 sphinx-design>=0.5.0
 linkify-it-py>=2.0.0    # required by the "linkify" MyST extension in conf.py
+
+# For scripts/build_book.py (the printable history book) - not needed to
+# build or serve the website itself.
+python-docx>=1.1.0
+PyYAML>=6.0
+requests>=2.31

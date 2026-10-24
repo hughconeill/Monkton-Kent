@@ -66,6 +66,9 @@ Markdown and lives in the `source/` folder.
 
 - Source files: Markdown in `source/`, built with Sphinx
   (MyST parser + Furo theme).
+- `make book` additionally compiles the history/church content (not the
+  churchyard survey database, not project/nav pages) into a single
+  printable `.docx` book — see `scripts/README.md`.
 - On every push to `main`, a GitHub Actions workflow
   (`.github/workflows/deploy.yml`) automatically builds the site and
   publishes it to GitHub Pages. No manual deploy step. Work on any

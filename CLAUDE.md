@@ -24,6 +24,8 @@ make clean                         # remove build/
 make livehtml                      # live-reload dev server (needs sphinx-autobuild,
                                     #   not currently in requirements.txt — pip install it first)
 python3 -m http.server -d build/html 8000   # serve a built site locally
+make book                          # build the printable history book (.docx) -
+                                    #   see scripts/README.md
 ```
 
 There is no test suite or linter configured — "correctness" here means the site builds
@@ -127,6 +129,19 @@ went live when PR #1 was merged. The repository is named `Monkton-Kent` on GitHu
 the site builds to `https://hughconeill.github.io/Monkton-Kent/`, which redirects to the
 project's custom domain, `https://monkton-kent.uk/` — that's the URL to share, not the
 `github.io` one.
+
+## The printable history book
+
+`scripts/build_book.py` (`make book`) converts the history/church content into a
+polished `.docx` — see `scripts/README.md` for the full guide. In brief: it's a
+purpose-built Markdown→docx converter (not a general MyST parser, so new syntax on a
+page in its scope may need the converter extending — the guide explains what it
+currently handles), driven by `scripts/book_manifest.yaml`, which lists which pages go
+in (explicit lists for one-off pages, `glob` for the numbered Terry Marsh series so new
+instalments are picked up with no manifest edit). It deliberately excludes the
+churchyard survey pages (too large/database-like for a book) and project/nav pages
+(`about.md`, `index.md`). Output goes to `build/book/` (gitignored, regenerated on
+demand) — never commit the `.docx` itself.
 
 ## Keeping the other project docs current
 

@@ -11,6 +11,7 @@ actually live on the site versus still in progress.
 docs-site/
 ├── requirements.txt      # Python dependencies
 ├── Makefile / make.bat   # Build commands
+├── scripts/              # build_book.py - the printable history book (see its README.md)
 └── source/
     ├── conf.py           # Sphinx configuration
     ├── index.md          # Home page
@@ -105,6 +106,18 @@ make livehtml
 
 This opens a local server that automatically rebuilds and refreshes
 your browser whenever you save a file — much faster for writing.
+
+## Printable history book
+
+```bash
+make book
+```
+
+Converts the history/church content (not the churchyard survey data, and
+not project/navigation pages) into a single polished `.docx` at
+`build/book/the-history-of-monkton.docx`. See `scripts/README.md` for how
+it works, how to add new content to it, and what to do after opening it
+in Word.
 
 ## Adding new pages
 
