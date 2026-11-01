@@ -37,8 +37,8 @@ Monkton was created a vicarage with chapels at Birchington & Wade.
 |------|------|
 | 1367 | HENRY de WOOTON |
 | 1369 | ROBERT de WALLCOTE |
-| 1377 | THOMAS ? HENEWAY |
-| 1402 | AMALDAS TONGE |
+| 1377 | THOMAS HENEWAY |
+| 1402 | AMALDUS TONGE |
 | 1408 | WILLIAM SMITH |
 | 1417 | PHILIP PEMBETHIGH |
 | No date | RICHARD WYNWYCH |
@@ -60,7 +60,7 @@ Monkton was created a vicarage with chapels at Birchington & Wade.
 | 1585 | RICHARD COLFE |
 | 1589 | JOHN BRIDGES |
 | 1590 | HENRY PARRY AM |
-| 1594 | RALF? TALBOYS |
+| 1594 | RALF TALBOYS |
 | 1596 | JOSEPH POPE AM |
 | 1611 | JOSEPH CLERKE *(also Vicar of Minster)* |
 | 1642 | NICHOLAS THOROGOOD *(nonconformist) { also THOROWGOOD }* |

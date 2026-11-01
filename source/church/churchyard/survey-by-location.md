@@ -180,7 +180,7 @@ Sacred to the memory of / **AMBROSE COLLARD** / of this parish / who died Februa
 
 Also / **MARY ELIZABETH COLLARD** / his wife / who died September 11<sup>th</sup> 1884 / aged 71 years ///
 
-22. *\[ large collapsed block tomb, with metal railing stumps \]*
+22. *\[ large collapsed chest tomb, with metal railing stumps \]*
 
 RHS:- ?beneath ? deposited / the ? of / **JOHN WHITE** ? to the memory ? / ? //
 
@@ -350,8 +350,11 @@ In / loving memory of / **SARAH ANN READ** / died Jan. 30<sup>th</sup> 1923 / ag
 
 Also **EDMUND AUSTIN READ** / husband of the above / died March 22<sup>nd</sup> 1938 / aged 78 / "At rest" ///
 
-END OF ROW, SOLITARY GRAVE NEAR CHURCH's WEST DOOR
+```{admonition} 🧭 Location help
+:class: note
 
+END OF ROW, SOLITARY GRAVE NEAR CHURCH's WEST DOOR
+```
 42. *\[ tall rectangular stone memorial, small tablet leaning against it at the front \]*
 
 In memory / **? MARY?/?SARAH?** ? / ? daughter of WILLIAM ? / and SARAH **SMITH** who died / March 23<sup>rd</sup> 1797? aged ? years / In blooming youth ? / I friends to ? / ? Friends for ? / For Christ above in peace ? / My life was short ? be longer ? / God ? it be. // *\[Guess? MARY SMITH, baptised 17.5.1746\]*
@@ -518,7 +521,11 @@ END OF ROW. RETURN TO SINGLE GRAVE BY CHURCH PORCH NORTH
 
 ??? ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 START OF ROW BY CHURCH PORCH , ***OTHER SIDE*** OF THE PATH
+```
 
 66. *\[ square stone memorial \]*
 
@@ -1032,7 +1039,8 @@ S ? C ? \<\<hh of the B? **R P WHISH ?** Died ? August 18th ? 1868 ? aged 80 ? /
 
 129. *\[ stone coffin-shaped memorial on slab, shaped roof with motto, writing on both sides, same as #130 \]*
 
-? **EWAN HUGH MacLACHLAN** ?? // Vicar of Monkton *(from 1871)* fell asleep Feb ? 1884 aged 64 years // ?? path of the // ?? is as the s ? ne light which shineth ? and more unto thy grief ? /// \[Woodford, Essex, buried 14<sup>th</sup> Feb. 1884, aged 64 years\]
+? **EWAN HUGH MacLACHLAN** ?? // Vicar of Monkton *(from 1871)* fell asleep Feb ? 1884 aged 64 years // ?? path of the // ?? is as the s ? ne light which shineth ? and more unto thy grief ? /// \
+*[Woodford, Essex, buried 14<sup>th</sup> Feb. 1884, aged 64 years\]*
 
 130. *\[ stone coffin-shaped memorial on slab, shaped roof with motto, writing on side, 3-sided kerbing, same as #129 \]*
 
@@ -1056,7 +1064,11 @@ MIDDLE TABLET:- "and our dad too" *\[ **CYRIL JOSEPH BOYNE**? \]* // *\[Upper Ha
 
 FOOT TABLET:- Also / **ALICE M DAWSON** *\[ sister to EDITH \]* / Died 13<sup>th</sup> Jan 1985 aged 85 years /// *{ organist/pianist for Monkton Church, Methodist Chapel & School }*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NEAR SOUTH WALL. *N.B. small rectangular metal fence by the wall -- no grave or memorials ? !!!*
+```
 
 134. *\[ square stone memorial, 4-sided kerbing, large plot, stone flower pot in middle \]*
 
@@ -1246,7 +1258,11 @@ Also / **HENRY THOMAS WILLETT** / Died September 5 1945 / aged 79 years / "And s
 
 In / loving memory of / a dear husband and father / **JOHN FAGG** / Died Oct 1<sup>st</sup> 1945 aged 56 / "til we meet again" ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF THIS ( VERY SHORT ! ) ROW
+```
 
 164. *\[ tall rectangular stone memorial \]*
 
@@ -1326,7 +1342,11 @@ Also / her husband **/ RICHARD ARTHUR LUNN** / 19<sup>th</sup> Sept 1888 -- 20<s
 
 *\[EDWIN - ?.?.1938 - 28.9.2023 (85) \] MARY ?.?.1938 -- 18.5.2025 (86) \]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF THIS ( VERY SHORT ! ) ROW, NOW BY THE CHURCH
+```
 
 176. *\[ rectangular stone memorial, 3-sided kerbing \]*
 
@@ -1426,7 +1446,7 @@ Also of the above / **THOMAS SMITH** / who died March 27<sup>th</sup> 1898 / age
 
 190. *\[ 3-sided kerbing, flat tablet at foot \]*
 
-In Loving Memory of / My Dear Husband / WILLIAM THOMAS BUSH / Dearly beloved father of AUDREY ? / fell asleep ?6<sup>th</sup> Sept. 1965 aged 67 / At rest. ///
+In Loving Memory of / My Dear Husband / **WILLIAM THOMAS BUSH** / Dearly beloved father of AUDREY ? / fell asleep ?6<sup>th</sup> Sept. 1965 aged 67 / At rest. ///
 
 ??? /// *\[ **SAYER** - baby ??? \] Barbara Sayer, Monkton, daughter of William Herbert, plasterer, and Ella Emily Sayer, baptised 29.7.1935, buried 30.11.1935, aged 3 months\]*
 
@@ -1492,7 +1512,7 @@ In loving memory of / **NEIL PATRICK SMITH** / 4<sup>th</sup> September 1947 -- 
 
 MIDDLE TABLET:- **WILLIAM HENRY CHARLES / SMITH** / 31.5.1924 -- 29.6.2001 / aged 77 / Father of NEIL / son of CHARLES / "sadly missed by his wife / and all the family" //
 
-FOOT TABLET**:- LILIAN AMELIA SMITH** **/ nee HAMMON** / 8.7.1927 -- 14.6.2022 / "Reunited with / her husband and son / loved and missed / by her family" //
+FOOT TABLET:- **LILIAN AMELIA SMITH / nee HAMMON** / 8.7.1927 -- 14.6.2022 / "Reunited with / her husband and son / loved and missed / by her family" //
 
 FOOT TABLET:- **CHARLES WILLIAM SMITH** / Died 2<sup>nd</sup> March 1957 aged 57 ///
 
@@ -1608,7 +1628,11 @@ BLACK POT:- Brothers **Peter Taylor & Paul Taylor** / 21/01/64 03/06/2014 / 27/0
 
 **AUDREY SAMUELL** ??? 2026
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF (VERY SHORT!) ROW. NOW BY SOUTH WALL
+```
 
 212. *\[ small stone square memorial \]*
 
@@ -1663,7 +1687,7 @@ START A NEW ROW, RIGHT TO LEFT
 
 224. In / loving memory of / **ALFRED INGRAM / ( REX** ) / 1913 -- (*27.5.)* 1988 / Also / his wife / **EDITH KATE** / 1914 -- (*28.3.)* 2002 ///
 
-225. In / loving / memory of **/ THOMAS W*\[ illiam \]* / HARMES / ( TOM )** / 1st June 1916 / 31st March 1982 /" R.I.P." /// *\["Tom from the desert!", Army letters to his sweetheart\]*
+225. In / loving / memory of / **THOMAS W *\[ illiam* \] / HARMES / ( TOM )** / 1st June 1916 / 31st March 1982 /" R.I.P." /// *\["Tom from the desert!", Army letters to his sweetheart\]*
 
 ON BACK:- and his wife / **KATHLEEN HARMES** / 1915 -- 1992 ///
 
