@@ -22,7 +22,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | ADAMS, Emma | ?.?.???? -- 3.6.1855 (24) | 11 |  |
 | ADAMS, Ernest Frank Edward *'Ernie'* | 9.2.1942 -- 27.12.2021 (79) | Crem. East 254 | E38 |
 | ADAMS, Frederick Hogben ? | 28.5.1837 -- ?.?.???? (?) | 12 |  |
-| ADAMS ? , Harriet *\[ nee COLLARD* \] ? | 21.10.1803 -- 14.1.1898? (72) | 18 |  |
+| ADAMS ? , Harriet *\[nee COLLARD\]* ? | 21.10.1803 -- 14.1.1898? (72) | 18 |  |
 | ADAMS, ? John Hogbin | ? -- 1870 ? 1897 (?)10.2.1866 -  | 18 |  |
 | ADAMS, Mary | ?.?.???? -- 17.7.1882 (78) | 11 |  |
 | ADAMS, Sackett | 3.5.1812 -- 16.6.1884 (72) | 11 |  |
@@ -34,12 +34,12 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | ANDREWS, Heather Jean | 3.11.1947 -- 5.11.2011 (64) | Crem. East of path 247 | E13 |
 | ANDREWS, Irene May | 11.11.1918 -- 6.6.2003 (84) | Crem. East of path 247 | E13 |
 | ANDREWS, William George | ?.?.1908 -- 1.7.1996 (88) | Crem. East of path 247 | E13 |
-| ANDREWS, Mrs Clara | 10.2.1866 -- 29.1.1942 (75) ? | 95.5 *{unmarked b/n 96 & tree*}  | E4.5 |
+| ANDREWS, Mrs Clara | 10.2.1866 -- 29.1.1942 (75) ? | 95.5 *{unmarked b/n 96 & tree}*  | E4.5 |
 | ANDREWS, Mr D | *\[son\]*  | 95.5 *{unmarked b/n 96 & tree}* | E4.5 |
 | ARCHER, Emily Edith | ?.?.???? -- 16.11.1934 (49) | 124 | F17 |
-| ASLETT \[ *nee Clark* \], Florence Jane | ?.?.???? -- 29.8.1966 (78) | 178 | B10 |
+| ASLETT *\[nee Clark\]*, Florence Jane | ?.?.???? -- 29.8.1966 (78) | 178 | B10 |
 | ASLETT, Walter | ?.?.???? -- 29.11.1971 (84) | 178 | B10 |
-| ATKINS, Mary Violet *\[ nee Norris \]* | ?.?.1925 -- 30.9.2005 (80) | 106 | F1 |
+| ATKINS, Mary Violet *\[nee Norris\]* | ?.?.1925 -- 30.9.2005 (80) | 106 | F1 |
 | ATKINS, Norman William | ?.?.1925 -- 13.5.1958 (33) | 106 | F1 |
 | ATTWELL, Alice Maud | 25.10.1889 -- 24.11.1971 ? (83) |  |  |
 | ATTWELL, Arthur James | 19.11.1914 -- 18.11.1975 (60) | 210 | C5 |
@@ -51,7 +51,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | ATTWELL, Peter John | 26.3.1946 -- ?.?.2025 |  |  |
 | ATTWELL, Trevor Ronald William | 28.7.1949 -- 3.11.2008 (59) | 212 | C22.5 |
 | AYLING, Elizabeth | ?.?.???? -- 23.6.1706 (21) | 14 Nave |  |
-| AYLING, John \[ *Vicar of Monkton from 1662 \]* | ?.?.???? -- 4.12.1710 (74) | 14 Nave |  |
+| AYLING, John *\[Vicar of Monkton from 1662\]* | ?.?.???? -- 4.12.1710 (74) | 14 Nave |  |
 | BAILEY, Leslie Stephen | ?.?.???? -- 13.4.1955 (49) | 198 | C61 |
 | BARHAM ?, *(Sladden?)* Ellen Louisa | ?.?.???? -- 16.2.1884 (18?17) | 20 |  |
 | BAX, Alfred James | ?.?.1876 -- 14.5.1973 ? (97) |  |  |
@@ -62,22 +62,22 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | BAXTER, Dorothy | ?.?.1910 -- ?.?.2006 (96?) | 169 | B24 |
 | BAXTER, Edwin | ?.?.1910 -- 4.6.1985 ? (74?) | 169 | B24 |
 | BAXTER, Edwin Anthony | ?.?.1938 -- 28.9.2023 (85) | 175 | B |
-| BAXTER, Mary Theresa *\[ nee Byer?McKenna \]* | ?.?.1938 -- 18.5.2025 (86) | 175 | B |
+| BAXTER, Mary Theresa *\[nee Byer?McKenna\]* | ?.?.1938 -- 18.5.2025 (86) | 175 | B |
 | BEALE ?, George | ?.?.???? -- 30.4.1956 ? (83) |  |  |
 | BEALE ?, Georgina | ?.?.???? -- 18.5.1955 ? (84) |  |  |
 | BENNETT, Ethel May | ?.?.???? -- 13.12.1975 (82) | 176 | B14 |
 | BENSTEAD, Holland James | ?.?.???? -- 15.11.1965 ? (76) |  | C91 |
 | BERRY, Geoffrey Barrington | 22.11.1922 -- 5.8.2009 (86) | Crem. W. of path 220 | D31 |
 | BERRY, Jane Matilda | 5.1.1924 -- 13.1.2010 (86) | Crem. West of path 220 | D31 |
-| BERRY, Susan Diane *\[ CLARK* *\]* | 24.1.1946 -- 31.10.2010 (64) | Crem. W/path 220 | D31 |
-| BIDWELL, Laura Jones \[ *William Bidwell?* \] | ?.?.???? -- 10.1.1906 (80) | 158 |  |
+| BERRY, Susan Diane *\[CLARK\]* | 24.1.1946 -- 31.10.2010 (64) | Crem. W/path 220 | D31 |
+| BIDWELL, Laura Jones *\[William Bidwell?\]* | ?.?.???? -- 10.1.1906 (80) | 158 |  |
 | BIRKITT, Rev. John | (see BURKETT) |  |  |
 | BLADES, Eric William | 13.2.1937 -- 11.4.2004 (67) | Crem. West of path 218 | D29 |
 | BLECHUNDEN, Frances | ?.?.???? -- 25.12.1611 (48) | 12 Nave |  |
 | BOLTON, Jane Elizabeth | ?.?.1858 -- 10.3.1929 (68) | 39 | D14 |
 | BOLTON. Joseph | ?.?.1856 -- 10.3.1930 (70) | 39 | D14 |
 | BOYNE, Cyril Joseph | ??? | 133 | A22 |
-| BOYNE, Edith Kathleen May *\[ nee Osborne \]* | ?.?.???? -- 30.4.1960 (58) | 133 | A22 |
+| BOYNE, Edith Kathleen May *\[nee Osborne\]* | ?.?.???? -- 30.4.1960 (58) | 133 | A22 |
 | BOYNE, Peter Adrian | 8.1.1944 -- 17.10.2015 (71) | 131 | A25 |
 | BRADBURY, Private James Booth | ?.?.???? -- 3.9.1917 (19) | 9 | D8 |
 | BRANDRICK, Beryl Marjorie Lydia | 26.4.1926 -- 12.1.2010 (83) | Crem.W/path 251 | E33 |
@@ -91,16 +91,16 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | BRETT, Thomas |  Guess ? -- buried 10.4.1878 (76) | 70 |  |
 | BRETT, Thomas | 19/6/1768 -- ? 10.5.1843 (75) | 75 |  |
 | BRETT, T | ?.?.1878? | 71 | |
-| BRIEN, Fanny Sophia *\[ nee Stannard \]* | 15.2.1882 -- 2.12.1959 (77?) | 137 | A14 |
+| BRIEN, Fanny Sophia *\[nee Stannard\]* | 15.2.1882 -- 2.12.1959 (77?) | 137 | A14 |
 | BRIEN, Jack Kingman | 19.2.1919 -- 10.5.1974 (55) | 135 | A12 |
-| BRIEN, Margaret Elizabeth *\[nee Jones*\] | ?.?.1918 -- 8.10.2005 (88) | 135 | A12 |
-| BROOK-SMITH, Harry Alexander | *\[ see under SMITH \]* | 171 | B22 |
+| BRIEN, Margaret Elizabeth *\[nee Jones\]* | ?.?.1918 -- 8.10.2005 (88) | 135 | A12 |
+| BROOK-SMITH, Harry Alexander | *\[see under SMITH\]* | 171 | B22 |
 | BROWN, Ethel Blanche | ?.?.???? -- 2.7.1972 ? (85) |  |  |
-| BROWN, Nellie Matilda *\[ nee Burton \]* | ?.?.???? -- 25.4.1937 (58) | 155 | A7 |
+| BROWN, Nellie Matilda *\[nee Burton\]* | ?.?.???? -- 25.4.1937 (58) | 155 | A7 |
 | BROWN, Ralph | ?.?.???? -- 6.1.1938 (89) | 155 | A7 |
 | BURKETT, Catherine | ?.?.???? -- 31.3.1778 (50?) | 9 Nave |  |
-| BURKETT, Rev John (Monkton vicar 1767-72) | ?.?.???? -- 5.4.1772 (50?) | 9 Nave |  |
-| BURTON | ??? \[ MARY CANTIS \] | 154 | A6 |
+| BURKETT, Rev John *(Monkton vicar 1767-72)* | ?.?.???? -- 5.4.1772 (50?) | 9 Nave |  |
+| BURTON ??? *\[MARY CANTIS\]* |  | 154 | A6 |
 | BURTON, Albert Henry | ?.?.1880 -- 23.1.1957 (76) | 155 | A7 |
 | BURTON, Ida Mabel | ?.?.1882 -- 20.9.1921 (40) | 155 | A7 |
 | BUSH, William Thomas | ?.?.???? -- 6.9.1965 (67) | 190 | C12 |
@@ -109,7 +109,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | CANTIS ?, Sarah | ?.?.???? -- 26.7.1730 (?) (d/ter of Valentine & Mary Cantis) ? | 151 |  |
 | CANTIS ?, Sarah | ?.?.???? -- 17.3.1711 (?) {d/ter of Valentine & Sarah Cantis) | 151 | A3 |
 | CANTIS, Sarah | ?.?.???? -- 17.9.1754 (87) | 149 | A1 |
-| CANTIS, Thomas (son of Valentine & Mary Cantis) | buried 7.7.1710 |  |  |
+| CANTIS, Thomas *(son of Valentine & Mary Cantis)* | buried 7.7.1710 |  |  |
 | CANTIS, Valentine | ?.?.???? -- 29.3.1732 (67) | 149 | A1 |
 | CARTHEW , Edward William | ?.?.???? -- 6.12.1960 ? (88) |  |  |
 | CHATLEY, Brenda Muriel | 6.1.1896 -- 3.7.1967 (71) | 79 | E1 |
@@ -119,11 +119,11 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | CHILVERS, Eileen Ann | 21.8.1949 -- 27.9.2018 (69) | 98 | E25 |
 | CHILVERS, Gladys Emily | 12.2.1905 -- 16.10.2001 (96) | 98 | E25 |
 | CHILVERS, Kenneth John | ?.?.???? -- 19.5.2001 (68) | 98 | E25 |
-| CHURCH, Jessie Lenora *\[ SRN* \] | ?.?.???? -- 4.12.1947 (74) | 195 | C28 |
-| CLARK, Susan Diane *\[ nee Berry* *\]* | 24.1.1946 -- 31.10.2010 (64) | Crem. West 220 | D31 |
+| CHURCH, Jessie Lenora *\[SRN\]* | ?.?.???? -- 4.12.1947 (74) | 195 | C28 |
+| CLARK, Susan Diane *\[nee Berry\]* | 24.1.1946 -- 31.10.2010 (64) | Crem. West 220 | D31 |
 | CLEMENTS, Michael John | 10.2.1942 -- 17.1.2021 (78) | Crem. East of path 237 | D45 |
-| CLEVEN, Margaret Helen *("Peggy"*) | 21.5.1925 -- 4.4.2008 (82) | Crem. W. 219 | D30 |
-| CLEVEN, Gaspard Theodore Hugo Henry Frantz John *("Teddy"*) | 1.3.1923 -- 31.5.2008 (85) | Crem. West of path 219 | D30 |
+| CLEVEN, Margaret Helen *("Peggy")* | 21.5.1925 -- 4.4.2008 (82) | Crem. W. 219 | D30 |
+| CLEVEN, Gaspard Theodore Hugo Henry Frantz John *("Teddy")* | 1.3.1923 -- 31.5.2008 (85) | Crem. West of path 219 | D30 |
 | COLE, Denyse Joan | 27.9.1948 -- 26.11.2021 (73) | 100 | E41 |
 | COLLARD, Ambrose |  | 60/61 |  |
 | COLLARD, Ambrose ? | 26.3.1807 -- 24.2.1884 (77) | 21 |  |
@@ -131,7 +131,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | COLLARD, Eliz ?? ? ? | 11.12.1800 -- 19.5.1817 (18) | 22 |  |
 | COLLARD, Elizabeth | ?.?.???? -- 14.9.1858 (84) | 6 Nave |  |
 | COLLARD, George |  | 62 |  |
-| COLLARD ? , Harriet *\[ see ADAMS* \] ? | 21.10.1803 -- 14.1.1898? (72) | 18 |  |
+| COLLARD ? , Harriet *\[see ADAMS\]* ? | 21.10.1803 -- 14.1.1898? (72) | 18 |  |
 | COLLARD, Henry | ?.?.???? -- 21.11.1928 (92) | 23 |  |
 | COLLARD, Henry ? | 19.5.1796 -- ?.?.???? (?) | 19 |  |
 | COLLARD, Henry | ?.?.???? -- ? 2.9.1809 (79) | 59 |  |
@@ -142,16 +142,16 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | COLLARD, Mary | ?.?.???? -- 23.8.1780 (19) | 59 |  |
 | COLLARD, Mary Elizabeth | ?.?.???? -- 11.9.1884 (71) | 21 |  |
 | CONGRAVE, Jean Rose | 10.6.1934 -- 2.9.2023 (89) | Crem. East of path 257 | E35 |
-| COOPER, Jane *\[ wife of John* \] | ?.?.???? -- ? 3.11.1788 (63) | 67 |  |
+| COOPER, Jane *\[wife of John\]* | ?.?.???? -- ? 3.11.1788 (63) | 67 |  |
 | COOPER, Jane ? | 22.5.1760 -- 16.6.1760 (1 month) | 67 |  |
 | COOPER, John | ?.?.???? -- ?.11.1765 (70?) | 67/73 |  |
 | COOPER, Mary | ?.?.???? -- ? 21.4.1737 (48) | 66 |  |
 | COOPER, Richard | ?.?.???? -- 18.8.1725 (36) | 66 |  |
-| COURT, Francis Winifred \[ *nee Woodcock \]* | ?.?.???? -- 16.7.1962 (62) | 4 | D2 |
+| COURT, Francis Winifred *\[nee Woodcock\]* | ?.?.???? -- 16.7.1962 (62) | 4 | D2 |
 | CROOK, George Frederick | ?.?.???? -- 11.10.1966 (74) | 184 | B3 |
 | CROOK, Mary Emma | ?.?.???? -- 21.11.1970 (68) | 184 | B3 |
 | CROOK, Peter Frederick | 3.8.1937 -- 27.7.2011 (73) | 183 | B4 |
-| CULVER, Richard "Blue Dick" | ?.?.1597 -- 20.3.1662 (?) ? |  |  |
+| CULVER, Richard *"Blue Dick"* | ?.?.1597 -- 20.3.1662 (?) ? |  |  |
 | CULVER, Stephen | ?.?.???? -- ?.3.1750 (34) *(or buried 23.3.1751)* | 90 |  |
 | CULVER, Stephen | ?.?.???? -- 9.10.1761 (?) ? |  |  |
 | DAVIS, Ivy Betty | 26.11.1910 -- 5.10.2004 (93) | 118 | F13 |
@@ -160,12 +160,12 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | DAWS, Minnie Agnes | 25.9.1888 -- 2.4.1970 (81) | 33 | D46 |
 | DAWSON, Alice M | ?.?.???? -- 13.1.1985 (85) | 133 | A22 |
 | DEAKIN, Mabel Emma | ?.?.???? -- 2.7.1964 ? (80) |  |  |
-| DENNE, Elizabeth | ?.?.???? -- ?.9.1810 (?) \[ *?Guess -- 29.9.1819 (82) ??*\] | 102 |  |
+| DENNE, Elizabeth | ?.?.???? -- ?.9.1810 (?) *\[?Guess -- 29.9.1819 (82) ??\]* | 102 |  |
 | DENNE, Jane | ?.?.???? -- 14.11.1817 (23) | 10 Nave |  |
 | DENNE, Martha | ?15.5.1771 - 16.3.1849 (77) | 102 |  |
 | DENNE, Mary | ?.?.???? -- 23.8.1780 ? (19) | 59 |  |
-| DENNE, Mary *\[ nee Collard \]* | ?.?.???? -- 18.6.1800 (34) | 59/10 Nave |  |
-| DENNE, Mary *\[ nee Slater \]* |  | 10 Nave |  |
+| DENNE, Mary *\[nee Collard\]* | ?.?.???? -- 18.6.1800 (34) | 59/10 Nave |  |
+| DENNE, Mary *\[nee Slater\]* |  | 10 Nave |  |
 | DENNE, Sarah ? | 30.11.1775 -- 27.3.1846 (70) | 102 |  |
 | DENNE, Thomas ? | 29.10.1766 -- 16.3.1821 (54) | 10 Nave |  |
 | DENNE, Thomas Collard | ?.?.???? -- 15.4.1797 (11months) | 10 Nave |  |
@@ -173,14 +173,14 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | DENYER ?, Raymond Frederick | ?.?.???? -- 25.10.1966 ? (33) | *{unmarked b/n 95-96}* | E7 |
 | DIXON, Frederick | ?.?.???? -- 16.12? . 1964 ? (72) |  | C81 |
 | DIXON, William | ?.?.???? -- 8.3.1962 ? (75) |  |  |
-| DODD, Eliz. *\[ g/d of James SMITH* \] | ?.?.???? -- ?.3.? 183? (10?) | 76 |  |
+| DODD, Eliz. *\[g/d of James SMITH\]* | ?.?.???? -- ?.3.? 183? (10?) | 76 |  |
 | DOORNE, Eliza | ?.?.???? -- 3.4.1877 (73) | 6 | D5 |
 | DOORNE, Jane | ?.?.???? -- 9.8.1858 (19) | 6 | D5 |
 | DOORNE, John | ?.?.???? -- 10.9.1873 (67) | 6 | D5 |
 | DOORNE, Sarah | ?.?.1839 -- ?6.7.1904 (65) | 10 |  |
 | DOORNE, William | ?.?.1832 -- 12.2.1912 (80) | 10 |  |
 | DOVE, Edward | ?.?.???? -- 12.9.1930 (56) | 138 | A15 |
-| DOVE, Lavinia Jane *\[ nee Strand \]* | 12.10.1869 -- 25.12 .1958 (89) | 138 | A15 |
+| DOVE, Lavinia Jane *\[nee Strand\]* | 12.10.1869 -- 25.12 .1958 (89) | 138 | A15 |
 | DOWKER, Elizabeth | ?.?.???? -- 18.12.1752?51 (12) | 4 Chancel |  |
 | DOWKER, Elizabeth | ?13.2.1738 -- 12.9.1823 (83) | 4 Chancel |  |
 | DOWKER, Frances | ?.?.???? -- 24.1.1791 (86) | 4 Chancel |  |
@@ -195,7 +195,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | DUCKETT, William Knight O.B.E. | ?.?.???? -- 12.1.? 1968 ? (89) |  |  |
 | DUNFORD, Constance Margaret Donella | 22.3.1916 -- 17.9.2006 (90) | 115 | F12 |
 | DUNFORD, Edward Jack | 4.10.1915 -- 24.3.1989 (73) | 115 | F12 |
-| DWYER, Dr. Beryl Miriam *\[ nee FORCEY* \] | ?.?.1932 -- 22.3.1987 (54) | 87 | E23 |
+| DWYER, Dr. Beryl Miriam *\[nee FORCEY\]* | ?.?.1932 -- 22.3.1987 (54) | 87 | E23 |
 | DWYER, Dr. Patrick "Paddy" John | ?.?.1922 -- 1.4.1984 (61?) | 87 | E23 |
 | EASTLAND, E. (Mr) | ??? | 106 | F1 |
 | EASTLAND, H (Mrs) ? Guess - Hannah | ?.?.???? --? 8/3/1889 (74) | 96 | E5 |
@@ -203,7 +203,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | EASTLAND, Benjamin (Mr) | d. 31.7.1921 (35) | 96.5 *{unmarked E. of 96 b/n 96 & 106}* | E5.5 |
 | EASTLAND, C. (Mr) | ??? | 96.5 *{unmarked S. of the above}* |  |
 | EASTLAND, O. (Mrs) | ??? | 105.5 *{unmarked S. of 106}* |  |
-| ??? ELDER , \[ KEELER \] Edward | ?.?.???? -- 5.9.1766 (27) | 101 |  |
+| ??? ELDER , \[KEELER\] Edward | ?.?.???? -- 5.9.1766 (27) | 101 |  |
 | ESQULANT, John Douglas | 20.8.1948 -- 7.9.2021 (73) | 35 | D48 |
 | FAGG, John | 4.1.1889 -- 1.10.1945 (56) | 163 | B32 |
 | FERRIER, John Thomas | ?.?.???? -- 24.2.1941 (79) | 125 | F18 |
@@ -212,7 +212,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | FINN, Sergt Henry | 20.8.1924 -- 17.11.1949 (25) | 1 | D23 |
 | **FITALL, Private E(rnest)** | ?.?.???? -- 31.10.1918 (31/?30) | Com. War Grave 182 | B6 |
 | FITALL, Fanny | 23.8.1886 -- ? 21.12.1942 (76) | *\[unmarked W. or N. of \#182\]* |  |
-| FORCEY, Dr. Beryl *( wife of Patrick DWYER* ) | ?.?.1932 -- 22.3.1987? (54) | 87 | E23 |
+| FORCEY, Dr. Beryl *(wife of Patrick DWYER)* | ?.?.1932 -- 22.3.1987? (54) | 87 | E23 |
 | FORCEY, Leonard | 18.10.1887 -- 22.4.1972 (84) | 86 | E24 |
 | FORDHAM, James David | ?.?.1905 -- ?.?.1989 (84) | Crem. West of path 222 | D22 |
 | FORDHAM, Jessie Alice | 20.8.1917 -- 28.11.2002 (85) | Crem. West of path 222 | D22 |
@@ -249,7 +249,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | HALES, Stephen | ?.?.???? -- 5.1.1917 (90) | 7 | D6 |
 | HAMMON, George Henry | ?.?.1903 -- 16.11.1982 (79) | 142 | A16 |
 | HAMMON, Violet May *\[nee Smith\]* | ?.?.1902 -- 22.3.1991 (88) | 142 | A16 |
-| HARMES, Kathleen*\[nee Rogers\]* | ?.?.1915--23.3.1992 (77) | Crem. West of path 225 | D19 |
+| HARMES, Kathleen *\[nee Rogers\]* | ?.?.1915--23.3.1992 (77) | Crem. West of path 225 | D19 |
 | HARMES, Thomas William *'Tom'* | 1.6.1916 -- 31.3.1982 (65) | Crem. W. of path 225 | D19 |
 | HARNETT, George Stanley Thomas | 20.5.1935 -- 14.6.2016 (81) | 110 | F27 |
 | HARNETT, Jean Edith | 29.12.1938 -- 1.5.2019 (80) | 110 | F27 |
@@ -275,10 +275,10 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | HAYNES, Albert Edward | ?.?.???? -- 10.11.1975 (68) | 80 | E2 |
 | HAYNES, Gertrude Alice Eliza | ?.?.???? -- 4.4.1962 (59) | 80 | E2 |
 | HEDLEY, *(Major)* Edward | 2.12.1908 -- 27.1.1987 (78) | 92 | E11 |
-| HENHAM, Ada Jane *(Sister Marie Magdalene*) | ?.?.???? -- 15.5.1939 (81) | 152 | A4 |
+| HENHAM, Ada Jane *(Sister Marie Magdalene)* | ?.?.???? -- 15.5.1939 (81) | 152 | A4 |
 | HENHAM, Eveline Maud | ?.?.???? -- 12.4.1927 (67) | 150 | A2 |
 | HENHAM, Geraldine Mary | ?.?.???? -- 25.1.1932 (65) | 150 | A2 |
-| HENHAM, Revd. Hubert Collison *(Vicar 23-46*) | 4.10.1863 -- 21.1.1948 (84) | 153 | A5 |
+| HENHAM, Revd. Hubert Collison *(Vicar 23-46)* | 4.10.1863 -- 21.1.1948 (84) | 153 | A5 |
 | HEYES, Walter Stephen | ?.?.???? -- 11.7?.1968 ? (68) |  |  |
 | HILL, Jane Ellen | 30.4.1938 -- 26.2.2025 (86) | Crem. West 237.5 |  |
 | HILL, John Stuart | 5.9.1934 -- 24.1.2020 (85) | Crem. West 237.5 |  |
@@ -288,8 +288,8 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | HILTON, Mary Elizabeth | *\[nee Denne\]* | 10 Nave |  |
 | HINDMARSH, Robert ? | ?.?.???? -- ?.?.1835 (?) | 52 |  |
 | HINDMARSH ? , Sarah | ?.?.???? -- 2.3.1833 (72) | 52 |  |
-| HOEY, Marjorie Kathleen Sarah (*ALLNUT SMITH)* | 21.2.1887 -- 26.6.1974 (87) | 170 | B22 |
-| HOGBIN ?, Harriet *\[ nee Collard?* \] ? | 21.10.1803 -- 14.1.1898 (72) | 18 |  |
+| HOEY, Marjorie Kathleen Sarah *(ALLNUT SMITH)* | 21.2.1887 -- 26.6.1974 (87) | 170 | B22 |
+| HOGBIN ?, Harriet *\[nee Collard?\]* ? | 21.10.1803 -- 14.1.1898 (72) | 18 |  |
 | HOGBIN ? , ? John ? | died ? 28.6.1897 (76) OR… -- ? 19.6.1870 (70)? | 18 |  |
 | HOLDEN, Craig William | ?.?.???? -- 10.6.1961 ? | *{unmarked near 81 under seat}* | E4/8 |
 | HOLDEN, Cyril Ralph Charles | ?.?.???? -- 4.3.1958 ? (49) | *{unmarked nr.81}* | E4/8 |
@@ -315,7 +315,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | HORSBURGH, Elsie May | 1.5.1926 -- 20.2.2004 (77) | 94 | E28 |
 | HORSBURGH, Raymond Charles Rennie | 7.10.1925 -- 3.3.2016 (90) | 94 | E28 |
 | HOULDSWORTH, Revd Raymond Clifford | ?.?.???? -- 4.4.2012 (81) | *{unmarked E. of #91}* | E42 |
-| HUCKSTEP, Eileen Doris *\[nee Andrews*\] | ?.?.1942 -- 30.9.2003 (62) | Crem. East of path 240 | E20 |
+| HUCKSTEP, Eileen Doris *\[nee Andrews\]* | ?.?.1942 -- 30.9.2003 (62) | Crem. East of path 240 | E20 |
 | HULKS, Florence | ?.?.???? -- 9.2.? 1968 ? ? |  |  |
 | HUMPHREY, Win(n)ifred Charlotte | ?.?.???? -- 13.1.1938 (90) | 155 | A7 |
 | HUMPHRIES, Florence Jessie | ?.?.???? -- 6.10.1971 ? (79) | *{unmarked N. of 94?}* | E8.5 |
@@ -323,7 +323,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | IMPETT, Mary | ?.?.???? -- ? 15.6.1851 (84) | 43 |  |
 | IMPETT, Thomas | ?.?.???? -- ? 30.12.1838 (71) | 43 |  |
 | IMPETT, William | ?.?.???? -- ? 12.3.1856 (52) | 43 |  |
-| INGRAM, Alfred ("*Rex*") | ?.?.1913 -- 27.5.1988 ? (74) | Crem. West of path 224 | D20 |
+| INGRAM, Alfred *("Rex")* | ?.?.1913 -- 27.5.1988 ? (74) | Crem. West of path 224 | D20 |
 | INGRAM, Edith Kate | ?.?.1914 -- 28.3.2002 (87) | Crem. West of path 224 | D20 |
 | JACOBS, ? | ?.?.1968 |  |  |
 | JAMES, Carolyn | 21.11.1948 -- 7.10.2024 (75) | 103 | F29 |
@@ -341,14 +341,14 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | KILLICK, Hilda Ivy | ?.?.???? -- 13.2.2006 (88) | 119 | F14 |
 | KING, Harriet Lucy | 9.2.1900 -- 25.8?. 1963 ? (63) | 40? |  |
 | KING, Kenneth George | 22.9.1940 -- 12.1.2015 (74) | Crem. East of path 248 | E30 |
-| KING, Lucy *\[sister of ?Florence/Charles? Fowell*\] | ?.?.???? -- 21.11.1963 (63) | 40 |  |
+| KING, Lucy *\[sister of ?Florence/Charles? Fowell\] | ?.?.???? -- 21.11.1963 (63) | 40 |  |
 | KING, Pauline *\[nee Johnson\]* | 20.7.1942 -- 22.10.2024 (82) | Crem. East of path 248 | E30 |
 | KNIGHT, Aila? | ?.?.???? -- 27.12.? 1962 ? (66) |  |  |
 | KNIGHT, Alfred John Stanley | ?.?.???? -- 7.1.1977 ? (85) |  |  |
 | KNIGHT, Harry George | ?.?.???? -- 3.7.1980 ? (84) |  | C24 |
 | LAMB, Henry John | ?.?.???? -- ?12.9.1871 (11 months) | 13 |  |
 | LAMB, John | ?.?.???? -- 18.2.1900 (55) | 14 |  |
-| LAMB, Lucy *\[ wife of John* \] | ?.?.???? -- 4.5.1900 (57) | 14 |  |
+| LAMB, Lucy *\[ wife of John\]* | ?.?.???? -- 4.5.1900 (57) | 14 |  |
 | LAMPRELL, Emily Mary | ?.?.???? -- 18.2.1884 (3) | 32 |  |
 | LAMPRELL, Emma | 1.6.1850 -- 4.1.1947 (96) | 32 |  |
 | LAMPRELL, William | ?.?.???? -- 3.3.1889 (40) | 32 |  |
@@ -358,25 +358,25 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | LAYZELL ?, Charles Bertie | ?.?.???? -- 18.3.1960 ? (81) |  |  |
 | LAYZELL ?, Mary | ?.?.???? -- 12.2.1962 ? (86) |  |  |
 | LAYZELL ? , Winifred Mary | ?.?.???? -- 26.10.1959 ? (55) |  |  |
-| LEACH, Ann Marie *\[* *wife of John \]* | ?.?.???? -- 12.8.1844 (64) | 24 |  |
+| LEACH, Ann Marie *\[wife of John\]* | ?.?.???? -- 12.8.1844 (64) | 24 |  |
 | LEACH, John | ?.?.???? -- 14.7.1843 (64) | 24 |  |
 | LOCKE, Dudley Stewart | ?.?.???? -- 8.1.1978 (64) | Crem. West of path 226 | D18 |
 | LOCKE, Winifred Phoebe | ?.?.???? -- 15.1.1992 (75) | Crem. West of path 226 | D18 |
-| LONG, Ethel (*nee Norris)* | ??? | 107 |  |
+| LONG, Ethel *(nee Norris)* | ??? | 107 |  |
 | **LONG, Private Walter. G.** | ?.?.???? -- 10.10.1916 (40) | Com. War Grave 8 | D7 |
 | LUCAS, Lillian Joan | ?.?.1922 -- ?.?.1996 (74?) | Crem. East of path 243 | E17 |
-| LUCKHAM, \[*Major*\] Tronson ('Tony') de Coudray | 28.8.1931 -- 13.5.2020 (89) | 95 | E29 |
+| LUCKHAM, *\[Major\]* Tronson ('Tony') de Coudray | 28.8.1931 -- 13.5.2020 (89) | 95 | E29 |
 | LUCKHAM, Wendy Eve | 14.8.1940 -- 12.2.2004 (63) | 95 | E29 |
-| LUFF, Gertrude *( Maud* ) | ?.?.???? -- 15.2.1987 (81) | 93 | E10 |
+| LUFF, Gertrude *(Maud)* | ?.?.???? -- 15.2.1987 (81) | 93 | E10 |
 | LUNN, Nora Peggy *\[nee Hoey\]* | 28.1.1886 -- 10.8.1975 (89) | 174 | B21 |
 | LUNN, Richard Arthur | 19.9.1888 -- 20.3.1981 (92) | 174 | B21 |
 | LYE, *\[Commander\]* George Arthur R.T.M.? | ?.?.1862 -- 18.2.1904 (41) | 17 |  |
 | MacLACHLAN, Ewan Hugh *\[Vicar of Monkton from 1871\]* | ?.?.???? -- 14.2.1884 (64) | 129 |  |
 | MARSH, Catherine | ?.?.???? -- 11.6.1812 (55) | 44/47 |  |
 | MARSH, Charles Frederick | ?.?.???? -- 28.6.1969 ? (82) |  |  |
-| MARSH, Henry Thomas *( "Harry" )* | 28.3.1927 -- 14.7.2014 (87) | Crem. West 234 | D38 |
+| MARSH, Henry Thomas *("Harry")* | 28.3.1927 -- 14.7.2014 (87) | Crem. West 234 | D38 |
 | MARSH, James | ?.?.???? -- 2.8.1836 (80) | 44/47 |  |
-| MARSH, Kathleen Edith *\[nee Harris*\] | 5.10.1928 -- 21.9.2015 (86) | Crem. West 234 | D38 |
+| MARSH, Kathleen Edith *\[nee Harris\]* | 5.10.1928 -- 21.9.2015 (86) | Crem. West 234 | D38 |
 | MASTERS, George Frederick | ?.?.???? -- 14.5.1955 ? (61) |  |  |
 | MATSON, Mary ? | ?.?.???? -- ? 17.1.1800 (?) | 55 |  |
 | **MATTHEWS, 'Driver' John** | ?.?.???? -- 29.12.1918 (30) | Com. War Grave 191 | C2 |
@@ -412,9 +412,9 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | NORMAN, Rosa Hannah | 17.9.1879 -- 23.12.1957 ? (77) |  |  |
 | NORRIS, Dorothy Joan | ?.?.???? -- 7.10.2016 (95) | 107 | F8 |
 | NORRIS, Eric Elvy | ?2.10.1921 -- 7.12.2000 (78) | 107 | F8 |
-| NORRIS, Ethel *\[ nee Long \]* | (1906) -- ??? | 107 | F8 |
+| NORRIS, Ethel *\[nee Long\]* | (1906) -- ??? | 107 | F8 |
 | NORRIS, Evelyn May | 6.4.1913 -- 28.5.1928 (15) | 107 | F8 |
-| NORRIS, F Mrs *nee Gann* * | (unmarked)* | 107 | F8 |
+| NORRIS, F Mrs *(nee Gann)* | (unmarked) | 107 | F8 |
 | NORRIS, Gertrude Florence Ellen | ?.?.???? -- 22.12.1981 (84) | 107 | F8 |
 | NORRIS, Gertrude | 28.12.1880 -- 26.3.1952 (72) | 107 | F8 |
 | NORRIS, Joan | ?.?.1920 -- ?.?.2018 (?) | 107 | F8 |
@@ -456,7 +456,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | RAMMELT, Ruth Victoria *\[nee Hubbard\]* | ?.4.1905 -- 6.3.1989 (83) | 116 | F7 |
 | RANKIN, Florence Rose | ?.?.???? -- 29.7.1961 (72) | 136 | A13 |
 | RAYNER, Edmund George | 13.8.1917 -- 17.6.1934 (16) | 180 | B7 |
-| RAYNER, Edmund *( George* ) | 22.10.1897 -- 9.9.1984 (86?) | 180 | B7 |
+| RAYNER, Edmund *(George)* | 22.10.1897 -- 9.9.1984 (86?) | 180 | B7 |
 | RAYNER, Rosemary | 29.3.1900 - ?.?.1985 (85?) | 180 | B7 |
 | READ, Albert | ?.?.1898 -- 26.3.1964 ? (66) |  |  |
 | READ, Edmund Austin | ?.?.1860 -- 22.3.1938 (78) | 41 | D12 |
@@ -466,7 +466,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | READ, William Thomas | ?30.9.1888 -- 8.6?.1969 ? (81) |  |  |
 | REDWOOD, Charlotte | ?.?.???? -- ? 7.2.1896 (61) | 141 |  |
 | REDWOOD, Herbert | ?.?.???? -- 1.5.1969 ? (81) |  |  |
-| REES-DAVIES Q.C. William Rupert *{MP 1953-83*} | 19.11.1916 -- 12.1.1992 (75) | 164 | B29 |
+| REES-DAVIES Q.C. William Rupert *{MP 1953-83}* | 19.11.1916 -- 12.1.1992 (75) | 164 | B29 |
 | RENNISON, Lucilla Elaine | 6.9.1954 -- 20.3.2020 (65) | Crem. West of path 235 | D39 |
 | REYNOLDS, Mary ? | ?.?.???? -- ? 23.6.1859 (70) | 28 |  |
 | RICHES, Carol Anne | 6.9.1944 -- 24.4.2023 (78) | Crem. East of path 255 | E37 |
@@ -487,15 +487,15 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | SAMUELL, Audrey | ??? 2026 | 211 | C31 |
 | SAWKINS, Jessie Elizabeth | ?.?.???? -- 16.4.1955 ? (83) |  |  |
 | SAWKINS?, William Charles | ?.?.???? -- 22.9.1962 ? (85) |  |  |
-| SAYER, Barbara *\[? baby girl?\]* | ?29.7.1935 -- 30.11.1935 (3 months) | 190? | C12 |
+| SAYER, Barbara *\[?baby girl?\]* | ?29.7.1935 -- 30.11.1935 (3 months) | 190? | C12 |
 | SCARMAN, Leslie George *\[Lord\]* | 29.7.1911 -- 8.12.2004 (93) | Crem. West 217 | D28 |
-| SCARMAN, Ruth Clement *\[Lady*\] | 26.7.1913 -- 8.1.2008 (94) | Crem. West 217 | D28 |
+| SCARMAN, Ruth Clement *\[Lady\]* | 26.7.1913 -- 8.1.2008 (94) | Crem. West 217 | D28 |
 | SETTERFIELD, Mary Ann Miles | ??? | 214 |  |
 | SHANE?, Florence Ellen | ?.?.???? -- 30.1. 1982 ? (84) |  |  |
 | SHARP, Eliza Ann Emma | ?.?.???? -- 6.7.1898?91 (79) | 15 |  |
-| SHARP, Frances *nee White* *(wife of Stephen Sharp)* | ?.?.?? --20.12.1829 (51) | 3 Chancel |  |
+| SHARP, Frances *nee White (wife of Stephen Sharp)* | ?.?.?? --20.12.1829 (51) | 3 Chancel |  |
 | SHARP, Mary | ?.?.???? -- ?29.5.1868 (64) | 15 |  |
-| SHARP, Stephen *(husband of Frances*) | ??? | 15 |  |
+| SHARP, Stephen *(husband of Frances)* | ??? | 15 |  |
 | SHONK, Edith Emily | ?.?.1884 -- 2.2.1969 (86?) | 177 | B13 |
 | SHONK, Ernest William *('Bill')* | ?.?.1884 -- 17.8.1968 (84) | 177 | B13 |
 | SHONK, Ezra George | ?.?.???? -- ?1.5.195? (60?) | 185 | B1 |
@@ -519,17 +519,17 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | SMITH, Francis | ?5.3.1772 -- 17.2.1825 (53) | 76 |  |
 | SMITH, Francis Richard | ?.?.???? -- ?11.2.1822 (23?22) | 76 |  |
 | SMITH, Harry Alexander Brook | 6.4.1991 -- 6.12.2017 (26) | 171 | B? |
-| SMITH, Herbert Allnutt *( 'Bert' )* *{ JP }* | 8.9.1882 -- 4.4.1979 (96) | 170 | B22 |
+| SMITH, Herbert Allnutt *('Bert') { JP }* | 8.9.1882 -- 4.4.1979 (96) | 170 | B22 |
 | SMITH, James | ?.?.???? -- 29.7.1793 (70) | 76 |  |
 | SMITH, James | ?.?.???? -- ?25.9.1824 (23/25) | 76 |  |
 | SMITH, James | ?19.3.1770 -- 9.12.1830 (61) | 76 |  |
 | SMITH, James | ?19.3.1770 -- 9.12.1830 (61) | 11 Nave |  |
 | SMITH, James | ?.?.???? -- 1.1.1868 (24) | 188 |  |
 | SMITH, Jean Elizabeth *\[nee Brook\]* | 27.9.1927 -- 29.4.2007 (79) | 173 | B25 |
-| SMITH, John - grandson of James&Elizabeth Smith -- | died. ?.5? 1826? (22?) | 76 |  |
+| SMITH, John - grandson of James & Elizabeth Smith -- | died. ?.5? 1826? (22?) | 76 |  |
 | SMITH, Lillian Amelia *\[nee Hammon\]* | 8.7.1927 -- 14.6.2022 (94) | 199 | C72 |
 | SMITH, ?? Liliase | ??? | 76 |  |
-| SMITH, Marjorie Kathleen Sarah *('Mo'*) *\[Allnutt*\] | 21.2.1887 -- 26.6.1974 (87) | 170 | B22 |
+| SMITH, Marjorie Kathleen Sarah *('Mo') \[Allnutt\]* | 21.2.1887 -- 26.6.1974 (87) | 170 | B22 |
 | SMITH, Mary | ?17.5.1746 -- 23.3.1797 (?) | 42 |  |
 | SMITH, Michael Jeffrey Wellard | 29.8.1918 -- 13.4.1996 (77) | 173 | B25 |
 | SMITH, Nanny | ?.?.???? -- 7.6.1831 (80) | 76 |  |
@@ -541,7 +541,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | SMITH, Thomas | ?.?.???? -- 27.3.1898 (97) | 189/186 |  |
 | SMITH, Will | ? -- 19.7.1800 (69)	| 42 |  |
 | SMITH, William Henry Charles | 31.5.1924 -- 29.6.2001 (77) | 199 | C72 |
-| SMITH ?, ? Mary ? | 17.5.1746 -- 23.3.1797? | 42 |  |
+| SMITH ?, ?Mary? | 17.5.1746 -- 23.3.1797? | 42 |  |
 | SMITH?, ? ?Guess Sarah Smith | 8.1.1818 (41) OR Margaret Smith -- 5.11.1822 (37) | 42 |  |
 | STANNARD, Douglas Frederick | ?17.3.1919 or 1.9.1918 ? -- 2.6.2004 (85) | 108 | F11 |
 | STANNARD, Freda | ?.?.???? -- 22.7.1994 (67) | 108 | F11 |
@@ -571,7 +571,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | STUDHAMS, Sarah Ann(e) | ?.?.1844 -- 11.4.1845 (9 months) | 204 |  |
 | STUDHAMS, Sarah Ann | ?23.6.1850 -- 25.9.1874 (24) | 204 |  |
 | STUDHAMS, William | ?.?.???? -- 15.4.1884 (68) | 204 |  |
-| SWINERD, Emma *\[ nee Ferrier \]* | ?.?.???? -- 18.11.1930 (78) | 125 | F18 |
+| SWINERD, Emma *\[nee Ferrier\]* | ?.?.???? -- 18.11.1930 (78) | 125 | F18 |
 | TAYLOR, Paul | 27.9.1956 -- 29.1.2025 (68) | 210 | C5 |
 | TAYLOR, Peter | 21.1.1964 -- 3.6.2014 (50) | 210 | C5 |
 | TERR(E)Y, Abraham | ?.?.???? -- 23.2.1661 (44) | 8 Nave |  |
@@ -581,26 +581,26 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | TERRY, Lucy | ?.?.???? -- 6.5.1899 (59) | 126 | F19 |
 | TERRY, Sarah Ann | ?.?.???? -- 19.12.1946 (72) | 126 | F19 |
 | THOMAS, Hilary Joan | 2.12.1951 -- 2.12.2023 (72) | Crem. West of path 236 | D46 |
-| ?THOMAS, Sarah Ann *\[ ?GORE* \] | ?.?.???? -- 31.5.1929 (50) | 117 | F3 |
-| ?THOMAS, William *\[ ?GORE* \] | ?.?.???? -- 27.2.1945 (66) | 117 | F3 |
+| ?THOMAS, Sarah Ann *\[?GORE\]* | ?.?.???? -- 31.5.1929 (50) | 117 | F3 |
+| ?THOMAS, William *\[?GORE\]* | ?.?.???? -- 27.2.1945 (66) | 117 | F3 |
 | THOMPSON, Linda | 16.3.1961 -- 18.3.1961 (2 days) | 194 | C17 |
 | TUCKER, Alan Frank | ?.?.1934 -- 30.6.2013 (78) | Crem. West of path 231 | D35 |
 | TURNER, Frederick John | 28.1.1894 -- 5.11.1966 (72) | 117 |  |
-| TURNER, Rose Sarah *\[ nee ?Gore/Thomas? \]* | 30.8.1901 -- 15.12.1982 (81) | 117 | F3 |
-| VINCENT, ? ? Esmond *\[ CHEESEMAN? \]* | ?.?.???? -- 19.5. 1907 | 2 | D24 |
+| TURNER, Rose Sarah *\[nee ?Gore/Thomas?\]* | 30.8.1901 -- 15.12.1982 (81) | 117 | F3 |
+| VINCENT, ? ? Esmond *\[CHEESEMAN?\]* | ?.?.???? -- 19.5. 1907 | 2 | D24 |
 | VINSON, Alice | 22.2.1882 -- 18.2.1951 (68) | 147 | F21 |
 | VINSON, Robert Stanley | 10.3.1885 -- 14.1.1974 (88) | 147 | F21 |
 | WACHER, Elizabeth | ?.?.???? -- 7.12.1868 (71) | 68 |  |
 | WARD, Brian Herbert | ?.?.1933 -- 15.2.2010 (76) | Crem. West of path 229 | D33 |
 | WARHAM, Ivy | 27.8.1910 -- 27.10.1996 (86) | 184 | B3 |
-| WHISH, Rev Richard Peter *(Vicar of Monkton from 1832*) | ?.?.???? -- 18.8.1868 (80) | 127 |  |
-| WHITE, Frances *\[ nee Sharp?* \] | ?.?.???? -- 20.12.1829 (51) | 3 Chancel |  |
+| WHISH, Rev Richard Peter *(Vicar of Monkton from 1832)* | ?.?.???? -- 18.8.1868 (80) | 127 |  |
+| WHITE, Frances *\[nee Sharp?\]* | ?.?.???? -- 20.12.1829 (51) | 3 Chancel |  |
 | WHITE, James | ?6.12.1810 -- 31.5.1849 (38) | 1 Chancel |  |
 | WHITE, James | ?6.4.1784 -- 21.8.1861 (77) | 1 Chancel |  |
 | WHITE, James | ?.?.???? -- 2.3.1801 (59) | 2 Chancel |  |
 | WHITE, Jane | ??? | 28 |  |
 | WHITE, John | ??? | 22 |  |
-| WHITE, Margaret \[ *nee Collard* \] | ?.?.???? -- 12.9.1823 (75) | 2 Chancel |  |
+| WHITE, Margaret *\[nee Collard\]* | ?.?.???? -- 12.9.1823 (75) | 2 Chancel |  |
 | WHITE, Mary | ?.?.???? -- 6.2.1863 (89) | 3 Chancel |  |
 | WHITE, Rachel | ?.?.???? -- 10.4.1819 (31) | 28 / 1 Chancel |  |
 | WHITE, William | ?10.12.1809 -- 30.8.1871 (61) | 1 Chancel |  |
@@ -620,7 +620,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | WOODCOCK, Edith May | 26.3.1910? -- 23.3.1993 | 3 | D1 |
 | WOODCOCK, Walter John | ?.?.1871 -- 28.1.1939 (67) | 4 | D2 |
 | WRAIGHT, Elizabeth | 22.6.1887 -- 24.7.1964 ? (82) |  | C14 |
-| YOUNG, Joan Margaret \[*nee Harlow*\] | ?.?.???? -- ?.?.1989 *\[ buried 24/6/91 \] (?) New Zealand !!!* |  |  |
+| YOUNG, Joan Margaret *\[nee Harlow\]* | ?.?.???? -- ?.?.1989 *\[ buried 24/6/91 \] (?) New Zealand !!!* |  |  |
 | YOUNG, ? Mary | ?.?.???? -- 20.2.1712 (4 months) | 14 Nave |  |
 | YOUNG, Thomas | ?.?.???? -- 23.1.1715 (9 months) | 14 Nave |  |
 
