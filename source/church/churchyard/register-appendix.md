@@ -209,7 +209,7 @@ THE 12 CHILDREN OF WILLIAM (labourer) & MARY ANN(E) STUDHAM :- GEORGE STUDHAM, b
 
 **208**. \[Guess? GEORGE HORNE, Birchington, buried 9/11/1846, aged 86 years. ANNE HORN, Ware, Sandwich, 17/11/1880, aged 97 years \]?*
 
-**211.** ???? SAMUELL 2026
+**211.** AUDREY SAMUELL 2026
 
 **237.5.** *(new memorial, 2026)* In loving memory / of / JOHN STUART HILL / 5.9.1934 -- 24.1.2020 / JANE ELLEN HILL / 30.4.1938 -- 26.2.2025 / much missed by / all the family
 

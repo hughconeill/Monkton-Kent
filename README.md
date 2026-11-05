@@ -26,6 +26,8 @@ docs-site/
     ├── other-monktons.md     # Other places named Monkton, worldwide
     ├── gallery.md           # Photo gallery
     ├── credits.md            # Who's contributed, and what they've contributed
+    ├── mailing-list.md       # Brevo mailing-list sign-up form (embedded iframe)
+    ├── version-history.md    # Table of site releases (add a row for each update)
     ├── _static/images/    # Photos and scans go here (currently grey
     │                       # placeholder JPGs — swap these out)
     ├── _static/custom.css # Site-wide CSS overrides (loaded via html_css_files)

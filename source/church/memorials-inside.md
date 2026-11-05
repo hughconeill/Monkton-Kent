@@ -6,29 +6,10 @@ Magdalene. Numbering below follows the church's own tablet numbering
 [Churchyard](churchyard/index.md) records, since several families have memorials
 in both places.
 
-## Tablet locations
-
-```{admonition} Note:
+```{admonition} Tablet locations
 :class: note
 See the map on the Churchyard page to find the location of the memorials
 ```
-
-| # | Location | Names |
-|---|----------|-------|
-| 1 | Chancel | Rachel White (1819) & James White (1849) & James White (1861) & William White (1871) |
-| 2 | Chancel | James White (1801) & Margaret White (1823) |
-| 3 | Chancel | Mary White (1863) & Frances Sharp *née* White (1829) |
-| 4 | Chancel | Elizabeth Dowker (1752?) & Elizabeth Dowker (1823) & Frances Dowker (1791) & John Dowker (1756) & John Dowker (1781) & John Dowker (1838) |
-| 5 | Chancel | Thomas Harnett (1714) |
-| 6 | Nave | Elizabeth Collard (1858) & Henry Collard (1858) & James Collard (1822) & Jane Collard (1826) & Mary Ann Collard (1817) |
-| 7 | Nave | Henry Thomas Willett (1945) |
-| 8 | Nave | Abraham Terrey (1661) & Ann Terr(e)y (1704) |
-| 9 | Nave | Catherine Burkett (1778) & John Burkett (1772) |
-| 10 | Nave | Jane Denne (1817) & Mary Denne (1800) & Thomas Denne (1821) & Thomas Collard Denne (1797) & Revd. John Hilton (?) & Mary Elizabeth Hilton (?) |
-| 11 | Nave | James Smith (1830) & Nanny Smith (1831) |
-| 12 | Nave | Frances Blechynden (1611) |
-| 13 | Nave | Margaret Parkar (1607) |
-| 14 | Nave | Revd. John Ayling (1710) & Elizabeth Ayling (1706) & Thomas Young (1715) & Mary Young (1712) |
 
 ## Full transcriptions
 

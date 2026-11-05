@@ -9,7 +9,7 @@ Stuart Horsburgh. It started focused on St Mary Magdalene church (architecture, 
 back to 1291, bells, war memorial, and a full churchyard survey) and has since grown to
 cover the village's Anglo-Saxon/medieval origins, Terry Marsh's reminiscence columns,
 Stuart's 1926 centenary walk, listed buildings, other places named Monkton worldwide, a
-photo gallery, and a Credits page — see "Architecture" below for the current page list.
+photo gallery, a Credits page, a mailing-list sign-up page, and a version history page — see "Architecture" below for the current page list.
 Content is Markdown via MyST, rendered with the Furo theme, and deployed to GitHub
 Pages. See `PROJECT-BRIEF.md` for scope/handover and `README.md` for local setup.
 
@@ -76,6 +76,21 @@ without Sphinx warnings/errors and renders as expected.
   the prose, rather than the footnote-to-`sources.md` convention below — there
   is no `sources.md` in this project (an earlier placeholder version was
   removed; it hasn't been recreated).
+- `source/mailing-list.md` embeds a Brevo sign-up form as an `<iframe>` inside
+  a ```` ```{raw} html ```` block (the iframe was chosen over Brevo's HTML embed so
+  Brevo's CSS/JS can't clash with Furo, and form edits made in Brevo show up
+  without a redeploy). The same iframe is also embedded under a
+  "Mailing list" heading in `about.md`, and `index.md` has a "Mailing list"
+  heading with a one-line link to the page just above the Table of Contents
+  (deliberately not a home-page card — the aim is for only interested
+  visitors to sign up). If the form's length changes in Brevo, adjust the
+  iframe's `height` in **both** `mailing-list.md` and `about.md` so there's
+  no inner scrollbar (currently 650). Subscribers are managed in
+  Brevo, not in this repo.
+- `source/version-history.md` is a newest-first table of site releases
+  (1.0 launched in the November 2026 Monkton News; 1.1 on 5 Nov 2026), linked
+  from the root `toctree` and from `about.md`. When a release goes live, add a
+  row here and keep the version admonition at the top of `index.md` in step.
 - The original scaffold also included `source/history/the-mill.md`,
   `source/history/twentieth-century.md`, `source/people/`, `source/faq.md`,
   `source/timeline.md`, and an earlier placeholder `source/sources.md` —

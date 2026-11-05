@@ -29,6 +29,10 @@ If you have material relating to Monkton — photographs, letters,
 newspaper clippings, or family recollections — get in touch with Stuart (contact details above). 
 ```
 
+## Mailing list
+
+To hear when new material is added to the site, join the [mailing list](mailing-list.md).
+
 ## A note on accuracy...
 
 The information presented on this website is accurate to the best of our knowledge.
@@ -40,3 +44,7 @@ We recognise that some information may be sensitive whether it is true or not an
 we don't want this site to spread information that could cause harm, embarassment or offense.
 Please let us know if you anything on the website could fit that description 
 and we will remove or update the item.  
+
+## Version history
+
+See the [Version History](version-history.md) page for a list of updates to this site.

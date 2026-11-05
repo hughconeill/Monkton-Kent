@@ -26,8 +26,10 @@ Markdown and lives in the `source/` folder.
   published in the Monkton News); Stuart Horsburgh's 1926 Centenary
   Mile Walk; the village's Anglo-Saxon/medieval origins; its
   Historic England-listed buildings; a page on other places named
-  Monkton worldwide; a photo gallery; and a Credits page naming
-  contributors.
+  Monkton worldwide; a photo gallery; a Credits page naming
+  contributors; and a mailing-list sign-up page (a Brevo form,
+  embedded as an iframe — the list itself is managed in Brevo); and a
+  version history page listing the site's releases.
 - **What's out of scope (for now):** a page of general local news
   coverage (`news.md`, "In the News") was built, published, and then
   deliberately removed at the project lead's request — don't
