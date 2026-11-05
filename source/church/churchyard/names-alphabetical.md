@@ -17,7 +17,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 
 {.names-table}
 | Name | Dates | Plot No. | FD Ref |
-|------|-------|----------|-----------|
+|------|-------|----------|--------|
 | ADAMS, Elizabeth | ?.?.???? -- ? 10.4.1801 (?) | 112/111 |  |
 | ADAMS, Emma | ?.?.???? -- 3.6.1855 (24) | 11 |  |
 | ADAMS, Ernest Frank Edward *'Ernie'* | 9.2.1942 -- 27.12.2021 (79) | Crem. East 254 | E38 |

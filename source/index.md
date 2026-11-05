@@ -18,7 +18,7 @@ This is first public version of the new Monkton-in-Thanet history website, featu
 
 ```{figure} https://res.cloudinary.com/monkton/image/upload/v1786114532/Monkton_church_kn8msz.png
 :alt: Monkton Church
-:width: 70%
+:width: 100%
 :align: center
 
 An old postcard of Monkton Church and the stocks

@@ -1,6 +1,13 @@
 # Monkton War Memorial
 
 The village war memorial stands [location — near the church / on the green].
+
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1793643622/War_Memorial_1_reduced_rc0tic.jpg
+:alt: Church Today
+:width: 100%
+:align: center
+```
+
 Its inscription reads:
 
 ```{epigraph}
@@ -10,6 +17,12 @@ This memorial [raised by public subscription] is dedicated.
 
 "Greater love hath no man than this, that a man lay down his life for
 his friends."
+```
+
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1793643632/War_Memorial_text_detail_fdflnb.jpg
+:alt: Church Today
+:width: 50%
+:align: center
 ```
 
 ## 1914 – 1918
@@ -50,7 +63,7 @@ Grant them O Lord eternal rest and let light perpetual shine upon them.
 
 ## Names added later
 
-Two further names appear separately on the memorial, associated with
+Four further names appear separately on the memorial, associated with
 the 1914–1918 list:
 
 - Driver Jack Matthews
@@ -94,7 +107,6 @@ in the churchyard survey itself:
   1918. Grave position: "South-West of Church, near South boundary."
   (plot 191)
 
-See [Memorials Inside the Church](memorials-inside.md) and the
-[churchyard survey](churchyard/survey-by-location.md) for these men's
+See the [churchyard survey](churchyard/survey-by-location.md) for these men's
 gravestones themselves.
 
