@@ -53,6 +53,10 @@ Markdown and lives in the `source/` folder.
 - **Disputed facts:** where sources disagree, say so on the page —
   see the "Conflicting evidence" admonition in `history/origins.md`
   for the pattern — rather than quietly picking one version.
+- **Version history:** each significant update to the site (new
+  pages, features, or a substantial batch of new material) gets a row
+  in `version-history.md` and a matching version note on the home
+  page. Routine data corrections don't.
 
 ## Images
 
@@ -68,8 +72,9 @@ Markdown and lives in the `source/` folder.
 
 - Source files: Markdown in `source/`, built with Sphinx
   (MyST parser + Furo theme).
-- `make book` additionally compiles the history/church content (not the
-  churchyard survey database, not project/nav pages) into a single
+- `make book` additionally compiles the history/church content (with the
+  churchyard survey as a reference part at the back; not project/nav
+  pages) into a single
   printable `.docx` book — see `scripts/README.md`.
 - On every push to `main`, a GitHub Actions workflow
   (`.github/workflows/deploy.yml`) automatically builds the site and

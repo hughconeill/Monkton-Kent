@@ -252,6 +252,12 @@ def _render_table(doc, block):
     table = doc.add_table(rows=1, cols=n_cols)
     table.style = "Light Grid Accent 1"
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    # Repeat the header row at the top of every page the table spans - the
+    # churchyard reference tables run to hundreds of rows / many pages.
+    trPr = table.rows[0]._tr.get_or_add_trPr()
+    tbl_header = OxmlElement("w:tblHeader")
+    tbl_header.set(qn("w:val"), "true")
+    trPr.append(tbl_header)
     hdr_cells = table.rows[0].cells
     for cell, runs in zip(hdr_cells, block["header"]):
         p = cell.paragraphs[0]
@@ -259,7 +265,10 @@ def _render_table(doc, block):
             r = p.add_run(run["text"])
             r.bold = True
     for row in block["rows"]:
-        cells = table.add_row().cells
+        new_row = table.add_row()
+        # Keep each row on one page rather than splitting it across a break.
+        new_row._tr.get_or_add_trPr().append(OxmlElement("w:cantSplit"))
+        cells = new_row.cells
         for cell, runs in zip(cells, row):
             p = cell.paragraphs[0]
             for run in runs:

@@ -27,7 +27,7 @@ docs-site/
     ├── gallery.md           # Photo gallery
     ├── credits.md            # Who's contributed, and what they've contributed
     ├── mailing-list.md       # Brevo mailing-list sign-up form (embedded iframe)
-    ├── version-history.md    # Table of site releases (add a row for each update)
+    ├── version-history.md    # Table of site releases (add a row for each significant update)
     ├── _static/images/    # Photos and scans go here (currently grey
     │                       # placeholder JPGs — swap these out)
     ├── _static/custom.css # Site-wide CSS overrides (loaded via html_css_files)
@@ -136,6 +136,14 @@ in Word.
    ```
 
 3. Rebuild (`make html`).
+
+### Recording a significant update
+
+When a **significant** update goes live (new pages, sections or features, or a
+substantial batch of new material such as photos or articles), add a row to
+the top of the table in `source/version-history.md` and update the version
+note at the top of `source/index.md` to match. Routine data corrections and
+typo fixes don't need an entry.
 
 ## Useful MyST Markdown syntax
 

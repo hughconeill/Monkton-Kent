@@ -25,12 +25,16 @@ ready as generated.
 ## What's included, and what isn't
 
 The book covers the church and history sections, Places, Other Monktons,
-and Credits — see `book_manifest.yaml` for the exact list. It deliberately
-**excludes** the churchyard survey pages (survey-by-location,
-numbered-stones, names-alphabetical, register-appendix) — together those
-are a ~3,000-line genealogical reference database, not something that
-reads as a book chapter. It also excludes project/navigation pages
-(`about.md`, `index.md`).
+the churchyard survey, and Credits — see `book_manifest.yaml` for the exact
+list. The churchyard survey (the churchyard `index.md` plus
+survey-by-location, names-alphabetical, numbered-stones and
+register-appendix) was added in November 2026, once Stuart had corrected it.
+It's a ~3,000-line genealogical reference rather than reading matter, so it
+sits as its own reference part near the back, after the narrative chapters
+and before Credits. Its long tables repeat their header row on every page
+and don't split a row across a page break. The book still excludes
+project/navigation pages (`about.md`, `index.md`, `mailing-list.md`,
+`version-history.md`, `gallery.md`).
 
 ## Adding new content
 
@@ -69,7 +73,7 @@ heading per manifest part (starting a fresh page), a chapter heading per
 source file (also a fresh page, with a bookmark), styled callout boxes,
 embedded images, and real tables. Links that point to another page
 *included in the book* become clickable internal cross-references; links
-to pages outside the book (e.g. a churchyard reference) or to local
+to pages outside the book (e.g. the Gallery) or to local
 files like the 1926 walk's PDF render as plain, unlinked text rather than
 a broken link; external (`http`/`https`) links become ordinary clickable
 hyperlinks.
@@ -79,7 +83,7 @@ hyperlinks.
 Only images are cached — in `build/.book-cache/images/`, keyed by URL, so
 re-running the build doesn't re-download the same Cloudinary images every
 time. That's the only genuinely slow step (a network call); parsing and
-writing the ~1,850 lines of prose themselves take well under a second, so
+writing the ~5,000 lines of content themselves take well under a second, so
 there's no need for (and this doesn't do) per-chapter output caching —
 the whole book rebuilds from scratch on every run, which is simpler and
 has no staleness to reason about. Delete `build/.book-cache/` (or just

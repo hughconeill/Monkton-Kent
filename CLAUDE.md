@@ -89,8 +89,13 @@ without Sphinx warnings/errors and renders as expected.
   Brevo, not in this repo.
 - `source/version-history.md` is a newest-first table of site releases
   (1.0 launched in the November 2026 Monkton News; 1.1 on 5 Nov 2026), linked
-  from the root `toctree` and from `about.md`. When a release goes live, add a
-  row here and keep the version admonition at the top of `index.md` in step.
+  from the root `toctree` and from `about.md`. **Add a row (and bump the
+  version admonition at the top of `index.md` to match) whenever a
+  significant update goes live** — new pages, sections, features, or a
+  substantial batch of new material such as photos or articles. Routine data
+  corrections and typo fixes (e.g. the 7 Nov 2026 memorial/churchyard
+  corrections) do not get an entry. When a change is significant, prompt the
+  user to add the row before pushing to `main`.
 - The original scaffold also included `source/history/the-mill.md`,
   `source/history/twentieth-century.md`, `source/people/`, `source/faq.md`,
   `source/timeline.md`, and an earlier placeholder `source/sources.md` —
@@ -153,9 +158,9 @@ purpose-built Markdown→docx converter (not a general MyST parser, so new synta
 page in its scope may need the converter extending — the guide explains what it
 currently handles), driven by `scripts/book_manifest.yaml`, which lists which pages go
 in (explicit lists for one-off pages, `glob` for the numbered Terry Marsh series so new
-instalments are picked up with no manifest edit). It deliberately excludes the
-churchyard survey pages (too large/database-like for a book) and project/nav pages
-(`about.md`, `index.md`). Output goes to `build/book/` (gitignored, regenerated on
+instalments are picked up with no manifest edit). Since November 2026 it includes
+the churchyard survey pages as a separate reference part near the back (before Credits);
+it still excludes project/nav pages (`about.md`, `index.md`, etc.). Output goes to `build/book/` (gitignored, regenerated on
 demand) — never commit the `.docx` itself.
 
 ## Keeping the other project docs current

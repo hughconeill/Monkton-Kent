@@ -44,6 +44,19 @@ parts:
     sources:
       - other-monktons.md
 
+  # Reference section: the full churchyard survey. Kept as its own part near
+  # the back (after the narrative chapters) because it's a genealogical
+  # reference rather than reading matter - large tables and ~1,800 lines of
+  # transcriptions.
+  - title: "The Churchyard Survey"
+    subtitle: "A reference section, compiled by Stuart Horsburgh"
+    sources:
+      - church/churchyard/index.md
+      - church/churchyard/survey-by-location.md
+      - church/churchyard/names-alphabetical.md
+      - church/churchyard/numbered-stones.md
+      - church/churchyard/register-appendix.md
+
   - title: "Credits"
     sources:
       - credits.md
