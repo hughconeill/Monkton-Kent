@@ -47,7 +47,7 @@ Names of the Monkton men who died in the two World Wars.
 :::{grid-item-card} 🪧 Memorials Inside
 :link: memorials-inside
 :link-type: doc
-Fourteen tablets and floor stones inside the church.
+Fifteen tablets, floor stones and brasses inside the church, plus the John Spicer brass.
 :::
 
 ::::

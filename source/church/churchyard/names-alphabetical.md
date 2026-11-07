@@ -73,7 +73,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | BIDWELL, Laura Jones *\[William Bidwell?\]* | ?.?.???? -- 10.1.1906 (80) | 158 |  |
 | BIRKITT, Rev. John | (see BURKETT) |  |  |
 | BLADES, Eric William | 13.2.1937 -- 11.4.2004 (67) | Crem. West of path 218 | D29 |
-| BLECHUNDEN, Frances | ?.?.???? -- 25.12.1611 (48) | 12 Nave |  |
+| BLECHYNDEN, Frances | ?.?.???? -- 25.12.1611 (48) | 12 Nave |  |
 | BOLTON, Jane Elizabeth | ?.?.1858 -- 10.3.1929 (68) | 39 | D14 |
 | BOLTON. Joseph | ?.?.1856 -- 10.3.1930 (70) | 39 | D14 |
 | BOYNE, Cyril Joseph | ??? | 133 | A22 |
@@ -98,8 +98,8 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | BROWN, Ethel Blanche | ?.?.???? -- 2.7.1972 ? (85) |  |  |
 | BROWN, Nellie Matilda *\[nee Burton\]* | ?.?.???? -- 25.4.1937 (58) | 155 | A7 |
 | BROWN, Ralph | ?.?.???? -- 6.1.1938 (89) | 155 | A7 |
-| BURKETT, Catherine | ?.?.???? -- 31.3.1778 (50?) | 9 Nave |  |
-| BURKETT, Rev John *(Monkton vicar 1767-72)* | ?.?.???? -- 5.4.1772 (50?) | 9 Nave |  |
+| BURKETT, Catherine | ?.?.???? -- 31.3.1778 (30) | 9 Nave |  |
+| BURKETT, Rev John *(Monkton vicar 1767-72)* | ?.?.???? -- 5.4.1772 (30) | 9 Nave |  |
 | BURTON ??? *\[MARY CANTIS\]* |  | 154 | A6 |
 | BURTON, Albert Henry | ?.?.1880 -- 23.1.1957 (76) | 155 | A7 |
 | BURTON, Ida Mabel | ?.?.1882 -- 20.9.1921 (40) | 155 | A7 |
@@ -168,7 +168,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | DENNE, Mary *\[nee Slater\]* |  | 10 Nave |  |
 | DENNE, Sarah ? | 30.11.1775 -- 27.3.1846 (70) | 102 |  |
 | DENNE, Thomas ? | 29.10.1766 -- 16.3.1821 (54) | 10 Nave |  |
-| DENNE, Thomas Collard | ?.?.???? -- 15.4.1797 (11months) | 10 Nave |  |
+| DENNE, Thomas Collard | ?.?.???? -- 13.4.1797 (11months) | 10 Nave |  |
 | DENNE, William | ?.?.???? -- 6?.9.1810 (17?) *\[Guess? buried 2.10.1816 (47) \]* | 102 |  |
 | DENYER ?, Raymond Frederick | ?.?.???? -- 25.10.1966 ? (33) | *{unmarked b/n 95-96}* | E7 |
 | DIXON, Frederick | ?.?.???? -- 16.12? . 1964 ? (72) |  | C81 |
@@ -181,7 +181,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | DOORNE, William | ?.?.1832 -- 12.2.1912 (80) | 10 |  |
 | DOVE, Edward | ?.?.???? -- 12.9.1930 (56) | 138 | A15 |
 | DOVE, Lavinia Jane *\[nee Strand\]* | 12.10.1869 -- 25.12 .1958 (89) | 138 | A15 |
-| DOWKER, Elizabeth | ?.?.???? -- 18.12.1752?51 (12) | 4 Chancel |  |
+| DOWKER, Elizabeth | ?.?.???? -- 18.12.1752 (12) | 4 Chancel |  |
 | DOWKER, Elizabeth | ?13.2.1738 -- 12.9.1823 (83) | 4 Chancel |  |
 | DOWKER, Frances | ?.?.???? -- 24.1.1791 (86) | 4 Chancel |  |
 | DOWKER, John | ?.?.???? -- 18.2.1756 (56) | 4 Chancel |  |
@@ -423,7 +423,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | NORRIS, William Sidney John Jr ? | 12.10.1919 -- 3.4.1997 (77) | 107 | F8 |
 | O'NEILL, Doreen Patricia | ?.?.???? -- 31.12.2009 (83) |  |  |
 | O'NEILL, Douglas Patrick | ?.?.???? -- 7.12.2007 (78) |  |  |
-| ORCHARD, Lebbie | d. 1850 | Nave? |  |
+| ORCHARD, Lebbie | ?.?.???? -- ?.10.1580 | 15 Nave |  |
 | OSBORNE, Caroline Sarah | 10.11.1866 -- 19.10.1961 (94) | 132 | A23 |
 | OSBORNE, Cecilia Emily | ?.?.???? -- 31.7.1934 (66) | 181 | B20 |
 | OSBORNE, Daisy Beatrice | ?.?.???? -- 7.3.1892 (2 mths) | 181 | B20 |
@@ -532,8 +532,8 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | SMITH, Marjorie Kathleen Sarah *('Mo') \[Allnutt\]* | 21.2.1887 -- 26.6.1974 (87) | 170 | B22 |
 | SMITH, Mary | ?17.5.1746 -- 23.3.1797 (?) | 42 |  |
 | SMITH, Michael Jeffrey Wellard | 29.8.1918 -- 13.4.1996 (77) | 173 | B25 |
-| SMITH, Nanny | ?.?.???? -- 7.6.1831 (80) | 76 |  |
-| SMITH, Nanny | ?.?.???? -- 7.6.1831 (80) | 11 Nave |  |
+| SMITH, Nanny | ?.?.???? -- 7.6.1831 (?60/80) | 76 |  |
+| SMITH, Nanny | ?.?.???? -- 7.6.1831 (?60/80) | 11 Nave |  |
 | SMITH, Neil Patrick | 4.9.1947 -- 23.2.1997 (49) | 199 | C72 |
 | SMITH, Percy Thomas | 20.10.1881 -- 11.7.1963 (81) | 142 | A16 |
 | SMITH, Sarah | ?.?.???? -- 23.3.1797 (?) | 42 |  |
