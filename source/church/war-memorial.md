@@ -120,7 +120,7 @@ His family lived in Monkton, in “The Square” (between Shop & Post Office –
 
 Although originating from Woolwich, London, he lived at Solihull Cottages, Sheriffs Ct Lane area. He enlisted with the 3 Regiment Royal Horse Artillery and was fighting in the North Africa campaign. He was killed in action on 7th July 1942 near El Alamein, and prior to Montgomery’s command and the Battle of El Alamein in October that turned the tide in favour of the Allies. He is buried in the El Alamein Cemetery in Egypt.
 
-Poems studied by Monkton school children with Mrs Janet Graham.
+Final inscription...
 
 ```{epigraph}
 Grant them O Lord eternal rest and let light perpetual shine upon them.
@@ -153,13 +153,6 @@ He was born in Monkton, and married Clara Johnson from Stour St, Canterbury. He 
 
 Born in Monkton. No other information.
 
-```{epigraph}
-They shall not grow old as we that are left grow old:\
-Age shall not weary them nor the years condemn.\
-At the going down of the sun and in the morning\
-We will remember them.
-```
-
 ## Other military graves in the churchyard
 
 Two more servicemen of the First World War, not from Monkton, are buried
@@ -191,6 +184,12 @@ East Surrey Regiment, 2nd/6th Bn., service no. 5060. Husband of Florence
 Kate Long, of Walthamstow. Buried in grave [#8](churchyard/numbered-stones.md),
 which has a Commonwealth War Grave headstone.
 
+```{epigraph}
+They shall not grow old as we that are left grow old:\
+Age shall not weary them nor the years condemn.\
+At the going down of the sun and in the morning\
+We will remember them.
+```
 ## Poems
 
 Poems studied by Monkton School children with their headteacher, Mrs

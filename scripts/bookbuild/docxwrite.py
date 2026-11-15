@@ -6,11 +6,11 @@ import posixpath
 
 import requests
 from docx import Document
-from docx.enum.table import WD_TABLE_ALIGNMENT
-from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
+from docx.enum.table import WD_CELL_VERTICAL_ALIGNMENT, WD_TABLE_ALIGNMENT
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK, WD_TAB_ALIGNMENT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
-from docx.shared import Inches, Pt, RGBColor
+from docx.shared import Inches, Pt, RGBColor, Twips
 
 BRAND_BLUE = RGBColor(0x25, 0x63, 0xEB)  # matches the site's brand-primary colour
 GREY = RGBColor(0x55, 0x55, 0x55)
@@ -48,6 +48,21 @@ def new_document():
         h.paragraph_format.space_before = Pt(18 if level <= 2 else 12)
         h.paragraph_format.space_after = Pt(8)
 
+    # Pin the font on every style we use: Word's built-in heading styles take
+    # their font from the document theme, which LibreOffice substitutes.
+    for name in ("Normal", "Heading 1", "Heading 2", "Heading 3", "Heading 4", "Title",
+                 "List Bullet", "Header", "Footer", "Caption"):
+        try:
+            _pin_font(styles[name], "Georgia")
+        except KeyError:
+            pass
+    for name in ("Header", "Footer"):
+        try:
+            styles[name].font.size = Pt(9)
+            styles[name].font.color.rgb = GREY
+        except KeyError:
+            pass
+
     if "Byline" not in [s.name for s in styles]:
         byline = styles.add_style("Byline", styles["Normal"].type)
         byline.base_style = normal
@@ -56,17 +71,34 @@ def new_document():
         byline.font.color.rgb = GREY
 
     if "Caption" not in [s.name for s in styles]:
-        cap = styles.add_style("Caption", styles["Normal"].type)
-        cap.base_style = normal
-        cap.font.italic = True
-        cap.font.size = Pt(9.5)
-        cap.font.color.rgb = GREY
+        styles.add_style("Caption", styles["Normal"].type)
+    cap = styles["Caption"]
+    cap.base_style = normal
+    cap.font.bold = False
+    cap.font.italic = True
+    cap.font.size = Pt(9.5)
+    cap.font.color.rgb = GREY
 
     return doc
 
 
-def add_title_page(doc, manifest, cover_image_path, compiled_date):
-    for _ in range(4):
+def _pin_font(style, name):
+    style.font.name = name
+    rpr = style.element.get_or_add_rPr()
+    rfonts = rpr.find(qn("w:rFonts"))
+    if rfonts is None:
+        rfonts = OxmlElement("w:rFonts")
+        rpr.insert(0, rfonts)
+    for attr in ("w:asciiTheme", "w:hAnsiTheme", "w:eastAsiaTheme", "w:cstheme"):
+        if rfonts.get(qn(attr)) is not None:
+            del rfonts.attrib[qn(attr)]
+    for attr in ("w:ascii", "w:hAnsi", "w:cs"):
+        rfonts.set(qn(attr), name)
+
+
+def add_title_page(doc, volume, cover_image_path, version):
+    """Volume title page: crest, title, subtitle, volume number, version."""
+    for _ in range(3):
         doc.add_paragraph()
     if cover_image_path and os.path.exists(cover_image_path):
         p = doc.add_paragraph()
@@ -74,37 +106,72 @@ def add_title_page(doc, manifest, cover_image_path, compiled_date):
         p.add_run().add_picture(cover_image_path, width=Inches(1.6))
         doc.add_paragraph()
 
+    if volume.get("series"):
+        s = doc.add_paragraph()
+        s.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        r = s.add_run(volume["series"].upper())
+        r.font.size = Pt(11)
+        r.font.color.rgb = BRAND_BLUE
+        r.bold = True
+
     title = doc.add_paragraph()
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = title.add_run(manifest.get("title", "Untitled"))
-    run.font.size = Pt(36)
+    run = title.add_run(volume.get("title", "Untitled"))
+    run.font.size = Pt(32)
     run.font.bold = True
     run.font.name = "Georgia"
 
-    if manifest.get("subtitle"):
+    if volume.get("subtitle"):
         sub = doc.add_paragraph()
         sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        r = sub.add_run(manifest["subtitle"])
-        r.font.size = Pt(18)
+        r = sub.add_run(volume["subtitle"])
+        r.font.size = Pt(16)
         r.font.color.rgb = GREY
         r.font.name = "Georgia"
 
-    for _ in range(6):
+    for _ in range(7):
         doc.add_paragraph()
 
-    foot = doc.add_paragraph()
-    foot.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    r = foot.add_run(f"Compiled {compiled_date} from monkton-kent.uk")
-    r.font.size = Pt(10)
-    r.font.color.rgb = GREY
-    r.italic = True
+    for line, size in ((version, 11), (volume.get("site_url", ""), 10)):
+        if not line:
+            continue
+        foot = doc.add_paragraph()
+        foot.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        foot.paragraph_format.space_after = Pt(2)
+        r = foot.add_run(line)
+        r.font.size = Pt(size)
+        r.font.color.rgb = GREY
+        r.italic = True
 
     doc.add_page_break()
 
 
+def add_front_matter(doc, sections, link_targets, render_md):
+    """'About this volume' page(s): disclaimer, credits summary, how to help.
+
+    `sections` is a list of {"heading": str, "text": markdown str} from the
+    manifest; `render_md` renders a markdown string into the document.
+    """
+    for sec in sections:
+        h = doc.add_paragraph()
+        r = h.add_run(sec["heading"])
+        r.bold = True
+        r.font.size = Pt(14)
+        r.font.color.rgb = BRAND_BLUE
+        h.paragraph_format.space_before = Pt(10)
+        h.paragraph_format.keep_with_next = True
+        render_md(sec["text"])
+    doc.add_page_break()
+
+
 def add_toc(doc):
-    heading = doc.add_heading("Contents", level=1)
-    heading.paragraph_format.page_break_before = False
+    # Deliberately not a Heading style, so "Contents" doesn't list itself.
+    heading = doc.add_paragraph()
+    r = heading.add_run("Contents")
+    r.bold = True
+    r.font.size = Pt(24)
+    r.font.name = "Georgia"
+    heading.paragraph_format.space_after = Pt(12)
 
     p = doc.add_paragraph()
     run = p.add_run()
@@ -130,15 +197,35 @@ def add_toc(doc):
     doc.add_page_break()
 
 
-def add_header_footer(doc, title):
+def add_header_footer(doc, title, version):
+    """Header: the volume's name. Footer: version, and "Page X of Y".
+
+    The title page (first page) has neither.
+    """
     section = doc.sections[-1]
     section.different_first_page_header_footer = True
+    # explicit, empty first-page header/footer (LibreOffice otherwise falls
+    # back to the default ones on the title page)
+    section.first_page_header.is_linked_to_previous = False
+    section.first_page_footer.is_linked_to_previous = False
+    section.first_page_header.paragraphs[0].text = ""
+    section.first_page_footer.paragraphs[0].text = ""
 
     footer = section.footer
     footer.is_linked_to_previous = False
     fp = footer.paragraphs[0]
-    fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    _add_page_number_field(fp)
+    fp.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    # right-aligned tab stop at the text width, for the page number
+    text_width = section.page_width - section.left_margin - section.right_margin
+    tabs = fp.paragraph_format.tab_stops
+    for pos in (4680, 9360):  # the Footer style's built-in tabs, in twips
+        tabs.add_tab_stop(Twips(pos), WD_TAB_ALIGNMENT.CLEAR)
+    tabs.add_tab_stop(text_width, WD_TAB_ALIGNMENT.RIGHT)
+    _grey_run(fp, version + "\t")
+    _grey_run(fp, "Page ")
+    _add_field(fp, "PAGE")
+    _grey_run(fp, " of ")
+    _add_field(fp, "NUMPAGES")
 
     header = section.header
     header.is_linked_to_previous = False
@@ -150,12 +237,23 @@ def add_header_footer(doc, title):
     r.italic = True
 
 
-def _add_page_number_field(paragraph):
+def _grey_run(paragraph, text):
+    r = paragraph.add_run(text)
+    r.font.size = Pt(9)
+    r.font.color.rgb = GREY
+    return r
+
+
+def _add_field(paragraph, instr_text):
     run = paragraph.add_run()
-    for kind, text in (("begin", None), ("instr", "PAGE"), ("end", None)):
+    for kind, text in (("begin", None), ("instr", instr_text), ("separate", None),
+                       ("text", "1"), ("end", None)):
         if kind == "instr":
             el = OxmlElement("w:instrText")
             el.set(qn("xml:space"), "preserve")
+            el.text = text
+        elif kind == "text":
+            el = OxmlElement("w:t")
             el.text = text
         else:
             el = OxmlElement("w:fldChar")
@@ -183,8 +281,20 @@ def add_part_heading(doc, title, subtitle=None):
 def render_blocks(doc, blocks, *, level_offset, link_targets, current_dir, image_cache_dir,
                    chapter_bookmark=None, page_break_before_chapter=True, source_dir):
     first_heading = True
-    for block in blocks:
+    i = 0
+    while i < len(blocks):
+        block = blocks[i]
         t = block["type"]
+        i += 1
+
+        if t == "figure" and block.get("thumb"):
+            # gather this run of consecutive thumbnails into one row/grid
+            group = [block]
+            while i < len(blocks) and blocks[i]["type"] == "figure" and blocks[i].get("thumb"):
+                group.append(blocks[i])
+                i += 1
+            _render_thumbnails(doc, group, current_dir, image_cache_dir, source_dir)
+            continue
 
         if t == "heading":
             level = min(block["level"] + level_offset, 4)
@@ -323,6 +433,37 @@ def _render_figure(doc, block, current_dir, image_cache_dir, source_dir):
         add_runs(cap, block["caption_runs"], {}, current_dir)
 
 
+THUMB_COLS = 3
+THUMB_WIDTH = Inches(1.85)
+
+
+def _render_thumbnails(doc, figures, current_dir, image_cache_dir, source_dir):
+    """Small photos (site `photo-thumb` figures) as a borderless grid, 3 across."""
+    rows = (len(figures) + THUMB_COLS - 1) // THUMB_COLS
+    table = doc.add_table(rows=rows, cols=THUMB_COLS)
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    for n, fig in enumerate(figures):
+        cell = table.rows[n // THUMB_COLS].cells[n % THUMB_COLS]
+        cell.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.TOP
+        p = cell.paragraphs[0]
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p.paragraph_format.keep_with_next = True
+        local_path = resolve_image(fig["src"], current_dir, image_cache_dir, source_dir)
+        if local_path and os.path.exists(local_path):
+            try:
+                p.add_run().add_picture(local_path, width=THUMB_WIDTH)
+            except Exception:
+                pass
+        if fig["caption_runs"]:
+            cap = cell.add_paragraph(style="Caption")
+            cap.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            cap.paragraph_format.space_after = Pt(6)
+            add_runs(cap, fig["caption_runs"], {}, current_dir)
+    for row in table.rows:
+        row._tr.get_or_add_trPr().append(OxmlElement("w:cantSplit"))
+    doc.add_paragraph().paragraph_format.space_after = Pt(4)
+
+
 # ---------------------------------------------------------------------------
 # Runs, links, bookmarks
 # ---------------------------------------------------------------------------
@@ -359,13 +500,26 @@ def add_runs(paragraph, runs, link_targets, current_dir, force_italic=False):
                 r.font.name = "Consolas"
 
 
+# Base URL of the live site. Links to pages that aren't in the volume being
+# built (e.g. from the war memorial to the churchyard survey in another
+# volume, or to the gallery) point here instead of being dropped.
+SITE_BASE = "https://monkton-kent.uk/"
+
+
 def resolve_link(url, current_dir, link_targets):
     if url.startswith(("http://", "https://", "mailto:")):
         return "external", url
     # normalise a relative markdown link to a source/-rooted posix path
-    joined = posixpath.normpath(posixpath.join(current_dir, url.split("#")[0]))
+    path, _, frag = url.partition("#")
+    joined = posixpath.normpath(posixpath.join(current_dir, path))
     if joined in link_targets:
         return "internal", link_targets[joined]
+    if SITE_BASE and not joined.startswith(".."):
+        if joined.endswith(".md"):
+            web = joined[:-3] + ".html"
+            return "external", SITE_BASE + web + (f"#{frag}" if frag else "")
+        if joined.startswith("_static/"):
+            return "external", SITE_BASE + joined
     return "plain", None
 
 

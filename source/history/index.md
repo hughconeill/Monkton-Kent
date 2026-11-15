@@ -7,7 +7,6 @@ Village history and reminiscence that will be added to as available.
 | Special feature |
 |---|
 | [**Stuart's Research**](stuarts-research/index.md) — Stuart Horsburgh's folk history of Monkton: the Centenary Mile Walk of 1926 house by house, special stories, Bernard Cole's interviews with villagers, and the Parish Council chairmen since 1894. |
-| [**Origins of Monkton**](origins.md) — the Anglo-Saxon cemetery, the 961 gift to Christ Church Priory, and the medieval church, from published sources. |
 
 ## Articles
 

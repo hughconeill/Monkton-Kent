@@ -14,6 +14,7 @@ This is an ongoing project to gather information and personal histories in the v
   - the [Parish Council chairmen](history/stuarts-research/parish-council-chairmen.md) since 1894
 - New photographs in the [Gallery](gallery.md), including Ginger the cart horse at the New Inn in 1951 and this year's War Memorial poppies
 - More contributors thanked on the [Credits](credits.md) page
+- A new [Downloads](downloads.md) page, where you can download the website as three printable volumes (PDF): the church and churchyard, Stuart's folk history, and Terry Marsh's columns
 
 **Also on the website:** Stuart's history of the church and comprehensive survey of the churchyard; Monkton's history from sources on the web; Terry Marsh's Monkton News columns; Monkton's listed buildings; other Monktons around the world; and War Graves Commission references for the war graves in the churchyard.
 
@@ -89,6 +90,7 @@ history/index
 places
 other-monktons
 gallery
+downloads
 credits
 mailing-list
 version-history

@@ -28,7 +28,8 @@ Markdown and lives in the `source/` folder.
   Bernard Cole's 1989/91 villager interviews, and the Parish Council
   chairmen since 1894); the village's Anglo-Saxon/medieval origins; its
   Historic England-listed buildings; a page on other places named
-  Monkton worldwide; a photo gallery; a Credits page naming
+  Monkton worldwide; a photo gallery; a Downloads page offering the content as three
+  printable PDF volumes; a Credits page naming
   contributors; and a mailing-list sign-up page (a Brevo form,
   embedded as an iframe — the list itself is managed in Brevo); and a
   version history page listing the site's releases.
@@ -74,10 +75,12 @@ Markdown and lives in the `source/` folder.
 
 - Source files: Markdown in `source/`, built with Sphinx
   (MyST parser + Furo theme).
-- `make book` additionally compiles the history/church content (with the
-  churchyard survey as a reference part at the back; not project/nav
-  pages) into a single
-  printable `.docx` book — see `scripts/README.md`.
+- `make book` additionally compiles the content into three printable A4
+  PDF volumes (church & churchyard; Stuart's folk history; Terry Marsh's
+  columns) for the Downloads page. It needs LibreOffice, so it runs on the
+  maintainer's machine, not in GitHub Actions — the PDFs are committed in
+  `source/_static/downloads/`. Rebuild them for each new version — see
+  `scripts/README.md`.
 - On every push to `main`, a GitHub Actions workflow
   (`.github/workflows/deploy.yml`) automatically builds the site and
   publishes it to GitHub Pages. No manual deploy step. Work on any
