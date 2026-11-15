@@ -71,3 +71,33 @@ table.stones-table td:nth-child(2) {
     margin-top: 1.75rem;
     margin-bottom: 0.5rem;
 }
+
+/* Small click-to-zoom photos embedded in article pages (Stuart's Research).
+   Each is a {figure} with ":figclass: photo-thumb" and a ":target:" to the
+   full-size Cloudinary image. inline-block lets consecutive figures sit side
+   by side as a row of thumbnails; a single one just shows small. */
+article figure.photo-thumb {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(33.333% - 0.75rem);
+    margin: 0.25rem 0.75rem 1rem 0;
+    text-align: left;
+}
+article figure.photo-thumb img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+article figure.photo-thumb figcaption {
+    font-size: 0.8em;
+    line-height: 1.35;
+    margin-top: 0.3rem;
+}
+article figure.photo-thumb figcaption p {
+    margin: 0;
+}
+@media (max-width: 40em) {
+    article figure.photo-thumb {
+        width: calc(50% - 0.75rem);
+    }
+}

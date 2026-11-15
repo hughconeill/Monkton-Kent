@@ -226,12 +226,21 @@ def parse_markdown(text):
             continue
 
         # plain paragraph: gather soft-wrapped lines until blank/structural line
+        # A line ending in a backslash is a MyST hard line break (used for
+        # poems): keep it as "\n" in the run text, which docxwrite turns into
+        # a Word line break, instead of joining the lines with a space.
         para_lines = [stripped]
         i += 1
         while i < n and lines[i].strip() and not _is_structural(lines[i]):
             para_lines.append(lines[i].strip())
             i += 1
-        blocks.append({"type": "para", "runs": parse_inline(" ".join(para_lines))})
+        joined = para_lines[0]
+        for pl in para_lines[1:]:
+            if joined.endswith("\\"):
+                joined = joined[:-1] + "\n" + pl
+            else:
+                joined += " " + pl
+        blocks.append({"type": "para", "runs": parse_inline(joined)})
 
     return blocks
 

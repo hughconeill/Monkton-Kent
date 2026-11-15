@@ -59,7 +59,10 @@ project/navigation pages (`about.md`, `index.md`, `mailing-list.md`,
 into a list of block dicts (headings, paragraphs, lists, tables, callouts,
 figures, quotes) — handling the specific directives this content uses
 (`{admonition}`, `{note}`/`{tip}`/`{warning}`/`{important}`/`{seealso}`,
-`{epigraph}`, `{figure}`; `{toctree}` is dropped). It is not a general MyST
+`{epigraph}`, `{figure}`; `{toctree}` is dropped). A line ending in a
+backslash (MyST's hard line break, used for the poems on the war memorial
+page) becomes a line break in Word rather than being joined to the next
+line with a space. It is not a general MyST
 parser — if a page starts using syntax it doesn't recognise, it falls back
 to a plain paragraph rather than failing the build, but the output for
 that bit will look plain rather than styled. Check `make book`'s output

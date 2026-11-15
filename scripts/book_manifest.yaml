@@ -23,10 +23,23 @@ parts:
       - church/war-memorial.md
       - church/memorials-inside.md
 
-  - title: "Origins and the 1926 Centenary Walk"
+  - title: "Origins"
     sources:
       - history/origins.md
-      - history/monkton-1926.md
+
+  - title: "Stuart's Research"
+    subtitle: "A folk history of Monkton, by Stuart Horsburgh"
+    sources:
+      - history/stuarts-research/index.md
+      - history/stuarts-research/centenary-walk/index.md
+      - history/stuarts-research/centenary-walk/zone-1.md
+      - history/stuarts-research/centenary-walk/zone-2.md
+      - history/stuarts-research/centenary-walk/zone-3.md
+      - history/stuarts-research/centenary-walk/zone-4.md
+      - history/stuarts-research/special-stories.md
+      - history/stuarts-research/bernard-cole-interviews.md
+      - history/stuarts-research/parish-council-chairmen.md
+      - history/stuarts-research/final-thoughts.md
 
   - title: "Monkton Memories"
     subtitle: "by Terry Marsh"

@@ -8,7 +8,7 @@ A Sphinx documentation site recording the history of Monkton (Thanet, Kent) — 
 Stuart Horsburgh. It started focused on St Mary Magdalene church (architecture, clergy
 back to 1291, bells, war memorial, and a full churchyard survey) and has since grown to
 cover the village's Anglo-Saxon/medieval origins, Terry Marsh's reminiscence columns,
-Stuart's 1926 centenary walk, listed buildings, other places named Monkton worldwide, a
+Stuart's research section (his 1926 centenary walk and more), listed buildings, other places named Monkton worldwide, a
 photo gallery, a Credits page, a mailing-list sign-up page, and a version history page — see "Architecture" below for the current page list.
 Content is Markdown via MyST, rendered with the Furo theme, and deployed to GitHub
 Pages. See `PROJECT-BRIEF.md` for scope/handover and `README.md` for local setup.
@@ -52,6 +52,15 @@ without Sphinx warnings/errors and renders as expected.
   fans out to `names-alphabetical.md`, `numbered-stones.md`,
   `survey-by-location.md`, `register-appendix.md` — the churchyard survey data),
   `richard-culmer.md`, `war-memorial.md`, and `memorials-inside.md`.
+  `war-memorial.md` gives each man on the memorial a `###` subheading
+  (rank, name, dates, age) followed by his short biography (from the Dec
+  2026 "MONKTON WAR MEMORIAL" document), under `## 1914 – 1918`,
+  `## 1939 – 1945` and `## Names added later`; then the two non-Monkton
+  servicemen buried in the churchyard, and two poems (line breaks via MyST
+  trailing-backslash hard breaks). Commonwealth War Graves Commission
+  details are not a separate section: where a man has a CWGC record, a
+  bold "**Official record:**" paragraph with the CWGC link (service no.,
+  next of kin, grave number/position) follows his biography.
   `source/history/index.md` fans out to two columns by Terry Marsh, originally
   published in the Monkton News parish magazine and extracted from scanned
   `.docx` copies: `monkton-memories/` (childhood/village-life reminiscences,
@@ -62,9 +71,7 @@ without Sphinx warnings/errors and renders as expected.
   of both columns later — renumbering/re-titling them then is expected.
 - `source/history/index.md` also has a "Featured" table (not a `{grid}`, so it
   reads as one-off rather than a permanent column like Terry Marsh's) linking
-  `source/history/monkton-1926.md` (Stuart Horsburgh's 1926 centenary-walk
-  article and 4-zone map, plus a downloadable PDF built from the same images —
-  see `source/_static/monkton-1926-centenary-mile-walk-map.pdf`) and
+  `source/history/stuarts-research/index.md` and
   `source/history/origins.md` (Anglo-Saxon/medieval Monkton, sourced from
   British History Online's Hasted transcription and the Kent Archaeological
   Society journal). `source/places.md` (linked from the root `index.md`) lists
@@ -76,6 +83,29 @@ without Sphinx warnings/errors and renders as expected.
   the prose, rather than the footnote-to-`sources.md` convention below — there
   is no `sources.md` in this project (an earlier placeholder version was
   removed; it hasn't been recreated).
+- `source/history/stuarts-research/` ("Stuart's Research") is Stuart
+  Horsburgh's folk history of Monkton, converted from his Word document
+  `Stuarts_Monkton_History.docx` (Nov 2026). It replaced the earlier
+  single `history/monkton-1926.md` page (now deleted — old links to
+  `history/monkton-1926.html` 404). `index.md` holds his general
+  introduction and a contents table (a plain table, not `{grid}` cards, so
+  the page stays printable by the book converter); `centenary-walk/index.md`
+  has the walk introduction, "The world in 1926", "Monkton in 1926", the
+  route summary and the map PDF download
+  (`source/_static/monkton-1926-centenary-mile-walk-map.pdf`);
+  `centenary-walk/zone-1.md`…`zone-4.md` each open with that zone's map
+  image (`_static/images/monkton-1926-zone-N.jpg`) followed by one `##`
+  heading per house ("Left:/Right:" marks the side of the street on the
+  first house of a group), with census/directory/Parish Council guide
+  records as bullets with a bold date label. Stuart's own uncertainties
+  (the `???` in his document) are kept as `{admonition} Stuart's query`
+  boxes or a trailing "(?)" in headings, and unplaced 1901 census entries
+  sit in "1901 census – entries not yet matched to a house" boxes — don't
+  silently resolve these. Sibling pages: `special-stories.md`,
+  `bernard-cole-interviews.md`, `parish-council-chairmen.md`,
+  `final-thoughts.md`. Stuart's text is kept close to verbatim, including
+  his convention of SURNAMES in capitals. When he sends a revised document,
+  diff it against these pages rather than re-converting from scratch.
 - `source/mailing-list.md` embeds a Brevo sign-up form as an `<iframe>` inside
   a ```` ```{raw} html ```` block (the iframe was chosen over Brevo's HTML embed so
   Brevo's CSS/JS can't clash with Furo, and form edits made in Brevo show up
@@ -88,7 +118,7 @@ without Sphinx warnings/errors and renders as expected.
   no inner scrollbar (currently 650). Subscribers are managed in
   Brevo, not in this repo.
 - `source/version-history.md` is a newest-first table of site releases
-  (1.0 launched in the November 2026 Monkton News; 1.1 on 5 Nov 2026), linked
+  (1.0 launched in the November 2026 Monkton News; 1.1 on 5 Nov 2026; 2 in the December 2026 Monkton News), linked
   from the root `toctree` and from `about.md`. **Add a row (and bump the
   version admonition at the top of `index.md` to match) whenever a
   significant update goes live** — new pages, sections, features, or a
@@ -108,7 +138,23 @@ without Sphinx warnings/errors and renders as expected.
   `_static/images/placeholder-*.jpg` (literal grey placeholders) — replace with real
   scans before treating a page as finished. Some newer pages (e.g. `index.md`,
   `church/index.md`) instead reference images hosted externally on Cloudinary
-  (`res.cloudinary.com/monkton/...`).
+  (`res.cloudinary.com/monkton/...`). To find new uploads, load
+  `~/.config/cloudinary.env` (holds `CLOUDINARY_URL`, outside the repo —
+  never commit or echo it) and list resources with the `cloudinary` package
+  in `.venv` (`cloudinary.api.resources`), then diff against the image IDs
+  already referenced in `source/**/*.md`. Ignore Cloudinary's built-in demo
+  assets (`sample`, `samples/...`, `cld-sample*`, `main-sample`); real uploads
+  are in the `Monkton-general` asset folder. Gallery entries in `gallery.md`
+  are `{grid-item-card}`s using a `w_500,c_limit,q_auto` thumbnail with a
+  `:target:` to the full image.
+  Article pages (currently Stuart's Research) embed gallery photos as small
+  click-to-zoom thumbnails: a `{figure}` whose source is the Cloudinary URL
+  with `w_800,c_limit,q_auto`, `:target:` the untransformed full image, and
+  `:figclass: photo-thumb`. The `photo-thumb` rule in `custom.css` makes them
+  inline-block at a third of the width (half on phones), so consecutive
+  figures form a row of thumbnails. Use `{figure}`, not `{image}`/grids, on
+  any page in the printable book — the book converter only understands
+  `{figure}`.
 
 ## Editorial conventions (from `README.md` / `PROJECT-BRIEF.md`)
 
@@ -116,7 +162,7 @@ without Sphinx warnings/errors and renders as expected.
   Markdown footnote (`[^label]` ... `[^label]: full citation`) linking back to a
   `source/sources.md` organized by record type — that file no longer exists (see
   above), so this isn't in active use. Pages sourced from the open web
-  (`origins.md`, `places.md`, `monkton-1926.md`,
+  (`origins.md`, `places.md`,
   `other-monktons.md`) instead cite with inline
   Markdown links directly in the prose/a trailing "Source(s):" line, pointing at
   the original page (British History Online, Historic England, Wikipedia, etc.)

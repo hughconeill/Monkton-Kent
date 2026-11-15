@@ -245,5 +245,103 @@ Recovering the tractor.
 The combine harvester on the collapsed bridge, 2004. See {doc}`Close calls on the farm <history/farming-life/24-close-calls-on-the-farm-continued>`.
 :::
 
-::::
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759710/Ginger_2_1951_eerziy.png
+:alt: Ginger the cart horse in the New Inn, 26 October 1951
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759710/Ginger_2_1951_eerziy.png
+```
+^^^
+Watched by customers, landlord Mr H Mills pours out a beer for Ginger, a 9-year-old cart horse, who stops for a quick pint with his master in the public bar of the New Inn, 26 October 1951. See {doc}`Zone 2 <history/stuarts-research/centenary-walk/zone-2>` for the pub's history.
+:::
 
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794760058/War_Memorial_Nov-26_pwcvqk.jpg
+:alt: Monkton War Memorial with poppies, November 2026
+:target: https://res.cloudinary.com/monkton/image/upload/v1794760058/War_Memorial_Nov-26_pwcvqk.jpg
+```
+^^^
+The {doc}`War Memorial <church/war-memorial>` decorated with poppies for Remembrance, November 2026.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759684/Hornby_Monkton_PO_1_rf22jb.png
+:alt: Hornby model of Monkton Post Office, front view
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759684/Hornby_Monkton_PO_1_rf22jb.png
+```
+^^^
+The Hornby 00 gauge Country Post Office model kit, based on Monkton's Village Shop and Post Office – front view. See {doc}`Zone 2 <history/stuarts-research/centenary-walk/zone-2>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759689/Hornby_Monkton_PO_4_q7h8ew.png
+:alt: Hornby model of Monkton Post Office, back view
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759689/Hornby_Monkton_PO_4_q7h8ew.png
+```
+^^^
+The Hornby 00 gauge Country Post Office model kit, based on Monkton's Village Shop and Post Office – back view. See {doc}`Zone 2 <history/stuarts-research/centenary-walk/zone-2>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759678/Hornby_Monkton_PO_2_ikimsl.png
+:alt: Hornby model of Monkton Post Office, side view
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759678/Hornby_Monkton_PO_2_ikimsl.png
+```
+^^^
+The Hornby 00 gauge Country Post Office model kit, based on Monkton's Village Shop and Post Office – side view. See {doc}`Zone 2 <history/stuarts-research/centenary-walk/zone-2>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759681/Hornby_Monkton_PO_3_vojfnl.png
+:alt: Hornby model of Monkton Post Office, side view
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759681/Hornby_Monkton_PO_3_vojfnl.png
+```
+^^^
+The Hornby 00 gauge Country Post Office model kit, based on Monkton's Village Shop and Post Office – side view. See {doc}`Zone 2 <history/stuarts-research/centenary-walk/zone-2>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759677/Hornby_Monkton_PO_5_fphz1v.png
+:alt: Hornby model of Monkton Post Office
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759677/Hornby_Monkton_PO_5_fphz1v.png
+```
+^^^
+The Hornby 00 gauge Country Post Office model kit, based on Monkton's Village Shop and Post Office. See {doc}`Zone 2 <history/stuarts-research/centenary-walk/zone-2>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759620/Bolog_contestants_jxltby.jpg
+:alt: The bolognese contestants
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759620/Bolog_contestants_jxltby.jpg
+```
+^^^
+The bolognese contestants at the White Stag. See “Spag bol-gate!” in {doc}`Special Stories <history/stuarts-research/special-stories>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759621/Bolog_tasting1_omrcoq.jpg
+:alt: Tasting the bolognese
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759621/Bolog_tasting1_omrcoq.jpg
+```
+^^^
+Tasting the bolognese at the White Stag. See “Spag bol-gate!” in {doc}`Special Stories <history/stuarts-research/special-stories>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759621/Bolog_tasting2_nzvb4w.jpg
+:alt: Judging the bolognese
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759621/Bolog_tasting2_nzvb4w.jpg
+```
+^^^
+Judging the bolognese at the White Stag. See “Spag bol-gate!” in {doc}`Special Stories <history/stuarts-research/special-stories>`.
+:::
+
+:::{grid-item-card}
+```{image} https://res.cloudinary.com/monkton/image/upload/w_500,c_limit,q_auto/v1794759621/Bolog_PaulH_bmfxlc.jpg
+:alt: At the bar on the night of the bolognese contest
+:target: https://res.cloudinary.com/monkton/image/upload/v1794759621/Bolog_PaulH_bmfxlc.jpg
+```
+^^^
+At the bar on the night of the bolognese contest at the White Stag. See “Spag bol-gate!” in {doc}`Special Stories <history/stuarts-research/special-stories>`.
+:::
+
+::::

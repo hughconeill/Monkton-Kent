@@ -18,7 +18,13 @@ docs-site/
     ├── about.md           # About the project / how to contribute
     ├── history/            # Village history and reminiscence
     │   ├── index.md
-    │   ├── monkton-1926.md    # Stuart Horsburgh's 1926 centenary walk + map
+    │   ├── stuarts-research/  # Stuart Horsburgh's folk history of Monkton:
+    │   │   ├── index.md       #   his introduction + section contents
+    │   │   ├── centenary-walk/ #  1926 Centenary Mile Walk: index.md + zone-1..4.md
+    │   │   ├── special-stories.md
+    │   │   ├── bernard-cole-interviews.md
+    │   │   ├── parish-council-chairmen.md
+    │   │   └── final-thoughts.md
     │   ├── origins.md         # Anglo-Saxon/medieval Monkton, from web sources
     │   ├── monkton-memories/  # Terry Marsh's Monkton News column (numbered)
     │   └── farming-life/      # Terry Marsh's Monkton News column (numbered)
@@ -43,7 +49,7 @@ needs them again.
 
 - **Every factual claim should cite a source.** There's no `sources.md` in
   this project — pages sourced from the open web (`history/origins.md`,
-  `places.md`, `history/monkton-1926.md`, `other-monktons.md`)
+  `places.md`, `other-monktons.md`)
   cite with plain inline Markdown
   links to the original page, directly in the prose or in a trailing
   "Source(s):" line. Prefer the most authoritative source you can find (e.g.

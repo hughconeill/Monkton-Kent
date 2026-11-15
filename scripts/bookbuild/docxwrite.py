@@ -342,7 +342,15 @@ def add_runs(paragraph, runs, link_targets, current_dir, force_italic=False):
         elif kind == "external":
             _add_external_hyperlink(paragraph, run["text"], target, run, force_italic)
         else:
-            r = paragraph.add_run(run["text"])
+            # "\n" in run text is a hard line break (see mdparse's handling
+            # of lines ending in a backslash)
+            parts = run["text"].split("\n")
+            for part in parts[:-1]:
+                r = paragraph.add_run(part)
+                r.bold = run["bold"]
+                r.italic = run["italic"] or force_italic
+                r.add_break()
+            r = paragraph.add_run(parts[-1])
             r.bold = run["bold"]
             r.italic = run["italic"] or force_italic
             if run["sup"]:
