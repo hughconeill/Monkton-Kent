@@ -33,7 +33,7 @@ Born in Minster, 7th of 9 children. A lodger in Monkton from the 1901 census. He
 
 ### Private John Carthew (1879–1915), aged 36
 
-He was born in Monkton, the 6th child of Charles & Emma, and lived at Gore St., then Solihull Cottages (near Sheriffs Ct Lane). He was buried at Monkton on 22.8.1906 aged 67 – Emma was also buried there on 22.6.1933 aged 92. He was a regular soldier and could have seen action before WW1. He enlisted again in Canterbury into the Buffs Regiment who went to France in January 1915, soon fighting the 2nd Battle of Ypres. Under intense fighting he did not survive and was killed in action on 3rd May 1915. His body was never recovered. His name is inscribed on the Menin Gate Memorial at Ypres in Belgium.
+He was born in Monkton, the 6th child of Charles & Emma, and lived at Gore St., then Solihull Cottages (near Sheriffs Ct Lane). His father Charles was buried at Monkton on 22.8.1906 aged 67 – his mother Emma was also buried there on 22.6.1933 aged 92. He was a regular soldier and could have seen action before WW1. He enlisted again in Canterbury into the Buffs Regiment who went to France in January 1915, soon fighting the 2nd Battle of Ypres. Under intense fighting he did not survive and was killed in action on 3rd May 1915. His body was never recovered. His name is inscribed on the Menin Gate Memorial at Ypres in Belgium.
 
 ### Private Ernest Fitall (1887–1918), aged 31
 
@@ -143,7 +143,7 @@ South boundary", which has a Commonwealth War Grave headstone.
 
 ### Lance Corporal William John Knight (d.1918), aged 34
 
-He enlisted with the 6th Battalion, The Buffs (East Kent Regiment), who were deployed near Albert, France. Their position was heavily shelled and Frederick was probably wounded, dying the next day on 4th May 1918. His body is buried in the Bagneux British War Cemetery at Gezaincourt.
+He enlisted with the 6th Battalion, The Buffs (East Kent Regiment), who were deployed near Albert, France. Their position was heavily shelled and William was probably wounded, dying the next day on 4th May 1918. His body is buried in the Bagneux British War Cemetery at Gezaincourt.
 
 ### Private Henry John Martin (d.1917), aged 28
 
