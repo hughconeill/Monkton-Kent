@@ -85,6 +85,10 @@ Markdown and lives in the `source/` folder.
   (`.github/workflows/deploy.yml`) automatically builds the site and
   publishes it to GitHub Pages. No manual deploy step. Work on any
   other branch does **not** go live until it's merged to `main`.
+- Each version is developed on its own branch, merged to `main` via a
+  pull request (merge commit), and tagged as a GitHub Release (`v1.1`,
+  `v2.0`, ...) with the PDF volumes attached — see `CLAUDE.md`
+  ("Releases") for the steps and how to roll back.
 - The site is published at `https://hughconeill.github.io/Monkton-Kent/`,
   which redirects to the project's custom domain,
   `https://monkton-kent.uk/` — link to the custom domain when sharing

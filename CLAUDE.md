@@ -193,11 +193,30 @@ without Sphinx warnings/errors and renders as expected.
 `.github/workflows/deploy.yml` is active: every push to `main` (or a manual run from the
 Actions tab) builds the site with `sphinx-build -b html source build/html` and publishes
 it to GitHub Pages via `actions/deploy-pages`. Work on other branches does **not** go
-live until it is merged to `main` — Version 2 was developed on `Version_2_Terry` and
-went live when PR #1 was merged. The repository is named `Monkton-Kent` on GitHub, so
+live until it is merged to `main`. The repository is named `Monkton-Kent` on GitHub, so
 the site builds to `https://hughconeill.github.io/Monkton-Kent/`, which redirects to the
 project's custom domain, `https://monkton-kent.uk/` — that's the URL to share, not the
 `github.io` one.
+
+### Releases (versions)
+
+Each release in `version-history.md` is a **git tag + GitHub Release** (`gh release`),
+named `v<version>` — `v1.1` (live from 5–7 Nov 2026, tagged retrospectively at
+`71fe3cb`; 1.0 was never tagged), `v2.0` (December 2026), and so on. A new version is
+developed on its own branch (e.g. `Version_2_December`) and released by:
+
+1. bumping the version in `index.md`'s admonition, `version-history.md` and
+   `version:` in `scripts/book_manifest.yaml`, then `make book` and committing the
+   refreshed PDFs on the branch;
+2. a pull request into `main`, merged with a **merge commit** (`gh pr merge --merge`,
+   not squash/rebase), so the whole release is one commit on `main`;
+3. tagging that merge commit and creating the GitHub Release
+   (`gh release create v2.0 --target main ...`) with short notes and the PDF volumes
+   attached as release assets.
+
+To roll back a release: `git revert -m 1 <merge commit>` on `main` and push (the site
+redeploys); the tag of the previous version shows exactly what was live. Always confirm
+with the user before merging or pushing to `main`.
 
 ## The printable volumes (Downloads page)
 

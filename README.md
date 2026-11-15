@@ -117,6 +117,13 @@ make livehtml
 This opens a local server that automatically rebuilds and refreshes
 your browser whenever you save a file — much faster for writing.
 
+## Releasing a new version
+
+Each version is built on its own branch, merged into `main` by a pull request
+(which publishes the site), and tagged as a GitHub Release — `v1.1`, `v2.0`,
+and so on. See "Releases" in `CLAUDE.md` for the checklist and for how to
+roll back to the previous version.
+
 ## Printable volumes (PDF downloads)
 
 ```bash
