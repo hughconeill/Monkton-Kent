@@ -158,6 +158,10 @@ def parse_markdown(text):
 
         if _ATTRS_BLOCK.match(stripped):
             i += 1
+            # `{.toc-heading}` labels the site's "Table of Contents" line
+            # above a toctree - website navigation, so drop the label too.
+            if stripped == "{.toc-heading}" and i < n and lines[i].strip():
+                i += 1
             continue
 
         m = _HEADING.match(stripped)
@@ -226,12 +230,21 @@ def parse_markdown(text):
             continue
 
         # plain paragraph: gather soft-wrapped lines until blank/structural line
+        # A line ending in a backslash is a MyST hard line break (used for
+        # poems): keep it as "\n" in the run text, which docxwrite turns into
+        # a Word line break, instead of joining the lines with a space.
         para_lines = [stripped]
         i += 1
         while i < n and lines[i].strip() and not _is_structural(lines[i]):
             para_lines.append(lines[i].strip())
             i += 1
-        blocks.append({"type": "para", "runs": parse_inline(" ".join(para_lines))})
+        joined = para_lines[0]
+        for pl in para_lines[1:]:
+            if joined.endswith("\\"):
+                joined = joined[:-1] + "\n" + pl
+            else:
+                joined += " " + pl
+        blocks.append({"type": "para", "runs": parse_inline(joined)})
 
     return blocks
 
@@ -271,15 +284,21 @@ def _parse_directive(name, title, body_lines):
         # the image path is on the opening fence line: ```{figure} <path>
         src = title.strip()
         alt = ""
+        figclass = ""
         for l in body_lines:
             om = _OPTION.match(l.strip())
             if om and om.group(1) == "alt":
                 alt = om.group(2)
+            elif om and om.group(1) == "figclass":
+                figclass = om.group(2)
         caption_text = " ".join(l.strip() for l in content if l.strip())
         return {
             "type": "figure",
             "src": src,
             "alt": alt,
+            # small click-to-zoom photos on the site (`:figclass: photo-thumb`)
+            # are laid out as rows of thumbnails in the book too
+            "thumb": "photo-thumb" in figclass.split(),
             "caption_runs": parse_inline(caption_text) if caption_text else [],
         }
 

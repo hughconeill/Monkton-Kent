@@ -73,7 +73,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | BIDWELL, Laura Jones *\[William Bidwell?\]* | ?.?.???? -- 10.1.1906 (80) | 158 |  |
 | BIRKITT, Rev. John | (see BURKETT) |  |  |
 | BLADES, Eric William | 13.2.1937 -- 11.4.2004 (67) | Crem. West of path 218 | D29 |
-| BLECHYNDEN, Frances | ?.?.???? -- 25.12.1611 (48) | 12 Nave |  |
+| BLECHYNDEN, Francis | ?.?.???? -- 25.12.1611 (48) | 12 Nave |  |
 | BOLTON, Jane Elizabeth | ?.?.1858 -- 10.3.1929 (68) | 39 | D14 |
 | BOLTON. Joseph | ?.?.1856 -- 10.3.1930 (70) | 39 | D14 |
 | BOYNE, Cyril Joseph | ??? | 133 | A22 |
@@ -98,7 +98,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | BROWN, Ethel Blanche | ?.?.???? -- 2.7.1972 ? (85) |  |  |
 | BROWN, Nellie Matilda *\[nee Burton\]* | ?.?.???? -- 25.4.1937 (58) | 155 | A7 |
 | BROWN, Ralph | ?.?.???? -- 6.1.1938 (89) | 155 | A7 |
-| BURKETT, Catherine | ?.?.???? -- 31.3.1778 (30) | 9 Nave |  |
+| BURKETT, Catharine | ?.?.???? -- 3.3.1778 (30) | 9 Nave |  |
 | BURKETT, Rev John *(Monkton vicar 1767-72)* | ?.?.???? -- 5.4.1772 (30) | 9 Nave |  |
 | BURTON ??? *\[MARY CANTIS\]* |  | 154 | A6 |
 | BURTON, Albert Henry | ?.?.1880 -- 23.1.1957 (76) | 155 | A7 |
@@ -379,7 +379,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | MARSH, Kathleen Edith *\[nee Harris\]* | 5.10.1928 -- 21.9.2015 (86) | Crem. West 234 | D38 |
 | MASTERS, George Frederick | ?.?.???? -- 14.5.1955 ? (61) |  |  |
 | MATSON, Mary ? | ?.?.???? -- ? 17.1.1800 (?) | 55 |  |
-| **MATTHEWS, 'Driver' John** | ?.?.???? -- 29.12.1918 (30) | Com. War Grave 191 | C2 |
+| **MATTHEWS, 'Driver' Jack** | 25.11.1889 -- 29.12.1918 (30) | Com. War Grave 191 | C2 |
 | MAXTED, Mary | ?.?.???? -- 20.12.1861 (62) | 200 |  |
 | MAXTED, Richard | ?2.10.1796 -- ?3.8.1881 (84) | 200 |  |
 | MAY, Elizabeth | ?.?.???? -- 22.4.1758 (68) | 89 |  |
@@ -478,6 +478,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | RIGDEN, Sarah | ?.?.???? -- 21.12.1880 (77) | 26 |  |
 | RIGGS, Charles | ?.?.???? -- 18.2.1968 (72) | 209 | C52 |
 | RIGGS, Grace Florence *\[nee Nethersole\]* | 3.8.1918 -- 5.8.1998 (80) | 209 | C52 |
+| ROBINSON, Nicholas | ?.?.???? - 23.6.1594 (?) | 16 Nave | |
 | ROLFE, Peter | 4.11.1968 -- 8.10.2007 (38) | 213 |  |
 | ROPER, John | ??? | 22 |  |
 | ROSE, Christine Florence | ?.?.???? -- 13.3.1985 (62) | 82 | E9 |

@@ -3,17 +3,22 @@
 Welcome to the community history archive for Monkton. 
 This is an ongoing project to gather information and personal histories in the village led by Stuart Horsburgh.
 
-```{admonition} Version 1.1 (minor update -- **5 Nov** -- to fix some errors, add some photos and added a mailing list subscription to notify subscribers of updates)
+```{admonition} Version 2 – December 2026 (released in the December Monkton News)
 :class: tip
 
-This is first public version of the new Monkton-in-Thanet history website, featuring:
-- Stuart's history of the church and comprehensive survey of the churchyard
-- Stuart's 1926 Centenary trail
-- Some of Monkton's history taken from sources on the web
-- Other Monktons around the world
-- A list of listed buildings
-- Some War Graves Commmission references to the war graves in the churchyard 
+**New in this version:**
+- [Stuart's Research](history/stuarts-research/index.md) – Stuart Horsburgh's folk history of Monkton:
+  - the [Centenary Mile Walk of 1926](history/stuarts-research/centenary-walk/index.md), now house by house in four zones, with census records from 1841 to 1994
+  - [Special Stories](history/stuarts-research/special-stories.md) from village life
+  - [Bernard Cole's Interviews](history/stuarts-research/bernard-cole-interviews.md) with villagers from 1989 and 1991
+  - the [Parish Council chairmen](history/stuarts-research/parish-council-chairmen.md) since 1894
+- New photographs in the [Gallery](gallery.md), including Ginger the cart horse at the New Inn in 1951 and this year's War Memorial poppies
+- More contributors thanked on the [Credits](credits.md) page
+- A new [Downloads](downloads.md) page, where you can download the website as three printable volumes (PDF): the church and churchyard, Stuart's folk history, and Terry Marsh's columns
 
+**Also on the website:** Stuart's history of the church and comprehensive survey of the churchyard; Monkton's history from sources on the web; Terry Marsh's Monkton News columns; Monkton's listed buildings; other Monktons around the world; and War Graves Commission references for the war graves in the churchyard.
+
+See the [version history](version-history.md) for earlier changes.
 ```
 
 ```{figure} https://res.cloudinary.com/monkton/image/upload/v1786114532/Monkton_church_kn8msz.png
@@ -85,6 +90,7 @@ history/index
 places
 other-monktons
 gallery
+downloads
 credits
 mailing-list
 version-history

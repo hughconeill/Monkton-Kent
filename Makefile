@@ -17,7 +17,7 @@ clean:
 livehtml:
 	sphinx-autobuild "$(SOURCEDIR)" "$(BUILDDIR)/html" $(SPHINXOPTS) $(O)
 
-# Printable history book (.docx) - see scripts/README.md
+# Printable PDF volumes for the Downloads page (needs LibreOffice) - see scripts/README.md
 book:
 	python3 scripts/build_book.py
 

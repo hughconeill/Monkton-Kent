@@ -1,5 +1,6 @@
-# Manifest for scripts/build_book.py — defines what goes into the printable
-# history book, and in what order. See scripts/README.md for how to use this.
+# Manifest for scripts/build_book.py — defines the printable volumes (PDFs
+# offered on the site's Downloads page), what goes into each, and in what
+# order. See scripts/README.md for how to use this.
 #
 # Two ways to list content for a part:
 #   sources: [a.md, b.md]   — an explicit, ordered list (for hand-picked pages)
@@ -8,55 +9,164 @@
 #                                  up automatically, no manifest edit needed)
 # Paths are relative to source/.
 
-title: "The History of Monkton"
-subtitle: "Thanet, Kent"
+# Printed in every volume's footer and on its title page. Keep in step with
+# the version admonition on index.md / the latest row of version-history.md.
+version: "Version 2 – December 2026"
+
+series: "A Monkton Folk History"
+site_url: "monkton-kent.uk"
 cover_image: _static/monkton_coa.png
-output: build/book/the-history-of-monkton.docx
 
-parts:
-  - title: "The Church of St Mary Magdalene"
-    sources:
-      - church/short-guide.md
-      - church/bells.md
-      - church/clergy.md
-      - church/richard-culmer.md
-      - church/war-memorial.md
-      - church/memorials-inside.md
+# Where the finished PDFs go (served by the site), and the .docx working
+# copies (gitignored).
+pdf_dir: source/_static/downloads
+docx_dir: build/book
 
-  - title: "Origins and the 1926 Centenary Walk"
-    sources:
-      - history/origins.md
-      - history/monkton-1926.md
+# The Downloads page; the build rewrites the table between its
+# "volumes:start" / "volumes:end" markers with each volume's page count and size.
+downloads_page: source/downloads.md
 
-  - title: "Monkton Memories"
+# "About this volume" page, printed after every title page. {version},
+# {site_url} and {volume_credit} are filled in per volume.
+front_matter:
+  - heading: "About this volume"
+    text: |
+      This volume is part of *{series}*, a voluntary, not-for-profit
+      community project to gather and preserve the history of Monkton, in
+      Thanet, Kent, before records, photographs and living memory are lost.
+      It is printed from the project's website, **{site_url}**, as it stood
+      at {version_lower}.
+
+      {volume_credit}
+
+      The website is a living record that is refreshed and expanded as
+      villagers share more information, so this volume will be reissued
+      from time to time. The latest copy can always be downloaded from the
+      Downloads page of the website, where you will also find the
+      photograph gallery and the other volumes.
+  - heading: "A note on accuracy"
+    text: |
+      The information here is accurate to the best of our knowledge. It
+      draws on official records such as census returns and parish
+      registers, newspaper archives, gravestones, and the memories of
+      residents and former residents — sources that are sometimes
+      incomplete, hard to read, or disagree with one another. Where we are
+      unsure, we have tried to say so rather than guess. If you spot an
+      error, or can add to anything here, please let us know.
+  - heading: "A note on privacy"
+    text: |
+      We recognise that some information may be sensitive whether it is
+      true or not, and we don't want this project to spread anything that
+      could cause harm, embarrassment or offence. If you think anything in
+      this volume fits that description, please tell us and we will remove
+      or update it in the next edition.
+  - heading: "Copyright and use"
+    text: |
+      Text and photographs remain the copyright of their authors and
+      contributors, who have shared them for the benefit of the village.
+      You are welcome to download, print and share this volume for
+      personal, educational and non-commercial use. Please ask before
+      reproducing material elsewhere. Contributors are thanked in the
+      Credits at the back of this volume.
+  - heading: "Get in touch"
+    text: |
+      The project is led by Stuart Horsburgh, and the website is maintained
+      by Hugh O'Neill. Contact details are on the About page of
+      {site_url}. Photographs, documents, family stories and corrections
+      are always welcome.
+
+volumes:
+  - id: church
+    file: monkton-church-and-churchyard.pdf
+    title: "The Church of St Mary Magdalene"
+    subtitle: "Monkton, Thanet – with the churchyard survey"
+    header: "The Church of St Mary Magdalene, Monkton"
+    description: >-
+      The church guide, its bells and clergy since 1291, Richard Culmer, the
+      war memorial with a short biography of every man named on it, and the
+      memorials inside the church — followed by Stuart Horsburgh's full
+      churchyard survey as a reference section (graves by location, an
+      alphabetical index of names, the numbered stones and the burial
+      register appendix).
+    credit: >-
+      The churchyard survey and much of the church material were compiled
+      by **Stuart Horsburgh**, with church photographs and records from
+      Rev Peter Gausden and war memorial research from Janet Graham.
+    parts:
+      - title: "The Church"
+        sources:
+          - church/short-guide.md
+          - church/bells.md
+          - church/clergy.md
+          - church/richard-culmer.md
+          - church/war-memorial.md
+          - church/memorials-inside.md
+
+      # Reference section: the full churchyard survey - large tables and
+      # ~1,800 lines of transcriptions, so it comes after the reading matter.
+      - title: "The Churchyard Survey"
+        subtitle: "A reference section, compiled by Stuart Horsburgh"
+        sources:
+          - church/churchyard/index.md
+          - church/churchyard/survey-by-location.md
+          - church/churchyard/names-alphabetical.md
+          - church/churchyard/numbered-stones.md
+          - church/churchyard/register-appendix.md
+
+  - id: stuart
+    file: monkton-folk-history-stuart-horsburgh.pdf
+    title: "Monkton: A Folk History"
+    subtitle: "by Stuart Horsburgh"
+    header: "Monkton: A Folk History – Stuart Horsburgh"
+    description: >-
+      Stuart Horsburgh's research: the house-by-house Centenary Mile Walk of
+      1926 down Monkton Street, special stories, Bernard Cole's interviews
+      with villagers, and the Parish Council chairmen since 1894.
+    credit: >-
+      This folk history was researched and written by **Stuart Horsburgh**,
+      drawing on census returns, Parish Council publications, books and
+      histories of the village, collections of postcards and photographs,
+      Bernard Cole's research papers (via Jonathan Cole), and the memories
+      of many current and former Monkton residents.
+    parts:
+      - title: "Stuart's Research"
+        subtitle: "A folk history of Monkton, by Stuart Horsburgh"
+        sources:
+          - history/stuarts-research/index.md
+          - history/stuarts-research/centenary-walk/index.md
+          - history/stuarts-research/centenary-walk/zone-1.md
+          - history/stuarts-research/centenary-walk/zone-2.md
+          - history/stuarts-research/centenary-walk/zone-3.md
+          - history/stuarts-research/centenary-walk/zone-4.md
+          - history/stuarts-research/special-stories.md
+          - history/stuarts-research/bernard-cole-interviews.md
+          - history/stuarts-research/parish-council-chairmen.md
+          - history/stuarts-research/final-thoughts.md
+
+  - id: terry
+    file: monkton-memories-and-a-farming-life-terry-marsh.pdf
+    title: "Monkton Memories & A Farming Life"
     subtitle: "by Terry Marsh"
-    glob: "history/monkton-memories/[0-9]*.md"
+    header: "Monkton Memories & A Farming Life – Terry Marsh"
+    description: >-
+      Terry Marsh's two columns from the Monkton News: Monkton Memories,
+      his recollections of growing up in the village, and A Farming Life,
+      his working life on local farms from 1976 onwards.
+    credit: >-
+      These columns were written by **Terry Marsh** and first published in
+      the Monkton News parish magazine. New instalments are added as they
+      appear.
+    parts:
+      - title: "Monkton Memories"
+        subtitle: "by Terry Marsh"
+        glob: "history/monkton-memories/[0-9]*.md"
 
-  - title: "A Farming Life"
-    subtitle: "by Terry Marsh"
-    glob: "history/farming-life/[0-9]*.md"
+      - title: "A Farming Life"
+        subtitle: "by Terry Marsh"
+        glob: "history/farming-life/[0-9]*.md"
 
-  - title: "Places"
-    sources:
-      - places.md
-
-  - title: "Other Monktons"
-    sources:
-      - other-monktons.md
-
-  # Reference section: the full churchyard survey. Kept as its own part near
-  # the back (after the narrative chapters) because it's a genealogical
-  # reference rather than reading matter - large tables and ~1,800 lines of
-  # transcriptions.
-  - title: "The Churchyard Survey"
-    subtitle: "A reference section, compiled by Stuart Horsburgh"
-    sources:
-      - church/churchyard/index.md
-      - church/churchyard/survey-by-location.md
-      - church/churchyard/names-alphabetical.md
-      - church/churchyard/numbered-stones.md
-      - church/churchyard/register-appendix.md
-
+# Appended to every volume as its last part.
+closing_parts:
   - title: "Credits"
     sources:
       - credits.md

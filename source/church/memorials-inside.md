@@ -92,7 +92,7 @@ Here also lyeth the Body of **Mrs / ANN TERREY** the beloved wife of / Mr ABRAHA
 
 Here lieth the Body of / **Mr JOHN BURKETT** / Vicar of this Parish / who died / on the 5<sup>th</sup> of April 1772 / Aged 30 years. //
 
-Also **Mrs CATHERINE BURKETT** / Widow of the above named / Mr JOHN BURKETT / who died / on the 31<sup>st</sup> March 1778 / Aged 30 Years ///
+Also **Mrs CATHARINE BURKETT** / Widow of the above named / Mr JOHN BURKETT / who died / on the 3<sup>rd</sup> March 1778 / Aged 30 Years ///
 
 10. *\[ south wall nave closest to the chancel and pulpit \]*
 
@@ -118,11 +118,16 @@ Also of **NANNY**, wife of the above / JAMES **SMITH** / who died on the 7<sup>t
 
 12. *\[ south wall nave at the back \]*
 
-Here lyeth interred the body of that modest gentlewoman **FRANCIS BLECHYNDEN** eldest daughter of THOMAS BLECHYNDEN of Aldington / gent. Shee (She) injoyed (enjoyed) 3 husbands / THOMAS EPPS of Newe Romney gent her / first. NICHOLAS ROBYNSON *{died 1594}* of his parish of Moncton gent her second. & JOHN BLECHYN / DEN of Aldington esq. She had by each / of them issue. Shee lived 48 yeares want / inge 12 dayes departinge this world in the / true fayth of Christ the 25<sup>th</sup> of December 1611 ///
+Here lyeth interred the body of that modest / 
+gentlewoman **FRANCIS BLECHYNDEN** / 
+eldest daughter of THOMAS BLECHYNDEN of Aldington / gent. Shee *(She)* injoyed *(enjoyed)* 3 husbands / THOMAS EPPS of Newe Romney gent her / first. NICHOLAS ROBYNSON *(died 1594)* of his parish of / 
+Moncton gent her second. & JOHN BLECHYN / DEN of Aldington esq. 
+She had by each / of them issue. 
+Shee lived 48 yeares want / inge 12 dayes deptinge *(departing)* this world in the / true fayth of Christ ye 25<sup>th</sup> of December 1611 ///
 
 13. *\[ south floor nave at the back \]*
 
-Here lyeth buried the body / **of MARGARET PARKAR** who had / two husbands. 1. GEORGE ROBISONN gent by whom she had / issue divers children. 2. THOMAS PARKAR gent by whom she had / no issue. Y sayd MARG. PARKAR / deceased y 11 of Mar anno domini / 1607 and in the 88 yeae of / ?vem in her naturall age. ///
+Here lyeth buried the body / **of MARGARET PARKAR** who had / two husbands. 1. GEORGE ROBISONN gent by whom she had / issue divers children. 2. THOMAS PARKAR gent by whom she had / no issue. Ye sayd MARG. PARKAR / deceased ye 11 of Mar anno domini / 1607 and in the 88 yeae of / ?vem in her naturall age. ///
 
 14. *\[ ledger stone black - hidden under the nave floor at the west end -- others in white stone \]*
 
@@ -138,7 +143,19 @@ Here lyes ye Body of **THO: *(Thomas***) ye son of MR Wm (*William*) **YOUNG** &
 
 15. *\[ hanging wooden framed brass plaque -- on the right-hand side of the church door \]*
 
-Here lyeth buried ye body of **LEBBIE ORCHARD** / sometime dwelling in Mounckton Courte in this parish. Who deceased the ??? daye of October in the yere of our Lord god. M C C C C C L X X X . (1580) ? Whole (holy?) ? resteth with ? ///
+Here lyeth buried ye body of **`LEBB`IE ORCHARD** / sometime dwelling in Mounckton Courte in this parish. Whose soule deceased the ??? daye of October in the yere of our Lord god. M C C C C C L X X X . (1580) ? Whole (holy?) ? resteth with ? ///
+
+16. NICHOLAS ROBINSON (1594)
+
+Here lyeth buryed the bodye of Nicholas Robinson gent, sometyme dwelt in the Isle of Tenat, 
+in th parish Monketon at Gore Street, who departed this present lyfe the 23 of June 1594.
+who had issue by Frances his wyfe 3 sonnes and 2 daughters.
+"Respice finem"
+
+17. CHRISTOFER, BLECHYNDEN (1554)
+
+Here lyeth CHRISTOPHER BLECHYNDEN, gentleman, late of the p'ish *(parish)* of Mountin *(Monkton)* 
+with Ames and Margaret his wifes, which deceased the furste (1st) day of July An:1554
 
 ## Brass of John Spicer
 

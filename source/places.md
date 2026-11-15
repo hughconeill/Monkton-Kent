@@ -3,7 +3,7 @@
 Monkton has 22 buildings and structures on Historic England's
 National Heritage List for England — the statutory register of
 listed buildings. Several of them are named on Stuart Horsburgh's
-[Monkton 1926](history/monkton-1926.md) centenary walk map, so the
+[Centenary Mile Walk of 1926](history/stuarts-research/centenary-walk/index.md) map, so the
 two pages are worth reading side by side.
 
 The church itself carries the highest grade in the parish, Grade I;

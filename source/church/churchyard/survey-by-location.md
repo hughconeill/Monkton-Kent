@@ -92,7 +92,7 @@ East Surrey badge / 5060 Private / **W*\[alter*\]. G*\[eorge\].* LONG** / East S
 
 In loving memory / **PTE JAMES BOOTH BRADBURY** / ? 2/6 Batt*\[alio\]*n East Surrey Regt / the beloved son of / C J and A BRADBURY / of Back-o' the-Lee, Diggle / who was accidentally killed / whilst in training near Margate / on September 3<sup>rd</sup> 1917 / aged 19 years / "Peace perfect peace" /// *\[Gore St Camp\]*
 
-FOOT MEMORIAL:- ??? /// *{ grave memorial donated by his village school and Boys Brigade in Diggle -- near Oldham, Lancashire }*
+FOOT MEMORIAL:- *This memorial was erected / as a token of respect by / Kiln Green School & Boys Brigade Diggle / Diggle Mill & Vale Mills Micklehurst*
 
 10. *\[ horizontal stone coffin-shaped with 2 sides \]*
 
@@ -1452,7 +1452,7 @@ In Loving Memory of / My Dear Husband / **WILLIAM THOMAS BUSH** / Dearly beloved
 
 191. *\[ tall rectangular stone memorial -- COMMONWEALTH WAR GRAVE* *\]*
 
-Badge of the Royal Army Service Corps / 261564 Driver / **J(ohn) MATTHEWS** / Royal Army Service Corps / 29<sup>th</sup> December 1918 /// *\[buried 2.1.1919, aged 30 years. Traveller, with a caravan on the Drove, Army discharge in 1917, died of flu. Not originally included on the Village War Memorial.\]*
+Badge of the Royal Army Service Corps / 261564 Driver / **J(ack) MATTHEWS** / Royal Army Service Corps / 29<sup>th</sup> December 1918 /// *\[born 25.11.1889, buried 2.1.1919, aged 30 years. Traveller, with a caravan on the Drove, Army discharge in 1917, died of flu. Not originally included on the Village War Memorial.\]*
 
 ```{admonition} 🧭 Location help
 :class: note

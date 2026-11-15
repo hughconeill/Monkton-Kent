@@ -23,10 +23,13 @@ Markdown and lives in the `source/` folder.
   architecture, clergy back to 1291, bells, war memorial, and a full
   churchyard survey); village history and reminiscence (Terry Marsh's
   *Monkton Memories* and *A Farming Life* columns, originally
-  published in the Monkton News); Stuart Horsburgh's 1926 Centenary
-  Mile Walk; the village's Anglo-Saxon/medieval origins; its
+  published in the Monkton News); Stuart Horsburgh's research section
+  (his house-by-house 1926 Centenary Mile Walk, special stories,
+  Bernard Cole's 1989/91 villager interviews, and the Parish Council
+  chairmen since 1894); the village's Anglo-Saxon/medieval origins; its
   Historic England-listed buildings; a page on other places named
-  Monkton worldwide; a photo gallery; a Credits page naming
+  Monkton worldwide; a photo gallery; a Downloads page offering the content as three
+  printable PDF volumes; a Credits page naming
   contributors; and a mailing-list sign-up page (a Brevo form,
   embedded as an iframe — the list itself is managed in Brevo); and a
   version history page listing the site's releases.
@@ -41,7 +44,7 @@ Markdown and lives in the `source/` folder.
 
 - **Citations:** there is no `source/sources.md` and no footnote
   convention in active use. Pages sourced from the open web
-  (`history/origins.md`, `places.md`, `history/monkton-1926.md`,
+  (`history/origins.md`, `places.md`,
   `other-monktons.md`) cite inline, with plain Markdown links to the
   original source directly in the prose or in a trailing "Source(s):"
   line — prefer the most authoritative source available (e.g. a
@@ -72,14 +75,20 @@ Markdown and lives in the `source/` folder.
 
 - Source files: Markdown in `source/`, built with Sphinx
   (MyST parser + Furo theme).
-- `make book` additionally compiles the history/church content (with the
-  churchyard survey as a reference part at the back; not project/nav
-  pages) into a single
-  printable `.docx` book — see `scripts/README.md`.
+- `make book` additionally compiles the content into three printable A4
+  PDF volumes (church & churchyard; Stuart's folk history; Terry Marsh's
+  columns) for the Downloads page. It needs LibreOffice, so it runs on the
+  maintainer's machine, not in GitHub Actions — the PDFs are committed in
+  `source/_static/downloads/`. Rebuild them for each new version — see
+  `scripts/README.md`.
 - On every push to `main`, a GitHub Actions workflow
   (`.github/workflows/deploy.yml`) automatically builds the site and
   publishes it to GitHub Pages. No manual deploy step. Work on any
   other branch does **not** go live until it's merged to `main`.
+- Each version is developed on its own branch, merged to `main` via a
+  pull request (merge commit), and tagged as a GitHub Release (`v1.1`,
+  `v2.0`, ...) with the PDF volumes attached — see `CLAUDE.md`
+  ("Releases") for the steps and how to roll back.
 - The site is published at `https://hughconeill.github.io/Monkton-Kent/`,
   which redirects to the project's custom domain,
   `https://monkton-kent.uk/` — link to the custom domain when sharing
@@ -100,4 +109,11 @@ Markdown and lives in the `source/` folder.
 - Original documents/photos held by: Stuart Horsburgh, plus an
   archive of village photographs and newspaper clippings held by
   Karen Wolstenhulme (being added to the site gradually — see
-  `credits.md`).
+  `credits.md`). Bernard Cole's village research papers came via
+  Jonathan Cole; church photos and records via Rev Peter Gausden.
+  Other contributors (photos, background information, war memorial
+  research) are listed in `credits.md`.
+- Images: hosted on Cloudinary (`res.cloudinary.com/monkton`, new
+  uploads in the `Monkton-general` folder). Credentials for listing the
+  account are kept outside the repo in `~/.config/cloudinary.env`
+  (`CLOUDINARY_URL=...`) on the maintainer's machine — never commit them.

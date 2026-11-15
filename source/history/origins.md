@@ -19,7 +19,7 @@ below, but the site was already settled long before it began.
 A large Anglo-Saxon cemetery has been identified at Monkton, on the
 southern slope of a low chalk ridge about half a kilometre north of
 the village, close to Walters Hall Farm — the farm named on the
-[1926 map](monkton-1926.md) and listed in [Places](../places.md)
+[1926 map](stuarts-research/centenary-walk/index.md) and listed in [Places](../places.md)
 (grid reference TR 29089 65537). It lies just south of the modern
 A253, which follows the line of "Dunstrete", an ancient east–west
 trackway across Thanet — a position that parallels other Anglo-Saxon
