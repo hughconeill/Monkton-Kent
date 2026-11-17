@@ -12,11 +12,12 @@ This is an ongoing project to gather information and personal histories in the v
   - [Special Stories](history/stuarts-research/special-stories.md) from village life
   - [Bernard Cole's Interviews](history/stuarts-research/bernard-cole-interviews.md) with villagers from 1989 and 1991
   - the [Parish Council chairmen](history/stuarts-research/parish-council-chairmen.md) since 1894
+- [Terry Marsh's Memories](history/terry-marshs-memories/index.md) – his two Monkton News series, Monkton Memories and A Farming Life, now together in one section. With the final two instalments of A Farming Life ([Farming Fires](history/terry-marshs-memories/farming-life/26-farming-fires.md) and [Drake and Fletcher](history/terry-marshs-memories/farming-life/27-drake-and-fletcher.md)), Terry's articles are now complete – just for now, we hope!
 - New photographs in the [Gallery](gallery.md), including Ginger the cart horse at the New Inn in 1951 and this year's War Memorial poppies
 - More contributors thanked on the [Credits](credits.md) page
 - A new [Downloads](downloads.md) page, where you can download the website as three printable volumes (PDF): the church and churchyard, Stuart's folk history, and Terry Marsh's columns
 
-**Also on the website:** Stuart's history of the church and comprehensive survey of the churchyard; Monkton's history from sources on the web; Terry Marsh's Monkton News columns; Monkton's listed buildings; other Monktons around the world; and War Graves Commission references for the war graves in the churchyard.
+**Also on the website:** Stuart's history of the church and comprehensive survey of the churchyard; Monkton's history from sources on the web; Monkton's listed buildings; other Monktons around the world; and War Graves Commission references for the war graves in the churchyard.
 
 See the [version history](version-history.md) for earlier changes.
 ```
@@ -44,7 +45,7 @@ St Mary Magdalene: architecture, clergy, bells, and memorials.
 :::{grid-item-card} 📜 History
 :link: history/index
 :link-type: doc
-Monkton Memories and A Farming Life — Terry Marsh's columns from the Monkton News.
+Stuart Horsburgh's folk history of Monkton, Terry Marsh's Memories from the Monkton News, and Monkton's Anglo-Saxon and medieval origins.
 :::
 
 :::{grid-item-card} 🏘️ Places
@@ -73,9 +74,18 @@ Who's behind this project, and what they've contributed.
 
 ::::
 
-## Mailing list
+```{admonition} Tips on using the website
+:class: tip site-tips
 
-To hear when new material is added to the site, join the [mailing list](mailing-list.md).
+- 🔍 **Search the whole site** – type a name, surname or house into the
+  **Search** box at the top of the left-hand panel (on a phone, tap the ☰
+  menu at the top left first). It looks through every page, including the
+  churchyard survey and the census records.
+- 🖨️ **Print it or read it offline** – the website is also available as three
+  printable books (PDF) on the [Downloads](downloads.md) page.
+- ✉️ **Keep up to date** – new material is added all the time. Join the
+  [mailing list](mailing-list.md) to hear when it goes live.
+```
 
 {.toc-heading}
 Table of Contents

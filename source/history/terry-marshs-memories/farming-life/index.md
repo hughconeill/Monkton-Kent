@@ -2,6 +2,12 @@
 
 A series of articles by Terry Marsh on his working life on Monkton and Thanet farms from 1976 onwards, originally published as a regular column in the Monkton News.
 
+```{admonition} The series is complete
+:class: note
+
+A Farming Life ran in the Monkton News from September 2024 to November 2026, and all 27 instalments are now on this website. Terry has promised the magazine that he will make a reappearance some day – we hope so!
+```
+
 ```{figure} https://res.cloudinary.com/monkton/image/upload/v1786112544/Terry_FL05-combine_pihutb.png
 :alt: Vintage Combine Harvester
 :width: 80%
@@ -38,4 +44,6 @@ An early combine harvester working in Monkton.
 23-close-calls-on-the-farm-continued
 24-close-calls-on-the-farm-continued
 25-the-dry-summer-of-2026
+26-farming-fires
+27-drake-and-fletcher
 ```

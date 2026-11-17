@@ -101,3 +101,10 @@ article figure.photo-thumb figcaption p {
         width: calc(50% - 0.75rem);
     }
 }
+
+/* Home-page "Tips on using the website" box: show it at the normal body
+   text size (Furo shrinks admonition text to 0.8125rem) so it stands out */
+.admonition.site-tips,
+.admonition.site-tips > .admonition-title {
+    font-size: var(--font-size--normal);
+}

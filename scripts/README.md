@@ -81,10 +81,10 @@ on every page and don't split a row across a page break.
 
 - **A new Terry Marsh instalment** (Monkton Memories or A Farming Life):
   nothing to do here. Those two parts are defined by `glob` in the
-  manifest (`history/monkton-memories/[0-9]*.md`,
-  `history/farming-life/[0-9]*.md`), sorted alphabetically — which sorts
+  manifest (`history/terry-marshs-memories/monkton-memories/[0-9]*.md`,
+  `history/terry-marshs-memories/farming-life/[0-9]*.md`), sorted alphabetically — which sorts
   correctly by number because the files are zero-padded (`01-`, `02-`,
-  ... `25-`). Add the new file the way you normally would for the site,
+  ... `27-`). Add the new file the way you normally would for the site,
   and the next `make book` picks it up automatically.
 - **A new page or section**: add it to the right volume's `parts` in
   `book_manifest.yaml`, either as an explicit `sources:` list (for a

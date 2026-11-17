@@ -128,9 +128,9 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | COLLARD, Ambrose |  | 60/61 |  |
 | COLLARD, Ambrose ? | 26.3.1807 -- 24.2.1884 (77) | 21 |  |
 | COLLARD, Ambrose | ?.?.???? -- ?.5.1912 (77) | 22 |  |
+| COLLARD, DAVID? | ?? | 60 |  |
 | COLLARD, Eliz ?? ? ? | 11.12.1800 -- 19.5.1817 (18) | 22 |  |
 | COLLARD, Elizabeth | ?.?.???? -- 14.9.1858 (84) | 6 Nave |  |
-| COLLARD, George |  | 62 |  |
 | COLLARD ? , Harriet *\[see ADAMS\]* ? | 21.10.1803 -- 14.1.1898? (72) | 18 |  |
 | COLLARD, Henry | ?.?.???? -- 21.11.1928 (92) | 23 |  |
 | COLLARD, Henry ? | 19.5.1796 -- ?.?.???? (?) | 19 |  |
@@ -327,6 +327,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above and its exact 
 | INGRAM, Edith Kate | ?.?.1914 -- 28.3.2002 (87) | Crem. West of path 224 | D20 |
 | JACOBS, ? | ?.?.1968 |  |  |
 | JAMES, Carolyn | 21.11.1948 -- 7.10.2024 (75) | 103 | F29 |
+| J??ARD, George |  | 62 |  |
 | JOHNSON, Ernest George | ?18.6.1911 -- 23.2.1953 (42) | 197 | C11/50 |
 | JOHNSON, Kate Ellen | ?.?.???? -- 7.3.1991 (81) | 197 | C11/50 |
 | JOHNSON, Pamela June | 6.6.1930 -- 6.5.2003 (72) | 197 | C11/50 |

@@ -20,8 +20,8 @@ and full record of the churchyard's graves.
 
 Terry has contributed two regular columns, originally written for the
 Monkton News parish magazine and reproduced here: [Monkton
-Memories](history/monkton-memories/index.md), childhood and
-village-life reminiscences, and [A Farming Life](history/farming-life/index.md),
+Memories](history/terry-marshs-memories/monkton-memories/index.md), childhood and
+village-life reminiscences, and [A Farming Life](history/terry-marshs-memories/farming-life/index.md),
 an account of his working life on Monkton and Thanet farms from 1976
 onwards. Together they're the site's main first-hand record of what
 the village was actually like to live and work in. Terry has also

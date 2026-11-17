@@ -119,7 +119,7 @@ Sources: Paul Tritton,
 ["The tumultuous history of Kent's most divisive airport"](https://www.kentonline.co.uk/thanet/news/the-tumultuous-history-of-kents-most-divisive-airport-276080/).
 For the chalk pits' own later story — quarrying through the 20th
 century and their 1985 opening as a nature reserve — see Terry Marsh's
-[Monkton Memories](monkton-memories/19-chalk-pits.md).
+[Monkton Memories](terry-marshs-memories/monkton-memories/19-chalk-pits.md).
 
 ## Monkton today
 
@@ -131,10 +131,10 @@ this paragraph: [Monkton, Kent — Wikipedia](https://en.wikipedia.org/wiki/Monk
 
 The old chalk quarry at Monkton Nature Reserve, reclaimed as a
 wildlife site, comes up repeatedly in Terry Marsh's
-[Monkton Memories](monkton-memories/index.md) — not from the Wikipedia
+[Monkton Memories](terry-marshs-memories/monkton-memories/index.md) — not from the Wikipedia
 source above, but from the site's own primary material — see, for
 instance, his piece on the
-[old chalk pits](monkton-memories/19-chalk-pits.md), which describes
+[old chalk pits](terry-marshs-memories/monkton-memories/19-chalk-pits.md), which describes
 Willett's chalk pit becoming the Nature Reserve.
 
 ```{admonition} About these sources
