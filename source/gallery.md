@@ -215,7 +215,7 @@ Aerial view of Monkton in 2025, with the church in the foreground.
 :target: https://res.cloudinary.com/monkton/image/upload/v1786112544/Terry_FL05-combine_pihutb.png
 ```
 ^^^
-An early combine harvester working in Monkton. See {doc}`Farming Life <history/farming-life/index>`.
+An early combine harvester working in Monkton. See {doc}`Farming Life <history/terry-marshs-memories/farming-life/index>`.
 :::
 
 :::{grid-item-card}
@@ -224,7 +224,7 @@ An early combine harvester working in Monkton. See {doc}`Farming Life <history/f
 :target: https://res.cloudinary.com/monkton/image/upload/v1786112649/Tractor_crash_1_wijdx6.png
 ```
 ^^^
-The train and tractor. See {doc}`Close calls on the farm <history/farming-life/23-close-calls-on-the-farm-continued>`.
+The train and tractor. See {doc}`Close calls on the farm <history/terry-marshs-memories/farming-life/23-close-calls-on-the-farm-continued>`.
 :::
 
 :::{grid-item-card}
@@ -242,7 +242,7 @@ Recovering the tractor.
 :target: https://res.cloudinary.com/monkton/image/upload/v1786112648/Combine_crash_ap3648.png
 ```
 ^^^
-The combine harvester on the collapsed bridge, 2004. See {doc}`Close calls on the farm <history/farming-life/24-close-calls-on-the-farm-continued>`.
+The combine harvester on the collapsed bridge, 2004. See {doc}`Close calls on the farm <history/terry-marshs-memories/farming-life/24-close-calls-on-the-farm-continued>`.
 :::
 
 :::{grid-item-card}

@@ -4,30 +4,10 @@ Village history and reminiscence that will be added to as available.
 
 ## Featured
 
-| Special feature |
+| Featured Articles |
 |---|
 | [**Stuart's Research**](stuarts-research/index.md) — Stuart Horsburgh's folk history of Monkton: the Centenary Mile Walk of 1926 house by house, special stories, Bernard Cole's interviews with villagers, and the Parish Council chairmen since 1894. |
-
-## Articles
-
-This first installment are Terry Marsh's regular contributions to the Monkton News magazine.
-
-::::{grid} 1 2 2 2
-:gutter: 3
-
-:::{grid-item-card} 📖 Monkton Memories
-:link: monkton-memories/index
-:link-type: doc
-Childhood and village-life reminiscences by Terry Marsh.
-:::
-
-:::{grid-item-card} 🚜 A Farming Life
-:link: farming-life/index
-:link-type: doc
-Terry Marsh's working life on Monkton and Thanet farms, from 1976 onwards.
-:::
-
-::::
+| [**Terry Marsh's Memories**](terry-marshs-memories/index.md) — Terry Marsh's two Monkton News series, now complete: *Monkton Memories*, his recollections of growing up in the village, and *A Farming Life*, his working life on local farms from 1976 onwards. |
 
 {.toc-heading}
 Table of Contents
@@ -36,7 +16,6 @@ Table of Contents
 :maxdepth: 1
 
 stuarts-research/index
+terry-marshs-memories/index
 origins
-monkton-memories/index
-farming-life/index
 ```

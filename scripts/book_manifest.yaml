@@ -11,7 +11,7 @@
 
 # Printed in every volume's footer and on its title page. Keep in step with
 # the version admonition on index.md / the latest row of version-history.md.
-version: "Version 2 – December 2026"
+version: "Version 2.1 – December 2026"
 
 series: "A Monkton Folk History"
 site_url: "monkton-kent.uk"
@@ -154,16 +154,16 @@ volumes:
       his working life on local farms from 1976 onwards.
     credit: >-
       These columns were written by **Terry Marsh** and first published in
-      the Monkton News parish magazine. New instalments are added as they
-      appear.
+      the Monkton News parish magazine. Both series are complete as of
+      the November 2026 issue - for now, we hope!
     parts:
       - title: "Monkton Memories"
         subtitle: "by Terry Marsh"
-        glob: "history/monkton-memories/[0-9]*.md"
+        glob: "history/terry-marshs-memories/monkton-memories/[0-9]*.md"
 
       - title: "A Farming Life"
         subtitle: "by Terry Marsh"
-        glob: "history/farming-life/[0-9]*.md"
+        glob: "history/terry-marshs-memories/farming-life/[0-9]*.md"
 
 # Appended to every volume as its last part.
 closing_parts:

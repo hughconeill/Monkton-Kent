@@ -26,8 +26,10 @@ docs-site/
     │   │   ├── parish-council-chairmen.md
     │   │   └── final-thoughts.md
     │   ├── origins.md         # Anglo-Saxon/medieval Monkton, from web sources
-    │   ├── monkton-memories/  # Terry Marsh's Monkton News column (numbered)
-    │   └── farming-life/      # Terry Marsh's Monkton News column (numbered)
+    │   └── terry-marshs-memories/ # Terry Marsh's two Monkton News series:
+    │       ├── index.md       #   section introduction + contents
+    │       ├── monkton-memories/ # Monkton Memories (numbered 01-22)
+    │       └── farming-life/  # A Farming Life (numbered 01-27)
     ├── places.md            # Monkton's listed buildings (Historic England)
     ├── other-monktons.md     # Other places named Monkton, worldwide
     ├── gallery.md           # Photo gallery
