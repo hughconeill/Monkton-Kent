@@ -485,7 +485,9 @@ Also / to the memory of / the above named **HENRY COLLARD** / ? of this parish /
 
 60. *\[ large rectangular stone memorial, decorated top -- writing on back \]*
 
-??? AMBROSE COLLARD ??? ///
+Here lieth / ? ? the ?Body of / AMBROSE COLLARD / who died the ?0 of May 1710? / aged 65? Years //
+
+Also DAVID? Son of the above died ? / AMBROSE & MARY COLLARD / who died the ? of January / Aged ?? Years / ? ? three sons and / one daughter //
 
 61. *\[ large rectangular stone memorial, decorated top, sloping -- writing on back \]*
 
@@ -493,7 +495,7 @@ Also / to the memory of / the above named **HENRY COLLARD** / ? of this parish /
 
 62. *\[ large rectangular stone memorial, a stone lozenge, small tablet at foot \]*
 
-??? / ??? aged / /// **? MR GEORGE COLLARD**
+In memory of / MR GEORGE J??ARD / of this Parish who died June 1? / 29th ? of 1793? ? / Also ? ? / ? died ? 180? / aged 6? Years //
 
 SMALL TABLET:- **C. ? J .** 1795 / **L. ?. J.** 1803? ///
 
