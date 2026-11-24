@@ -28,13 +28,13 @@ FLOWER PLINTH:- in / memory of / HENRY / "from past / and present / workmates" /
 
 2.  *\[ stone cross on triple stone square bases \]*
 
-In loving memory / **ESMOND VINCENT** / son of HENRY and ELIZ*\[abe\]*th ? **CHEESEMAN** / of Sheriffs Court who died May 10?19th 1907 ///
+In loving memory / **ESMOND VINCENT** / son of HENRY and ELIZ\[*abe*\]th ? **CHEESEMAN** / of Sheriffs Court who died May 10?19th 1907 ///
 
 *\[buried 14.5.1907, aged 19 years\]*
 
 3.  *\[ rectangular black stone on black base \]*
 
-In / loving memory of / **CHARLES J*\[ohn*\]. B\[*utche*r\]. / WOODCOCK** / 1910 -- *\[9.6.\]* 1985 / and his wife / **EDITH MAY** / 1911 *-- \[23.3.\]* 1993 /// *\[b.17.6.1910\]*
+In / loving memory of / **CHARLES** **J\[ohn\].** **B\[*utche*r\].** / **WOODCOCK** / 1910 -- *\[9.6.\]* 1985 / and his wife / **EDITH MAY** / 1911 *-- \[23.3.\]* 1993 /// *\[C.J.B. Woodcock b.17.6.1910\]*
 
 *\[W.S.Coles wheelwright / carpenter; church choir singer; lived at #133 Waggon Cottage, and #138 Brabourne; a leading village activist for several worthy causes\]*
 
@@ -60,7 +60,7 @@ Also **ALBERT** husband of JENNIE / passed away March 26<sup>th</sup> 1962 aged 
 
 6.  *\[ tall rectangular stone memorial, sloping forward onto another smaller thin stone memorial \]*
 
-In memory of / **JOHN DOORNE** / who died suddenly at Margate / 10<sup>th</sup> of September 1873*?79* / aged 67 years // *\[carpenter\]*
+In memory of / **JOHN DOORNE** / who died suddenly at Margate / 10<sup>th</sup> of September 1873?79 / aged 67 years // *\[carpenter\]*
 
 Also / **JANE DOORNE** / daughter of the above / who died 9<sup>th</sup> of August 1858 / aged 19 years // *\[from Minster\]*
 
@@ -86,11 +86,11 @@ Also of / our dear father / **STEPHEN HALES** / who fell asleep January 5<sup>th
 
 8.  *\[ thin rectangular stone memorial -- COMMONWEALTH WAR GRAVE \]*
 
-East Surrey badge / 5060 Private / **W*\[alter*\]. G*\[eorge\].* LONG** / East Surrey Regiment / 10<sup>th</sup> October 1916 age 40 / {a cross} / "Duty Well Done" /// *\[Gore St Camp\]*
+East Surrey badge / 5060 Private / **W\[alter\]. G\[eorge\]. LONG** / East Surrey Regiment / 10<sup>th</sup> October 1916 age 40 / {a cross} / "Duty Well Done" /// *\[Gore St Camp\]*
 
 9.  *\[ small squat rectangular shaped stone, 3-sided kerbing, foot stone tablet with engraving - A PRIVATE MILITARY WAR GRAVE \]*
 
-In loving memory / **PTE JAMES BOOTH BRADBURY** / ? 2/6 Batt*\[alio\]*n East Surrey Regt / the beloved son of / C J and A BRADBURY / of Back-o' the-Lee, Diggle / who was accidentally killed / whilst in training near Margate / on September 3<sup>rd</sup> 1917 / aged 19 years / "Peace perfect peace" /// *\[Gore St Camp\]*
+In loving memory / **PTE JAMES BOOTH BRADBURY** / ? 2/6 Batt\[alio\]n East Surrey Regt / the beloved son of / C J and A BRADBURY / of Back-o' the-Lee, Diggle / who was accidentally killed / whilst in training near Margate / on September 3<sup>rd</sup> 1917 / aged 19 years / "Peace perfect peace" /// *\[Gore St Camp\]*
 
 FOOT MEMORIAL:- *This memorial was erected / as a token of respect by / Kiln Green School & Boys Brigade Diggle / Diggle Mill & Vale Mills Micklehurst*
 
@@ -162,7 +162,7 @@ Also of **HARRIET** \[ *nee COLLARD? \]* his wife / who died January 14<sup>th</
 
 19. *\[ stone coffin-shaped memorial on large base. Mossy! Paired with #18 \]*
 
-? / ? **ANN** ? **HENRY COLLARD** / ? / ? grand daughter of JOHN HOGBIN of Monkton Court who died ?November, ? / ? aged 46 years */// \[Guess? HENRY COLLARD, son of Henry & Elizabeth Collard, baptised 19.5.1796\]*
+? / ? **ANN** ? **HENRY COLLARD** / ? / ? grand daughter of JOHN HOGBIN of Monkton Court who died ?November, ? / ? aged 46 years /// 
 
 ```{admonition} 🧭 Location help
 :class: note
@@ -467,7 +467,7 @@ Sacred / to the memory / of **/ JOHN HARVEY** / who departed this life on the / 
 
 Also of **GEORGE ? and / ELIZABETH ? HARVEY** / who departed this life on the / 8<sup>th</sup> May 1808 aged years / ELIZ ABETH wife of the / ? 1845 ? / ? / ? /// *\[George Harvey buried 12.5.1808; Guess? Elizabeth Harvey buried 6.11.1845, aged 85 years\]*
 
-SMALL TABLET**:- J. H.** 1839 / **G. H.** 1808 / **E. H.** 1845? ///
+SMALL TABLET:- **J. H.** 1839 / **G. H.** 1808 / **E. H.** 1845? ///
 
 ```{admonition} 🧭 Location help
 :class: note
@@ -541,7 +541,7 @@ Here lieth also her six children /// *\[William 1716-1716; Mary 1718-?; Jno&Anne
 
 In memory / of **JOHN COOPER** / who died November ? / aged ? 70 years // *\[died 1765\]*
 
-Also **JANE** his daughter who / died June 16<sup>th</sup> June? 1760 / ? // *\[baptised 22.5.1760, buried 19.6.1760\]*
+Also **JANE** his daughter who / died 16<sup>th</sup> June? 1760 / ? // *\[baptised 22.5.1760, buried 19.6.1760\]*
 
 Also of ? / **JANE** ? wife of the / above JOHN **COOPER**, who / died ? aged 63 years? /// *\[Guess? buried 3.11.1788?\]*
 
@@ -877,7 +877,7 @@ WRITING ON TABLET 3:- in cherished memory of / a dear mother and father / **MADG
 
 In / loving memory of / **FREDA STANNARD** / Died 22<sup>nd</sup> July 1994 //
 
-And husband / **DOUGLAS FREDRICK / STANNARD** / Died 2<sup>nd</sup> June 2004 / "Reunited" / "Forever in our thoughts" / "God bless" /// *\[born 1.9.1918 -- spent his whole life in Monkton, at 99 Monkton St -- choir boy, bakers boy for Jezzards in Minster -- then BR @ Minster Station -- White Stag pub regular -- market gardener\]*
+And husband / **DOUGLAS FREDRICK / STANNARD** / Died 2<sup>nd</sup> June 2004 / "Reunited" / "Forever in our thoughts" / "God bless" /// *\[born 1.9.1918 -- spent his whole life in Monkton, at 99 Monkton St -- choir boy, bakers boy for Jezards in Minster -- then BR @ Minster Station -- White Stag pub regular -- market gardener\]*
 
 109. *\[ rounded top rectangular stone memorial \]*
 
@@ -1082,7 +1082,7 @@ Also of a dear wife and mother / **EMILY MATILDA DRAKE** / passed away June 23<s
 
 135. *\[ rectangular stone memorial \]*
 
-In / loving memory / of / **JACK KINGMAN BRIEN** / who died suddenly / on May 10<sup>th</sup> 1974 / aged 55 / "Dearly loved and sadly missed" // *\[ex-W.S.Coles building labourer\]*
+In / loving memory / of / **JACK KINGMAN BRIEN** / who died suddenly / on May 10<sup>th</sup> 1974 / aged 55 / "Dearly loved and sadly missed" // *\[born 19.2.1919, ex-W.S.Coles building labourer\]*
 
 Also his beloved wife / **MARGARET ELIZABETH *BRIEN*** *(nee Jones)* / Died 8<sup>th</sup> October 2005 / aged 88 ///
 
@@ -1128,7 +1128,7 @@ Also / **ERNEST FRANK** / son of the above / died Jan 14<sup>th</sup> 1927 / age
 
 Also / **EDITH** / wife of PERCY / Died July 30<sup>th</sup> 1977 / aged 95 years / "Reunited" //
 
-FOOT TABLET:- Also / **GEORGE H*(enry*) HAMMON** / son in law to PERCY / died 16<sup>th</sup> Nov 1982 / aged 79 years // *\[Always lived in Monkton, "Marshview", W.S.Coles worker, singer, typical 'thumbs up' greeting (after an accident!)*
+FOOT TABLET:- Also / **GEORGE H(enry) HAMMON** / son in law to PERCY / died 16<sup>th</sup> Nov 1982 / aged 79 years // *\[Always lived in Monkton, "Marshview", W.S.Coles worker, singer, typical 'thumbs up' greeting (after an accident!)*
 
 **VIOLET MAY** *\[nee Smith\]* / wife of GEORGE / Died 22 March 1991 / aged 88 years ///
 
@@ -1340,7 +1340,7 @@ Also / her husband **/ RICHARD ARTHUR LUNN** / 19<sup>th</sup> Sept 1888 -- 20<s
 
 175. *\[ small square stone on 2 plinths -- updated 2026 \]*
 
-\[In Loving Memory **/ EDWIN ANTHONY BAXTER** / 1938-2023/ Beloved Husband, Father, / Brother // And / **MARY THERESA BAXTER nee McKenna (nee Byer?)** / 1938-2025 / Adored Wife, Mother, Sister ///
+In Loving Memory / **EDWIN ANTHONY BAXTER** / 1938-2023/ Beloved Husband, Father, / Brother // And / **MARY THERESA BAXTER nee McKenna (nee Byer?)** / 1938-2025 / Adored Wife, Mother, Sister ///
 
 *\[EDWIN - ?.?.1938 - 28.9.2023 (85) \] MARY ?.?.1938 -- 18.5.2025 (86) \]*
 
@@ -1400,7 +1400,7 @@ END OF ROW, NOW NEXT TO THE SOUTH WALL
 
 182. *\[ tall rectangular - COMMONWEALTH WAR GRAVE \]*
 
-Emblem of The Buffs / 6453 **Private** / **E(rnest) FITALL** / E Kent Regt. ( The Buffs ) / 31<sup>st</sup> October 1918 aged 31 / "R.I.P. / Thy Will Be Done" /// *\[ wounded on Somme, Labour Corps farming, died in the flu epidemic.\]*
+Emblem of The Buffs / 6453 **Private** / **E(rnest) FITALL** / E Kent Regt. ( The Buffs ) / 31<sup>st</sup> October 1918 aged 31 / "R.I.P. / Thy Will Be Done" /// *\[born 9.10.1887, wounded on Somme, Labour Corps farming, died in the flu epidemic.\]*
 
 *\[UNMARKED :- W. or N. of Ernest Fitall : **FANNY FITALL**, his mother, died 1942, buried 21.12.1942, aged 76 years \]*
 
@@ -1520,15 +1520,17 @@ FOOT TABLET:- **CHARLES WILLIAM SMITH** / Died 2<sup>nd</sup> March 1957 aged 57
 
 200. *\[ tall sloping twisted stone memorial, and small rounded tablet \]*
 
-Sacred / to the memory of / **MARY MAXTED** / who died Dec 20<sup>th</sup> 1861 / aged 63?62 years / "By their fruits ye shall know them / the beloved wife of / RICHARD MAXTED // *\[buried 25.12.1861, aged 62 years\]*
+Sacred / to the memory of / **MARY MAXTED** / who died Dec 20<sup>th</sup> 1861 / aged 63?62 years / "By their fruits ye shall knoweth me" / the beloved wife of / RICHARD MAXTED // *\[buried 25.12.1861, aged 62 years\]*
 
 Also of the above family ? / **RICHARD MAXTED** / who died August 8<sup>th</sup> / 1881 / aged 84 years / ???? /// *\[Minster, from Thanet Union Workhouse, son of George & Mary Maxted, baptised 2.10.1796, buried 7.8.1881, aged 84 years\]*
 
 "Weep not for me my children dear / I am not dead but sleeping near / Free from this world all care and pain / God will raise me up again." ///
 
-201. *\[ small stone rectangular tablet -- probably foot tablet of #207 \]*
+SMALL TABLET:-   **M. M.** 1861 / **R. M.** 1881 ///
 
-**J . F.** / 1834 / **L.? F.** / 1854 /// *\[Foreman -- see #207?)*
+201. *\[ small stone rectangular tablet -- probably foot tablet of / \#207 \]*
+
+**J . F.** / 1834 / **L.? F.** / 1854 /// *\[Foreman -- see \#207?)*
 
 202. *\[ small stone rectangular tablet with rounded top \]*
 
@@ -1560,7 +1562,7 @@ Also **MARY ANN STUDHAMS** / the dearly beloved wife of / WILLIAM STUDHAMS / who
 
 Also **WILLIAM STUDHAMS** / who died 15 April 1884 / aged 68 years \[?? G Miles\] / "Rest in Peace" ///
 
-SHAPED BROKEN SMALL MEMORIAL**:- S A STUDHAMS** / 1874 / **W S** 1884 ///
+SHAPED BROKEN SMALL MEMORIAL:- **S A STUDHAMS** / 1874 / **W S** 1884 ///
 
 205. *\[ rectangular broken memorial with a rounded top section -- see #202\]*
 
@@ -1715,7 +1717,7 @@ START A NEW ROW, LEFT TO RIGHT
 
 233. Beloved husband / dad and grandad / **FREDERICK WILLIAM STEWART -- JONES** / 29.6.1917 -- 18.3. 2013 / "Endlessly" ///
 
-234. In / Loving Memory / of / **HENRY *\[ Thomas* \] MARSH *('Harry')*** / 28th March 1927 -- 14th July 2014 / And / **KATHLEEN *\[ EDITH* \] MARSH *('Kath'*)** / 5th Oct. 1928 -- 21st Sept. 2015 / "Together Forever" ///
+234. In / Loving Memory / of / **HENRY *\[ Thomas* \] MARSH *('Harry')*** / 8th March 1927 -- 14th July 2014 / And / **KATHLEEN *\[ EDITH* \] MARSH *('Kath'*)** / 5th Oct. 1928 -- 21st Sept. 2015 / "Together Forever" ///
 
 235. In / Loving Memory Of **/ LUCILLA ELAINE RENNISON** / 6 Sept. 1954 -- 20 March 2020 / "The best and most beautiful things in / the world cannot be seen nor touched / but are felt In the heart" ///
 
@@ -1760,7 +1762,7 @@ START A NEW ROW, RIGHT TO LEFT
 
 246. In loving memory of / **JOHN DESMOND / MONAGHAN** / Jan 5<sup>th</sup> 1995 / aged 62 years / Also his wife **/ WENDY ANN** / August 10<sup>th</sup> 2007 / aged 67 years ///
 
-247. In loving memory of / **WILLIAM GEORGE / ANDREWS** *\[ 'Billie' \]* / passed away 1<sup>st</sup> July 1996 / aged 88 years / sadly missed by his wife / and family / Also / **IRENE MAY** ***\[nee Attwell\]*** / 11.11.1918 -- 6.6. 2003 / "Reunited with her husband / sadly missed by the family*" \[ **HEATHER JEAN** - died 5.11.2011 aged 64 \]* /// *\[waggoner @ Monkton Ct Farm, ploughed by horse, the last one in Thanet\]*
+247. In loving memory of / **WILLIAM GEORGE / ANDREWS** \[ *'Billie'* \] / passed away 1<sup>st</sup> July 1996 / aged 88 years / sadly missed by his wife / and family / Also / **IRENE MAY** ***\[nee Attwell\]*** / 11.11.1918 -- 6.6. 2003 / "*Reunited with her husband / sadly missed by the family*" \[ **HEATHER JEAN** - died 5.11.2011 aged 64 \] /// \[*waggoner @ Monkton Ct Farm, ploughed by horse, the last one in Thanet*\]
 
 ```{admonition} 🧭 Location help
 :class: note

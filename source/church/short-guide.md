@@ -22,7 +22,7 @@ High up above this window can be seen the stone frame of a Norman light. All win
 
 The wooden **ALTAR** is late C19th or C20th and was obtained in 2006 from another church where it was no longer needed. It replaces a C17th **COMMUNION TABLE** which had long ago lost its original top and had been made unsteady by beetle damage. This table with its stout Tuscan column legs and arches pendant from the single rail and primitive claw feet is still in use as a table near the door.
 
-In 1903, a tall oak **REREDOS** was installed against the E. wall, in memory of both the parents and the parents-in-law of the then Vicar, the Revd Joseph White Horne. Its centrepiece comprises five trefoil-headed panels featuring Christ and the Four Evangelists, painted in the Burne-Jones style. The reredos was removed in 2000 but the upper section has been relocated against the N. wall of the Sanctuary**.**
+In 1903, a tall oak **REREDOS** was installed against the E. wall, in memory of both the parents and the parents-in-law of the then Vicar, the Revd Joseph White Horne. Its centrepiece comprises five trefoil-headed panels featuring Christ and the Four Evangelists, painted in the Burne-Jones style. The reredos was removed in 2000 but the upper section has been relocated against the N. wall of the Sanctuary.
 
 **NAVE :-** The nave is long and, on the S. wall near the middle window, there can be seen the remains of a blocked doorway, *(more clearly visible from the outside)*. It opened, probably, to a path across the Churchyard, leading to Monkton Court. This present farm house is believed to have originated as home to a small monastic community whose memory is preserved in the Village name.
 
@@ -38,7 +38,7 @@ The **FONT**, opposite the main door, is of mottled reddish serpentine and dates
 
 To the rear of the nave will be found two more brasses, framed and wall-mounted. One, a palimpsest, dated 1580, hangs to the right of the main door and it shows the right half of a robed figure while the other side is an inscription to Lebbie Orchard, who died in 1580. The other, a memorial to Nicholas Robinson, 1594, founder of a local charity, is fixed to the W. wall. A third brass panel, a memorial to Margaret Parkar, who died in 1607, is set in the floor near the font and can be viewed through a hatchway. On the S. wall, again near the font, there is an early C17th wall mounted alabaster memorial to Francis Blechynden, “that modest gentlewoman….she enjoyed three husbands.” Hanging over the main door is a painting, oil on canvas; “The Road to Emmaus.” It is reputed to have been painted in 1886 by Mrs Allnut, wife of the Revd. Allnutt, Vicar of Monkton, and the figures are said to be portraits of local people. To the right of the porch is a plain chamfered arch for a **STOUP**.
 
-The **ORGAN**, adjacent to the font, is a Viscounts of Watford “Jubilate” 235 Deluxe electronic 2 manual organ purchased for £4,500 and installed in 2003. It replaces a small early C19th pipe organ that was at the W. end of the church facing west, in a mahogany case, from Browne & Sons of Canterbury 1902. Necessary and extensive restoration of the latter was beyond the parish’s means so it was sold in 2003 for £1,400, dismantled, restored and rebuilt at a church in France where it is in constant use for recitals.
+The **ORGAN**, moved in 2026 to the NE corner of the nave during the refurbishment, is a Viscounts of Watford “Jubilate” 235 Deluxe electronic 2 manual organ purchased for £4,500 and installed in 2003. It replaces a small early C19th pipe organ that was at the W. end of the church facing west, in a mahogany case, from Browne & Sons of Canterbury 1902. Necessary and extensive restoration of the latter was beyond the parish’s means so it was sold in 2003 for £1,400, dismantled, restored and rebuilt at a church in France where it is in constant use for recitals.
 
 **THE TOWER :-** The pointed arch to the tower is Early English, like the chancel arch. The tower, plain, square and gaunt, would have been a welcome landmark to pilgrims coming from Canterbury and using “The Street” (as the road through Monkton is still called), to reach Minster Abbey where St Mildred of Thanet, Mildrith (c.660 – 732), was buried.
 
@@ -64,7 +64,9 @@ The tenor bell was hung in March 2014, thanks to the generosity of donors, inclu
 
 There being room in the bell frame to accommodate a ring of six, we gratefully accepted the offer of two more bells. The costs were met by a grant from the Keltek Trust and a gift from the Revd. David Cawley. Once again, the KCACR undertook to hang the bells free of charge. This work was completed in 2018.
 
-**THE CHURCH TODAY :-** For a thousand years and more, God has been worshipped in this place and today a small but active congregation is ensuring that St Mary Magdalene Church continues to serve the people of this parish and be a living witness to the presence of God in our midst. There is a monthly Village magazine, the “Monkton News” and you should find a copy (free) near the door. **See Notice boards for details of services and events.**
+**THE CHURCH TODAY :-** For a thousand years and more, God has been worshipped in this building and today a small but active congregation is ensuring that St Mary Magdalene Church continues to serve the people of this parish and be a living witness to the presence of God in our midst.  **See Notice boards for details of services and events.**
+In 2026 changes were made to the floor area, as well as the removal of some pews, enhanced electrics and plumbing, and the unsuitable flooring taken up with a new disabled access design.  
+There is a monthly Village magazine, the “Monkton News” and you should find a copy (free) near the door.
 
 We are now one of 4 churches in the **“Wantsum Group Benefice”,** the others being **Minster, St Nicholas-at-Wade with Sarre, and Chislet.**
 
@@ -78,7 +80,7 @@ Finally, at one time, though there is no trace of the lines now, on a wall near 
 
 Ancient parish churches, despite their being a very important part of our national heritage, receive no support from Government or the Church Commissioners, the latter being responsible in the main for church administration, education and the payment and housing of the clergy. Responsibility for maintenance and repair of this building therefore rests with the local Church Council, and the funds needed for upkeep are donated or raised by the church members, supported by grants from charitable foundations.
 
-If you feel you would like to help with our expenses, we will be most grateful. There is a slot for donations in the top right hand corner of the wall safe, positioned behind the organ. Thank You.
+If you feel you would like to help with our expenses, we will be most grateful. There is a slot for donations in the top right hand corner of the wall safe, positioned by the font. Thank You.
 
 ```{epigraph}
 This is the House of God and He is here.

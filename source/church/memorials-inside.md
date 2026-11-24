@@ -1,9 +1,9 @@
 # Memorials Inside the Church
 
-Fifteen memorial tablets, floor stones and brasses survive inside St Mary
-Magdalene, as well as the brass of John Spicer, a medieval vicar, described at the end of this page.
-Numbering below follows the church's own memorial numbering
-(1–15), used consistently across this page and the 
+Eighteen memorial tablets, floor stones and brasses survive inside St Mary
+Magdalene, including the brass of John Spicer, a medieval vicar, described at the end of this page.
+Numbering below follows the previously-used church memorial numbering
+(1–17), used consistently across this page and the 
 [Churchyard](churchyard/index.md) records, since several families have memorials
 in both places.
 
