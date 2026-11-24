@@ -721,7 +721,7 @@ END OF ROW NEXT TO CHURCH
 
 89. *\[ tall rectangular stone memorial with angel face on top \]*
 
-Here lyeth interred the / body of **GEORGE MAY** / of Birchington who / departed this life / the 8<sup>th</sup> day of March 1749?50) / aged 63 years / & left issue by ELIZABETH / his wife one son & four / daughters //
+Here lyeth interred the / body of **GEORGE MAY** / of Birchington who / departed this life / the 8<sup>th</sup> day of March 1749?50 / aged 63 years / & left issue by ELIZABETH / his wife one son & four / daughters //
 
 Here lieth also **ELIZ *\[abe\]* TH** / his wife who died April / 22<sup>nd</sup> 1758 aged 68 years /// *\[Margate, buried 30.4.1758\]*
 
@@ -755,7 +755,7 @@ In loving memory of **/ MAY** / a wonderful / wife, mother and nanny / **ELSIE M
 
 ??? B/N #94 & SEAT !!! UNMARKED **FLORENCE JESSIE HUMPHRIES** (d. 10.6.1971)
 
-??? B/N #81 &# 96 -- !!! UNMARKED, UNDER SEAT **MR & MRS HOLDEN (SFN?) ; C HOLDEN** ??? *\[RALPH HOLDEN, buried 8.3.1938, aged 52. ? TONY NICHOLAS DAVID HOLDEN, bapt. 12.1.1936, son of Cyril & Doris. ? UNA DORIS ANNE HOLDEN, bapt. 6.6.1937, daughter of Cyril & Doris \]\]*
+??? B/N #81 &# 96 -- !!! UNMARKED, UNDER SEAT **MR & MRS HOLDEN (SFN?) ; C HOLDEN** ??? *\[RALPH HOLDEN, buried 8.3.1938, aged 52. ? TONY NICHOLAS DAVID HOLDEN, bapt. 12.1.1936, son of Cyril & Doris. ? UNA DORIS ANNE HOLDEN, bapt. 6.6.1937, daughter of Cyril & Doris \]*
 
 95. *\[ square stone memorial on a square stone horizontal memorial base \]*
 
@@ -1076,7 +1076,7 @@ END OF ROW, NEAR SOUTH WALL. *N.B. small rectangular metal fence by the wall -- 
 
 "PEACE" / in memory of / a dear husband and father / **WILLIAM JOHN DRAKE** / passed away / Feb 12<sup>th</sup> 1939 / aged 68 years //
 
-Also his son **RONALD** *\[ROBERT DRAKE\]* fell asleep / Sept 26<sup>th</sup> 1918, aged 9 years / "Until the day break and the / shadows flee away //
+Also his son **RONALD** *\[ROBERT DRAKE\]* fell asleep / Sept 26<sup>th</sup> 1918, aged 9 years / "Until the day break and the / shadows flee away" //
 
 Also of a dear wife and mother / **EMILY MATILDA DRAKE** / passed away June 23<sup>rd</sup> 1956, aged 81 years / "Reunited" /// *{ Overton Broadstairs }*
 
@@ -1128,7 +1128,7 @@ Also / **ERNEST FRANK** / son of the above / died Jan 14<sup>th</sup> 1927 / age
 
 Also / **EDITH** / wife of PERCY / Died July 30<sup>th</sup> 1977 / aged 95 years / "Reunited" //
 
-FOOT TABLET:- Also / **GEORGE H(enry) HAMMON** / son in law to PERCY / died 16<sup>th</sup> Nov 1982 / aged 79 years // *\[Always lived in Monkton, "Marshview", W.S.Coles worker, singer, typical 'thumbs up' greeting (after an accident!)*
+FOOT TABLET:- Also / **GEORGE H(enry) HAMMON** / son in law to PERCY / died 16<sup>th</sup> Nov 1982 / aged 79 years // *\[Always lived in Monkton, "Marshview", W.S.Coles worker, singer, typical 'thumbs up' greeting (after an accident!)\]*
 
 **VIOLET MAY** *\[nee Smith\]* / wife of GEORGE / Died 22 March 1991 / aged 88 years ///
 
@@ -1342,7 +1342,7 @@ Also / her husband **/ RICHARD ARTHUR LUNN** / 19<sup>th</sup> Sept 1888 -- 20<s
 
 In Loving Memory / **EDWIN ANTHONY BAXTER** / 1938-2023/ Beloved Husband, Father, / Brother // And / **MARY THERESA BAXTER nee McKenna (nee Byer?)** / 1938-2025 / Adored Wife, Mother, Sister ///
 
-*\[EDWIN - ?.?.1938 - 28.9.2023 (85) \] MARY ?.?.1938 -- 18.5.2025 (86) \]*
+*\[EDWIN - ?.?.1938 - 28.9.2023 (85) / MARY ?.?.1938 -- 18.5.2025 (86) \]*
 
 ```{admonition} 🧭 Location help
 :class: note
@@ -1450,7 +1450,7 @@ Also of the above / **THOMAS SMITH** / who died March 27<sup>th</sup> 1898 / age
 
 In Loving Memory of / My Dear Husband / **WILLIAM THOMAS BUSH** / Dearly beloved father of AUDREY ? / fell asleep ?6<sup>th</sup> Sept. 1965 aged 67 / At rest. ///
 
-??? /// *\[ **SAYER** - baby ??? \] Barbara Sayer, Monkton, daughter of William Herbert, plasterer, and Ella Emily Sayer, baptised 29.7.1935, buried 30.11.1935, aged 3 months\]*
+??? /// *\[ **SAYER** - baby ??? Barbara Sayer, Monkton, daughter of William Herbert, plasterer, and Ella Emily Sayer, baptised 29.7.1935, buried 30.11.1935, aged 3 months\]*
 
 191. *\[ tall rectangular stone memorial -- COMMONWEALTH WAR GRAVE* *\]*
 
@@ -1510,7 +1510,7 @@ In loving memory of / my dear husband / **? LESLIE STEPHEN ? BAILEY** ? / April 
 
 199. *\[ square stone memorial, 4-sided kerb, 2 stone tablets within the plot \]*
 
-In loving memory of / **NEIL PATRICK SMITH** / 4<sup>th</sup> September 1947 -- 23<sup>rd</sup> Feb 1997 / "remembered by all / who love you so dearly / much loved son to / LILLIAN and BILL / so sorely missed / by all your family" / "The moon will rise / the sun will set / But we won't forget" / "Forever in our hearts" / Elaine, Hollie, Scott and Lee / (Etching of a horse's head } ///
+In loving memory of / **NEIL PATRICK SMITH** / 4<sup>th</sup> September 1947 -- 23<sup>rd</sup> Feb 1997 / "remembered by all / who love you so dearly / much loved son to / LILLIAN and BILL / so sorely missed / by all your family" / "The moon will rise / the sun will set / But we won't forget" / "Forever in our hearts" / Elaine, Hollie, Scott and Lee / (Etching of a horse's head) ///
 
 MIDDLE TABLET:- **WILLIAM HENRY CHARLES / SMITH** / 31.5.1924 -- 29.6.2001 / aged 77 / Father of NEIL / son of CHARLES / "sadly missed by his wife / and all the family" //
 
@@ -1530,11 +1530,11 @@ SMALL TABLET:-   **M. M.** 1861 / **R. M.** 1881 ///
 
 201. *\[ small stone rectangular tablet -- probably foot tablet of / \#207 \]*
 
-**J . F.** / 1834 / **L.? F.** / 1854 /// *\[Foreman -- see \#207?)*
+**J . F.** / 1834 / **L.? F.** / 1854 /// *\[Foreman -- see \#207?\]*
 
 202. *\[ small stone rectangular tablet with rounded top \]*
 
-**C. F.** / 1863 /// *\[Foreman -- see #205?)*
+**C. F.** / 1863 /// *\[Foreman -- see \#205?\]*
 
 203. *\[ rectangular stone memorial, and smaller thin rectangular memorial* *\]* ( *opposite church tower WEST door* )
 
@@ -1570,7 +1570,7 @@ SHAPED BROKEN SMALL MEMORIAL:- **S A STUDHAMS** / 1874 / **W S** 1884 ///
 
 206. *\[ tall rectangular stone memorial, and a smaller rectangular tablet leaning together \]*
 
-Sacred / To the Memory of / **MARY ANN(E)** / Wife of GEORGE **NEEVES** / who died January 3<sup>rd</sup> 1831 / in the 24<sup>th</sup> year of her age / Leaving a disconsolate husband / to lament his loss / "With patience to the last she did submit / And ? not at what that ? fit / ? ing illness smart and pure / This ? still physic proud in ? / She with a Christian courage did ? / Her soul to GOD at his appointed ? ///
+Sacred / To the Memory of / **MARY ANN(E)** / Wife of GEORGE **NEEVES** / who died January 3<sup>rd</sup> 1831 / in the 24<sup>th</sup> year of her age / Leaving a disconsolate husband / to lament his loss / "With patience to the last she did submit / And ? not at what that ? fit / ? ing illness smart and pure / This ? still physic proud in ? / She with a Christian courage did ? / Her soul to GOD at his appointed ?" ///
 
 *\[MARY, buried 10.1.1831, aged 24 years. GEORGE, buried 14.9.1885, aged 84 years\]*
 
@@ -1729,7 +1729,7 @@ START A NEW ROW, RIGHT TO LEFT
 
 236. **HILARY JOAN THOMAS** / Beloved wife, mother, / grandmother and great grandmother / 2<sup>nd</sup> Dec. 1951 -- 2<sup>nd</sup> Dec. 2023 ///
 
-237. In Loving Memory Of / **MICHAEL JOHN / CLEMENTS** / 10.2.1942 -- 17.1.2021 / "Dearly missed by all that knew him ///
+237. In Loving Memory Of / **MICHAEL JOHN / CLEMENTS** / 10.2.1942 -- 17.1.2021 / "Dearly missed by all that knew him" ///
 
 237.5 *(new memorial, 2026)* In loving memory / of / **JOHN STUART HILL** / 5.9.1934 -- 24.1.2020 / **JANE ELLEN HILL** / 30.4.1938 -- 26.2.2025 / much missed by / all the family ///
 
@@ -1770,7 +1770,7 @@ START A NEW ROW, RIGHT TO LEFT
 START A NEW ROW, LEFT TO RIGHT
 ```
 
-248. In loving memory of / **KENNETH GEORGE KING** / 22. 9. 1940 -- 12.1.2015 / And / **PAULINE KING** / 20.7.1942 -- 22.10.2024 / "A Loving Couple Reunited ///
+248. In loving memory of / **KENNETH GEORGE KING** / 22. 9. 1940 -- 12.1.2015 / And / **PAULINE KING** / 20.7.1942 -- 22.10.2024 / "A Loving Couple Reunited" ///
 
 249. **IRIS HARRIS** / 25.5.1930 -- 18.4.2015 / **WILLIAM *[Robert] /* HARRIS** / 2.3.1933 -- 12.2.2017 ///
 
