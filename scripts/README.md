@@ -103,7 +103,7 @@ on every page and don't split a row across a page break.
 into a list of block dicts (headings, paragraphs, lists, tables, callouts,
 figures, quotes) — handling the specific directives this content uses
 (`{admonition}`, `{note}`/`{tip}`/`{warning}`/`{important}`/`{seealso}`,
-`{epigraph}`, `{figure}`; `{toctree}` is dropped). A line ending in a
+`{epigraph}`, `{figure}`; `{toctree}` and `{rst-class}` are dropped). A line ending in a
 backslash (MyST's hard line break, used for the poems on the war memorial
 page) becomes a line break in Word rather than being joined to the next
 line with a space. It is not a general MyST

@@ -598,7 +598,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above.
 | WARD, Brian Herbert | ?.?.1933 -- 15.2.2010 (76) | Crem. West of path 229 | D33 |
 | WARHAM, Ivy | 27.8.1910 -- 27.10.1996 (86) | 184 | B3 |
 | WHISH, Rev Richard Peter *(Vicar of Monkton from 1832)* | ?.?.???? -- 18.8.1868 (80) | 127 |  |
-| WHITE, Frances *\[nee Sharp?\]* | ?.?.???? -- 20.12.1829 (51) | 3 Chancel |  |
+| WHITE, Frances *\[later SHARP, wife of Stephen Sharp\]* | ?.?.???? -- 20.12.1829 (51) | 3 Chancel |  |
 | WHITE, James | ?6.12.1810 -- 31.5.1849 (38) | 1 Chancel |  |
 | WHITE, James | ?6.4.1784 -- 21.8.1861 (77) | 1 Chancel |  |
 | WHITE, James | ?.?.???? -- 2.3.1801 (59) | 2 Chancel |  |
@@ -607,7 +607,7 @@ It comes the Coles Funeral Directors' burial plan mentioned above.
 | WHITE, Margaret *\[nee Collard\]* | ?.?.???? -- 12.9.1823 (75) | 2 Chancel |  |
 | WHITE, Mary | ?.?.???? -- 6.2.1863 (89) | 3 Chancel |  |
 | WHITE, Rachel | ?.?.???? -- 10.4.1819 (31) | 28 / 1 Chancel |  |
-| WHITE, William | ?10.12.1809 -- 30.8.1871 (61) | 1 Chancel |  |
+| WHITE, William | ?10.12.1809 -- 30.8.1871 (62) | 1 Chancel |  |
 | WILKINSON, Donald Frederick | 9.10.1929 -- 12.3.2009 (79) | 113 | F26 |
 | WILKINSON, Patricia Anne | 30.5.1942 -- 8.1.2017 (74) | 113 | F26 |
 | WILLETT, Allan Robert | 24.8.1936 -- 18.7.2015 (78) | 168 | B35 |

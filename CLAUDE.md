@@ -52,6 +52,17 @@ without Sphinx warnings/errors and renders as expected.
   fans out to `names-alphabetical.md`, `numbered-stones.md`,
   `survey-by-location.md`, `register-appendix.md` — the churchyard survey data),
   `richard-culmer.md`, `war-memorial.md`, and `memorials-inside.md`.
+  `memorials-inside.md` numbers the 19 memorials as a Markdown ordered list
+  (location in `*\[ … \]*` after the number). Each inscription sits in a
+  shaded serif panel: a contentless ```` ```{rst-class} inscription ```` block
+  immediately before an ```` ```{epigraph} ```` block (styled by
+  `blockquote.inscription` in `custom.css`; the book converter drops
+  `rst-class` and prints the epigraph as an indented italic quote). Register
+  notes go *below* the panel as a "**From the parish registers:**" bullet
+  list (name in bold caps, who they are, then the register facts; flag
+  disagreements with the stone in italics), plus "**Family links:**" bullets
+  cross-referencing other memorials. Don't nest bullet lists there — the
+  converter flattens them.
   `war-memorial.md` gives each man on the memorial a `###` subheading
   (rank, name, dates, age) followed by his short biography (from the Dec
   2026 "MONKTON WAR MEMORIAL" document), under `## 1914 – 1918`,

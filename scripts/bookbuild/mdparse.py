@@ -277,7 +277,9 @@ def _parse_directive(name, title, body_lines):
     while content and not content[-1].strip():
         content.pop()
 
-    if name == "toctree":
+    # toctree is site navigation; rst-class only tags the next block with a
+    # CSS class for the website (e.g. memorial inscriptions) - drop both
+    if name in ("toctree", "rst-class"):
         return None
 
     if name == "figure":
