@@ -157,7 +157,7 @@ who had issue by Frances his wyfe 3 sonnes and 2 daughters.
 Here lyeth CHRISTOPHER BLECHYNDEN, gentleman, late of the p'ish *(parish)* of Mountin *(Monkton)* 
 with Ames and Margaret his wifes, which deceased the furste (1st) day of July An:1554
 
-## Brass of John Spicer
+18. Brass of John Spicer
 
 *\[ on the floor of the nave, just before the chancel step \]*
 
@@ -170,3 +170,10 @@ Monkton and is John Spicer, Vicar of Monkton from 1427 to 1451, (died 1460), in 
 
 *It is printed in this limited numbered edition of 200 only in AD 1988 to commemorate the
 commencement of the restoration work on the Church."*
+
+19. \[A brass wall memorial to be put back on a church wall after decoration\]
+
+In Memory of / MICHAEL JEFFREY WELLARD SMITH / J. P.   T. D. / 1918 --1996 /
+Michael loved this village and its church / He served the community as a J. P. /
+Counciller, School Governor and Chairman / of the British Legion / 
+A Churchwarden from 1993 -- 96 / he played a major part in the restoration of / the church at that time
