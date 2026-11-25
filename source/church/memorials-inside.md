@@ -1,9 +1,9 @@
 # Memorials Inside the Church
 
-Eighteen memorial tablets, floor stones and brasses survive inside St Mary
-Magdalene, including the brass of John Spicer, a medieval vicar, described at the end of this page.
+Nineteen memorial tablets, floor stones and brasses survive inside St Mary
+Magdalene, including the brass of John Spicer, a medieval vicar (no. 18 below).
 Numbering below follows the previously-used church memorial numbering
-(1–17), used consistently across this page and the 
+(1–19), used consistently across this page and the
 [Churchyard](churchyard/index.md) records, since several families have memorials
 in both places.
 
@@ -34,7 +34,7 @@ Also of **WILLIAM**, / eldest son of the above / RACHEL and JAMES **WHITE** / wh
 
 In a Vault near this Place / lie the remains of **JAMES WHITE** Gent. / late of the Parsonage in this Parish / who departed this life the 2<sup>nd</sup> of March 1801 / aged 59 years //
 
-Also **MARGARET** his wife, daughter of / JOHN COLLARD Gent of Broomfield / in the Parish of Hearn (Herne), who died / Sept 12<sup>th</sup> 1823 aged 75 years. She left / surviving 1 son & 6 daughters, JAMES, / MARY, ELIZABETH, MARGARET, / FRANCES, ANN & MARTHA. / "Our hope is they rest in God. /// *\[buried 20.9.1823, aged 75 years\]*
+Also **MARGARET** his wife, daughter of / JOHN COLLARD Gent of Broomfield / in the Parish of Hearn *(Herne)*, who died / Sept 12<sup>th</sup> 1823 aged 75 years. She left / surviving 1 son & 6 daughters, JAMES, / MARY, ELIZABETH, MARGARET, / FRANCES, ANN & MARTHA. / "Our hope is they rest in God." /// *\[buried 20.9.1823, aged 75 years\]*
 
 3.  *\[ north wall in the chancel \]*
 
@@ -82,7 +82,7 @@ In memory of / **HENRY THOMAS WILLETT** / Monkton Parsonage / Church Warden for 
 
 8.  *\[ floor grave in the nave closest to the chancel \]*
 
-Under this Marble lyeth / ye body of **Mr ABRAHAM TERREY** / late of this Parish of Monkton who dyed / February ye 23 in ye Year of our Lord / God 1661 and in ye 44 Year of his Age. / He took to wife ANN ye daughter of / Mr JOHN TOMLIN of St Jns.? Bap? (St John the Baptist?) / Leaving Issue by her two Sons / and four Daughters Viz? ABRAHAM, / ISAAC, ANN, MARY, ELIZABETH, & HANNAH. //
+Under this Marble lyeth / ye body of **Mr ABRAHAM TERREY** / late of this Parish of Monkton who dyed / February ye 23 in ye Year of our Lord / God 1661 and in ye 44 Year of his Age. / He took to wife ANN ye daughter of / Mr JOHN TOMLIN of St Jns.? Bap? *(St John the Baptist?)* / Leaving Issue by her two Sons / and four Daughters Viz? ABRAHAM, / ISAAC, ANN, MARY, ELIZABETH, & HANNAH. //
 
 Resurgam /
 
@@ -108,22 +108,17 @@ He married in November 1789, **MARY**, only child of the late HENRY COLLARD esq.
 
 In August 1816 he married his second wife, **MARY**, daughter of GEORGE SLATER esq. / of Margate, who now survives him, and with sincere sorrow deplored his loss. //
 
-This tablet was erected by his only surviving and affectionate daughter. M-E H.
+This tablet was erected by his only surviving and affectionate daughter. M-E H. ///
 
 11. *\[ south wall nave in the middle \]*
 
-Sacred to the memory of / **Mr JAMES SMITH** of Monkton Court, / who departed this life sincerely and deservedly lamented / by his family and numerous friends / on the 9<sup>th</sup> day of December 1830 / in the 61<sup>st</sup> year of his age. / His remains are deposited in the family vault / in this church yard. / "In him the poor have lost a kind benefactor. // *\[baptised 19.3.1770, buried 15.12.1830, aged 61 years\]*
+Sacred to the memory of / **Mr JAMES SMITH** of Monkton Court, / who departed this life sincerely and deservedly lamented / by his family and numerous friends / on the 9<sup>th</sup> day of December 1830 / in the 61<sup>st</sup> year of his age. / His remains are deposited in the family vault / in this church yard. / "In him the poor have lost a kind benefactor." // *\[baptised 19.3.1770, buried 15.12.1830, aged 61 years\]*
 
 Also of **NANNY**, wife of the above / JAMES **SMITH** / who died on the 7<sup>th</sup> of June 1831 / aged ?60/80 years. /// *\[buried 13.6.1831, aged 80 years\]*
 
 12. *\[ south wall nave at the back \]*
 
-Here lyeth interred the body of that modest / 
-gentlewoman **FRANCIS BLECHYNDEN** / 
-eldest daughter of THOMAS BLECHYNDEN of Aldington / gent. Shee *(She)* injoyed *(enjoyed)* 3 husbands / THOMAS EPPS of Newe Romney gent her / first. NICHOLAS ROBYNSON *(died 1594)* of his parish of / 
-Moncton gent her second. & JOHN BLECHYN / DEN of Aldington esq. 
-She had by each / of them issue. 
-Shee lived 48 yeares want / inge 12 dayes deptinge *(departing)* this world in the / true fayth of Christ ye 25<sup>th</sup> of December 1611 ///
+Here lyeth interred the body of that modest / gentlewoman **FRANCIS BLECHYNDEN** / eldest daughter of THOMAS BLECHYNDEN of Aldington / gent. Shee *(She)* injoyed *(enjoyed)* 3 husbands / THOMAS EPPS of Newe Romney gent her / first. NICHOLAS ROBYNSON *(died 1594)* of his parish of / Moncton gent her second. & JOHN BLECHYN / DEN of Aldington esq. / She had by each / of them issue. / Shee lived 48 yeares want / inge 12 dayes deptinge *(departing)* this world in the / true fayth of Christ ye 25<sup>th</sup> of December 1611 ///
 
 13. *\[ south floor nave at the back \]*
 
@@ -131,37 +126,33 @@ Here lyeth buried the body / **of MARGARET PARKAR** who had / two husbands. 1. G
 
 14. *\[ ledger stone black - hidden under the nave floor at the west end -- others in white stone \]*
 
-{Coat of Arms} Here lieth ye Body of **MR JNO: *(John*) AYLING**, late vicar of this Church 48 years, who married ELIZ: *(Elizabeth*) ye: Daugr (*daughter*) of MR ABRAHAM TERRY sometime of this Parish. By whome He had issue 4 Chil: *(children)* Viz: ELIZ: *(Elizabeth*) SETH: ANN & ELIZABETH: two Surviving Seth & Ann. He departed This life Decr: *(December*) ye 4<sup>th</sup> : 1710 Aged 74 years. // *\[clerk, vicar of Monkton & Birchington for 48 years, buried 8.12.1710\]*
+{Coat of Arms} Here lieth ye Body of **MR JNO:** *(John)* **AYLING**, late vicar of this Church 48 years, who married ELIZ: *(Elizabeth)* ye: Daugr *(daughter)* of MR ABRAHAM TERRY sometime of this Parish. By whome He had issue 4 Chil: *(children)* Viz: ELIZ: *(Elizabeth)* SETH: ANN & ELIZABETH: two Surviving Seth & Ann. He departed This life Decr: *(December)* ye 4<sup>th</sup> : 1710 Aged 74 years. // *\[clerk, vicar of Monkton & Birchington for 48 years, buried 8.12.1710\]*
 
-Here lieth interr'd the Body of **ELIZ: *(Elizabeth***) the Daughr: (*daughter*) of JOHN **AYLING** Vicr: *(Vicar*) of this Church and **ELIZ: *(Elizabeth***) his wife who departed this life June the 23<sup>rd</sup>: A.D: 1706 in the 21<sup>st</sup>: Year of her Age. {Skull motif} // *\[Elis. Ayling, daughter, buried 26.6.1706\]*
+Here lieth interr'd the Body of **ELIZ:** *(Elizabeth)* the Daughr: *(daughter)* of JOHN **AYLING** Vicr: *(Vicar)* of this Church and **ELIZ:** *(Elizabeth)* his wife who departed this life June the 23<sup>rd</sup>: A.D: 1706 in the 21<sup>st</sup>: Year of her Age. {Skull motif} // *\[Elis. Ayling, daughter, buried 26.6.1706\]*
 
-Here lyes ye Body of **THO: *(Thomas***) ye son of MR Wm (*William*) **YOUNG** & ANNE his wife who died Janr: *(January*) Ye 23<sup>rd</sup> 1715 Aged 9 months // *\[THOMAS YOUNG, son of Mr ......? Vicar of Chislet & his wife Anne, buried 26.1.1715\]*
+Here lyes ye Body of **THO:** *(Thomas)* ye son of MR Wm *(William)* **YOUNG** & ANNE his wife who died Janr: *(January)* Ye 23<sup>rd</sup> 1715 Aged 9 months // *\[THOMAS YOUNG, son of Mr ......? Vicar of Chislet & his wife Anne, buried 26.1.1715\]*
 
-**M(ARY?) YOUNG** Died Febr *(February*) 1712 Aged 4 m (*months*) ///
+**M(ARY?) YOUNG** Died Febr *(February)* 1712 Aged 4 m *(months)* ///
 
 *\[WILLIAM YOUNG married AN(NE) AYLING 12.10.1706\]*
 
 15. *\[ hanging wooden framed brass plaque -- on the right-hand side of the church door \]*
 
-Here lyeth buried ye body of **`LEBB`IE ORCHARD** / sometime dwelling in Mounckton Courte in this parish. Whose soule deceased the ??? daye of October in the yere of our Lord god. M C C C C C L X X X . (1580) ? Whole (holy?) ? resteth with ? ///
+Here lyeth buried ye body of **LEBBIE ORCHARD** / sometime dwelling in Mounckton Courte in this parish. Whose soule deceased the ??? daye of October in the yere of our Lord god. M C C C C C L X X X . (1580) ? Whole (holy?) ? resteth with ? ///
 
 16. NICHOLAS ROBINSON (1594)
 
-Here lyeth buryed the bodye of Nicholas Robinson gent, sometyme dwelt in the Isle of Tenat, 
-in th parish Monketon at Gore Street, who departed this present lyfe the 23 of June 1594.
-who had issue by Frances his wyfe 3 sonnes and 2 daughters.
-"Respice finem"
+Here lyeth buryed the bodye of **NICHOLAS ROBINSON** gent, sometyme dwelt in the Isle of Tenat, / in th parish Monketon at Gore Street, who departed this present lyfe the 23 of June 1594. / who had issue by FRANCES his wyfe 3 sonnes and 2 daughters. / "Respice finem" ///
 
-17. CHRISTOFER, BLECHYNDEN (1554)
+17. CHRISTOPHER BLECHYNDEN (1554)
 
-Here lyeth CHRISTOPHER BLECHYNDEN, gentleman, late of the p'ish *(parish)* of Mountin *(Monkton)* 
-with Ames and Margaret his wifes, which deceased the furste (1st) day of July An:1554
+Here lyeth **CHRISTOPHER BLECHYNDEN**, gentleman, late of the p'ish *(parish)* of Mountin *(Monkton)* / with AMES and MARGARET his wifes, which deceased the furste *(1st)* day of July An:1554 ///
 
 18. Brass of John Spicer
 
 *\[ on the floor of the nave, just before the chancel step \]*
 
-The brass shows John Spicer, [Vicar of Monkton](clergy.md) from 1427 to 1451, in his
+The brass shows **JOHN SPICER**, [Vicar of Monkton](clergy.md) from 1427 to 1451, in his
 vestments. A framed rubbing of the brass hangs on the north wall of the nave by the church
 door, with this caption:
 
@@ -171,9 +162,6 @@ Monkton and is John Spicer, Vicar of Monkton from 1427 to 1451, (died 1460), in 
 *It is printed in this limited numbered edition of 200 only in AD 1988 to commemorate the
 commencement of the restoration work on the Church."*
 
-19. \[A brass wall memorial to be put back on a church wall after decoration\]
+19. *\[ brass wall memorial -- to be put back on a church wall after decoration \]*
 
-In Memory of / MICHAEL JEFFREY WELLARD SMITH / J. P.   T. D. / 1918 --1996 /
-Michael loved this village and its church / He served the community as a J. P. /
-Counciller, School Governor and Chairman / of the British Legion / 
-A Churchwarden from 1993 -- 96 / he played a major part in the restoration of / the church at that time
+In Memory of / **MICHAEL JEFFREY WELLARD SMITH** / J. P. T. D. / 1918 -- 1996 / Michael loved this village and its church / He served the community as a J. P. / Counciller, School Governor and Chairman / of the British Legion / A Churchwarden from 1993 -- 96 / he played a major part in the restoration of / the church at that time ///
