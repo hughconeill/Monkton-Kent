@@ -296,33 +296,33 @@ A free school tied to church endowments and based at Monkton Vicarage served the
 
 ### List of headteachers 1872 – 2021
 
-- 1.11.1872 – 24.12.1875 - Mary HARRAD.
-- 1881 census – 14.1.1876 – 6.4.1887 - Emily HEAYMAN, teacher, from East Grinsted. & Bessie HEAYMAN, monitor. 86 scholars aged from 3 – 14 years.
-- 18.4.1887 – 22.3.1895 - Annie E MAY.
-- 23.3.1895 – 26.6.1896 - Miss L PRIZERMAN.
-- 20.7.1896 – 29.4.1898 - Miss S ROWLEDGE.
-- 2.5.1898 – 18.12.1903 - William Henry BURGESS.
-- 4.1.1904 – 16.5.1913 - Robert P POTTER
+- 1-Nov-1872 – 24-Dec-1875 - Mary HARRAD.
+- 1881 census – 14-Jan-1876 – 6-Apr-1887 - Emily HEAYMAN, teacher, from East Grinsted. & Bessie HEAYMAN, monitor. 86 scholars aged from 3 – 14 years.
+- 18-Apr-1887 – 22-Mar-1895 - Annie E MAY.
+- 23-Mar-1895 – 26-Jun-1896 - Miss L PRIZERMAN.
+- 20-Jul-1896 – 29-Apr-1898 - Miss S ROWLEDGE.
+- 2-May-1898 – 18-Dec-1903 - William Henry BURGESS.
+- 4-Jan-1904 – 16-May-1913 - Robert P POTTER
 - 1913 Kelly’s Directory – Robert P POTTER.
-- 9.10.1911 – 12.2.1912 - Mr E BAKER ( Acting Head )
-- 19.5.1913 – 4.7.1913 - Fred ROGERS
-- 7.7.1913 – 29.4.1920 - Albert Edward PRIOR ( His wife, Florence, of less than a year, dies in Kings Lynn, Norfolk in 1915. His older sister moves into the schoolhouse and teaches until October 1917. He enlists on 23.10.1916 aged 27.5, joining the 28th Battalion London Reg the Artists Rifles. Discharged 9.6.1917 as “unfit”. He returned to Monkton School on 3.3.1919, but not immediately living in the schoolhouse. He marries Dorothy Budds, and Dorothy’s sister-in-law Mrs Lillian Budds becomes assistant teacher from October 1917. In 1920 Dorothy’s sister Norah Budds briefly joined the staff. Albert Prior left Monkton School in May 1920, and went to Hersden School, Sturry. When he retired from teaching he became vicar of Elmsted and Hastingleigh near Wye in Kent. Lillian Budds left in 1930 and became headteacher of Minster School.)
+- 9-Oct-1911 – 12-Feb-1912 - Mr E BAKER ( Acting Head )
+- 19-May-1913 – 4-Jul-1913 - Fred ROGERS
+- 7-Jul-1913 – 29-Apr-1920 - Albert Edward PRIOR ( His wife, Florence, of less than a year, dies in Kings Lynn, Norfolk in 1915. His older sister moves into the schoolhouse and teaches until October 1917. He enlists on 23-Oct-1916 aged 27.5, joining the 28th Battalion London Reg the Artists Rifles. Discharged 9-Jun-1917 as “unfit”. He returned to Monkton School on 3-Mar-1919, but not immediately living in the schoolhouse. He marries Dorothy Budds, and Dorothy’s sister-in-law Mrs Lillian Budds becomes assistant teacher from October 1917. In 1920 Dorothy’s sister Norah Budds briefly joined the staff. Albert Prior left Monkton School in May 1920, and went to Hersden School, Sturry. When he retired from teaching he became vicar of Elmsted and Hastingleigh near Wye in Kent. Lillian Budds left in 1930 and became headteacher of Minster School.)
 - Monkton School was closed for 2 weeks between March 26th 1917 and April 16th 1917 as soldiers were billeted in the school rooms to recover,
-- 22.11.1916 - 31.1.1917 - Elsie BAYLEY ( Acting Head )
-- 1.2.1917 – 28.1.1919 - Katie BURMAN
+- 22-Nov-1916 - 31-Jan-1917 - Elsie BAYLEY ( Acting Head )
+- 1-Feb-1917 – 28-Jan-1919 - Katie BURMAN
 - 1914 WW1 – Mr ROGERS; Mr Mrs Lillian BUDDS (sister-in-law to Mr Prior); Mrs HARRIS
-- 3.5.1920 - ?.?.???? - Mrs Daisy SIMPSON (b1876)
+- 3-May-1920 - ?-?-???? - Mrs Daisy SIMPSON (b1876)
 - 1936 – Miss Dorothy FOREMAN
 - ??? - Mrs F R M SMITH
 - 1975? – Mrs Jean ANGUS
-- ?.?.???? – 1.4.1981 - Mr Sam SEXTON
-- 1.4.1981 - ?.?.1986 - Mr Rob WEAVER
-- 1.1.1986 - ?.?.1990 - Mr WAKEFIELD
+- ?-?-???? – 1-Apr-1981 - Mr Sam SEXTON
+- 1-Apr-1981 - ?-?-1986 - Mr Rob WEAVER
+- 1-Jan-1986 - ?-?-1990 - Mr WAKEFIELD
 - Acting Heads - Noel TAYLOR; Miss Olive GREY; Nick IRELAND
-- 1.9.1990 – 30.8.2015 - Mrs Janet GRAHAM nee Clark.
-- 1.9.2015 - ?.5.2017 - Mrs Jean KENNETT
-- ?.5.2017 - ?.4.2019 - Mrs Karon WILSON ( Acting Head )
-- ?.4.2019 – 30.8.2021 - School federated with Minster. Executive Headteacher : Wendy STONE. Head of School : Karon WILSON.
+- 1-Sep-1990 – 30-Aug-2015 - Mrs Janet GRAHAM nee Clark.
+- 1-Sep-2015 - ?-May-2017 - Mrs Jean KENNETT
+- ?-May-2017 - ?-Apr-2019 - Mrs Karon WILSON ( Acting Head )
+- ?-Apr-2019 – 30-Aug-2021 - School federated with Minster. Executive Headteacher : Wendy STONE. Head of School : Karon WILSON.
 
 School concerts were held in the School before the Village Hall was built in 1926.
 

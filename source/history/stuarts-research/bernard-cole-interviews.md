@@ -125,7 +125,7 @@ Mother used to make butter and ice cream. Her first job was learning to be a tai
 
 Mr CULLY was in the Hampshire Reg during the war, and was stationed in Monkton, met and married here. Lived at Nethercourt Farm, Ramsgate, but came to their present home and worked at her father’s farm.
 
-Mrs Ivy SOUSBY nee Smith, born 25/12/1914, “a Christmas present for her mum”. Lived in Sheriffs Court. Fruit picking and hop picking on the farm during August holidays.
+Mrs Ivy SOUSBY nee Smith, born 25-Dec-1914, “a Christmas present for her mum”. Lived in Sheriffs Court. Fruit picking and hop picking on the farm during August holidays.
 
 Her father was Percy Edwin “Dido” SMITH”, waggoner on the farm. In his spare time, he was in charge of the Minster Salvation Army Band. He also started a band at Monkton Methodist Chapel.
 

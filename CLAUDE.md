@@ -194,6 +194,14 @@ without Sphinx warnings/errors and renders as expected.
   — prefer the most authoritative/primary source available (e.g. link a listed
   building to Historic England's own listing page over a Wikipedia mirror, when
   you have the exact listing URL).
+- **Dates**: `24-Jan-1934` style everywhere in tables, register notes and prose
+  (adopted Nov 2026 for US visitors); unknown parts as `?` (`?-Oct-1855`,
+  `?-?-????`, `?6-Dec-1810` = probably the 6th). Dates *transcribed from a stone
+  or brass* stay as carved — on the churchyard survey that's anything outside
+  the `*\[ … \]*` notes, on `memorials-inside.md` anything inside an
+  `{epigraph}`, and on `register-appendix.md` the dot-dates in quoted
+  inscriptions (#91, #237.5). Written-out prose dates ("3rd May 1915", e.g. the
+  war memorial biographies) are fine as they are.
 - **Disputed facts**: where sources disagree, say so on the page (see the
   `{admonition}` "Conflicting evidence" pattern) rather than silently picking one.
 - **Placeholders**: unresearched sections should stay clearly marked as placeholders

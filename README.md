@@ -61,6 +61,12 @@ needs them again.
   it), and where two good sources disagree, say so on the page (see the
   `{admonition}` "Conflicting evidence" pattern in `history/origins.md`)
   rather than silently picking one.
+- **Dates** are written `24-Jan-1934` (day, three-letter month, year), never
+  all-numeric, so overseas (especially US) readers can't misread them. Unknown
+  parts stay as `?` — `?-Oct-1855`, `?-?-1938`, `?-?-????`, and `?6-Dec-1810`
+  for "probably the 6th". **Exception:** dates transcribed from a gravestone,
+  memorial or brass stay exactly as carved (e.g. `10.2.1942 -- 17.1.2021`);
+  only the researchers' own notes, tables and prose use the new style.
 - **Images** live in `source/_static/images/`. Keep web-sized copies
   (under ~1MB) in the repo and store full-resolution originals
   elsewhere — note where in `sources.md`. Reference them with the

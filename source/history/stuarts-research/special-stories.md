@@ -103,7 +103,7 @@ On Thursday 25th January 1990 (and Friday 26th), the “Monkton Amateur Dramatic
 
 ## Open Gardens dance weekend!
 
-Newspaper article – 2000 : “Villagers step in to rescue fund-raiser”. Instead of the bi-annual Open Gardens Weekend, the committee organised a dance weekend that raised £800. Local ceilidh band “Contraband” hosted a barn dance and the “Line Rangers” held a line-dancing workshop. The “White Stag” was turned into a disco and enthusiasts had a go at Scottish dancing. Everyone enjoyed themselves and “it was a hoot!” The Monkton Open Gardens Weekend was started in 1992 with the money raised going to the Church and the Village Hall. In an Isle of Thanet Gazette article 19.6.1992, 4 photos show work being done in their gardens prior to the Weekend – featuring Davina RANSOM, Tom CULLY, Brenda GRAHAM and Gilly BROWN. Monkton Open Gardens Weekend continues to be a fun and successful village event every 2 years.
+Newspaper article – 2000 : “Villagers step in to rescue fund-raiser”. Instead of the bi-annual Open Gardens Weekend, the committee organised a dance weekend that raised £800. Local ceilidh band “Contraband” hosted a barn dance and the “Line Rangers” held a line-dancing workshop. The “White Stag” was turned into a disco and enthusiasts had a go at Scottish dancing. Everyone enjoyed themselves and “it was a hoot!” The Monkton Open Gardens Weekend was started in 1992 with the money raised going to the Church and the Village Hall. In an Isle of Thanet Gazette article 19-Jun-1992, 4 photos show work being done in their gardens prior to the Weekend – featuring Davina RANSOM, Tom CULLY, Brenda GRAHAM and Gilly BROWN. Monkton Open Gardens Weekend continues to be a fun and successful village event every 2 years.
 
 ## TV stars!
 

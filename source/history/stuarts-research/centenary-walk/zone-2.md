@@ -347,7 +347,7 @@ Aerial view looking south, showing the mystery house (date unknown).
 
 - **1911 census** – James BAX (b1843) & wife Harriet (1846) BAX nee Stupples. Also son Alfred BAX (b1876).
 
-**Bax–Stupples diamond wedding** – Isle of Thanet Gazette article, 20.10.1928: “James BAX (b.1843?) married Harriet Elizabeth Stupples (b.1845?) in October 1868 at Monkton Church. He was the son of a shepherd, worked on the land all his life, lastly at Parsonage Farm, Monkton, retiring in 1924 aged 82. They have only lived in two Monkton houses, for the past 47 years at Walter’s Hall Cottages. They had ten children, and two sons were killed in the Great War.”
+**Bax–Stupples diamond wedding** – Isle of Thanet Gazette article, 20-Oct-1928: “James BAX (b.1843?) married Harriet Elizabeth Stupples (b.1845?) in October 1868 at Monkton Church. He was the son of a shepherd, worked on the land all his life, lastly at Parsonage Farm, Monkton, retiring in 1924 aged 82. They have only lived in two Monkton houses, for the past 47 years at Walter’s Hall Cottages. They had ten children, and two sons were killed in the Great War.”
 - **1921 census** – James BAX (b1843) & wife Harriet (b1846) BAX. Also sons :- Alfred James BAX (b1876); and Herbert BAX (b1881).
 - **1939 census** – Alfred BAX (b1870) & Fred BAX (b1884). + servant Florence RHODES (b1913).
 - **1973 Parish Council “Monkton Guide” census** – Alfred Bax.
@@ -404,7 +404,7 @@ When the caravan site was started in the early 1950’s by Harry RADCLIFFE, the 
 
 The site used to be a FULLER’S Farm field, and WW1 Peace Celebrations were held there – old villagers remembering a meal, races, and being given a ‘Peace Mug’.
 
-In an Isle of Thanet Gazette newspaper article – 25.2.1966 – “Let’s take a look at…..MONKTON” there is a photo of Keith IRWIN, the manager of “Foxhunter Park” – “responsible for the 220 holiday caravans and the 26 residential vans which are parked there. Mr Irwin has about 800 visitors staying on the site, many of whom come from London”.
+In an Isle of Thanet Gazette newspaper article – 25-Feb-1966 – “Let’s take a look at…..MONKTON” there is a photo of Keith IRWIN, the manager of “Foxhunter Park” – “responsible for the 220 holiday caravans and the 26 residential vans which are parked there. Mr Irwin has about 800 visitors staying on the site, many of whom come from London”.
 
 Site manager Graham LEWIS was part of the London Caravan Group – who also had a site at Walton on the Naze in Essex. There is a strong connection between Foxhunter and south London. There was room for 360 units when the trees were removed in the 60’s / 70’s.
 
@@ -445,7 +445,7 @@ It used to stand where semi-detached bungalows #92 & #94 are now.
 Before coming into the ownership of Viscount Molesworth, it was once in possession of the QUEKES, from whom it passed to the CRISPE family, and was afterwards held by Lord HOWARD of Effingham, who disposed of it in 1723. The present house was built by James Ruck.
 
 - **1903 Kelly’s Directory** – “Walters Hall” is the residence of G.A. COLLETT.
-- **1911 census** – Viscount George Bagot MOLESWORTH (1867 – 1947) born in Paris, retired, The 9th Viscount Molesworth. He married Nina Alida Faulkner on 6.2.1894. Viscountess Nina MOLESWORTH nee Faulkner (1865-1958) born in Madras India. Also daughter Cecily MOLESWORTH (1903-1986 – born in Higham, Kent) - (2/3 children elsewhere.) Also servants Edith FORD (b1861) & Florence HATTON? (b1892). 18 rooms.
+- **1911 census** – Viscount George Bagot MOLESWORTH (1867 – 1947) born in Paris, retired, The 9th Viscount Molesworth. He married Nina Alida Faulkner on 6-Feb-1894. Viscountess Nina MOLESWORTH nee Faulkner (1865-1958) born in Madras India. Also daughter Cecily MOLESWORTH (1903-1986 – born in Higham, Kent) - (2/3 children elsewhere.) Also servants Edith FORD (b1861) & Florence HATTON? (b1892). 18 rooms.
 
 *By 1939 they lived in Chorleywood, Hertfordshire. Sophie, the present Duchess of Edinburgh, married to Prince Edward, is a direct descendent of the 1st Viscount Molesworth (1656-1725) through her grandmother.*
 - **1913 Kelly’s Directory** – “Walters Hall” is the residence of Viscount MOLESWORTH.

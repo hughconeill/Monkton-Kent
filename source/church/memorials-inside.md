@@ -1,7 +1,7 @@
 # Memorials Inside the Church
 
 Nineteen memorial tablets, floor stones and brasses survive inside St Mary
-Magdalene, including the brass of John Spicer, a medieval vicar (no. 18 below).
+Magdalene, including the brass of John Spicer, a medieval vicar (no. 19 below).
 Numbering below follows the previously-used church memorial numbering
 (1–19), used consistently across this page and the
 [Churchyard](churchyard/index.md) records, since several families have memorials
@@ -24,7 +24,7 @@ Inscriptions are transcribed as closely as possible to the original wording and 
 ```
 
 ```{epigraph}
-Sacred/ to the memory of / **RACHEL(-AEL)**, wife of JAMES **WHITE** / of Monkton Parsonage, / whose remains / are deposited in the family vault beneath / and who died the 10<sup>th</sup> of April 1819 / aged 31 years, / leaving three sons and three daughters. //
+Sacred/ to the memory of / **RACHEL**, wife of JAMES **WHITE** / of Monkton Parsonage, / whose remains / are deposited in the family vault beneath / and who died the 10<sup>th</sup> of April 1819 / aged 31 years, / leaving three sons and three daughters. //
 
 Also of **JAMES**, second son of the above / who died the 31<sup>st</sup> of May 1849, / aged 38 years //
 
@@ -33,15 +33,15 @@ Also of the above mentioned / **JAMES WHITE** / who departed this life the 21<su
 Also of **WILLIAM**, / eldest son of the above / RACHEL and JAMES **WHITE** / who died August 30<sup>th</sup> 1871 / aged 62 years ///
 ```
 
-*Maker's mark: Haynes, Ramsgate*
-
 **From the parish registers:**
 
+- **RACHEL WHITE** (died 1819) – buried 17-Apr-1819, aged 31.
 - **JAMES WHITE** (died 1849, Rachel's second son) – son of James & Rachel
-  White; baptised 6.12.1810 (and possibly again on 14.1.1811).
+  White; baptised 6-Dec-1810 (and possibly again on 14-Jan-1811); buried
+  6-Jun-1849, aged 38.
 - **JAMES WHITE** (died 1861, Rachel's husband) – of Monkton Parsonage; son
-  of James & Margaret White (memorial 2); baptised 6.4.1784; buried
-  29.8.1861, aged 77.
+  of James & Margaret White (memorial 2); baptised 6-Apr-1784; buried
+  29-Aug-1861, aged 77.
 - See also WHITE in the [churchyard names list](churchyard/names-alphabetical.md).
 
 2.  *\[ south wall in the chancel nearest to the pulpit \]*
@@ -57,7 +57,8 @@ Also **MARGARET** his wife, daughter of / JOHN COLLARD Gent of Broomfield / in t
 
 **From the parish registers:**
 
-- **MARGARET WHITE, née COLLARD** (died 1823) – buried 20.9.1823, aged 75.
+- **JAMES WHITE** (died 1801) – buried 7-Mar-1801.
+- **MARGARET WHITE, née COLLARD** (died 1823) – buried 20-Sep-1823, aged 75.
 - **Family links:** this James and Margaret were the parents of James
   (memorial 1, husband of Rachel) and of Mary and Frances (memorial 3),
   all named among the children on this tablet.
@@ -73,11 +74,13 @@ To the memory of / **MARY** / eldest daughter of JAMES and MARGARET **WHITE** / 
 In the family vault in this chancel / are the remains of / **FRANCES**, fourth daughter of the above / and wife of STEPHEN **SHARP** late of Littlebourne, / who died December the 20<sup>th</sup> 1829 aged 50 years. ///
 ```
 
+*Maker's mark: Haynes, Ramsgate*
+
 **From the parish registers:**
 
-- **MARY WHITE** (died 1863) – buried 13.2.1863, aged 89.
+- **MARY WHITE** (died 1863) – buried 13-Feb-1863, aged 89.
 - **FRANCES SHARP, née WHITE** (died 1829) – of Nonington; buried
-  29.12.1829, aged 51. *The tablet gives her age as 50.*
+  29-Dec-1829, aged 51. *The tablet gives her age as 50.*
 
 4.  *\[ chancel floor tomb closest to the nave \]*
 
@@ -100,13 +103,13 @@ Also of **JOHN**, eldest Son of the last named / JOHN & ELIZABETH **DOWKER** / w
 
 **From the parish registers:**
 
-- **JOHN DOWKER** (died 1756) – buried 24.2.1756.
-- **JOHN DOWKER** (died 1781, his son, of Stourmouth) – buried 16.9.1781.
+- **JOHN DOWKER** (died 1756) – buried 24-Feb-1756.
+- **JOHN DOWKER** (died 1781, his son, of Stourmouth) – buried 16-Sep-1781.
 - **ELIZABETH DOWKER** (died 1823, wife of the younger John) – of
-  Stourmouth; buried 19.9.1823, aged 83. A possible baptism, marked as a
-  guess in the original notes: 13.2.1738, daughter of John & Frances Dowker.
+  Stourmouth; buried 19-Sep-1823, aged 83. A possible baptism, marked as a
+  guess in the original notes: 13-Feb-1738, daughter of John & Frances Dowker.
 - **JOHN DOWKER** (died 1838, eldest son of John & Elizabeth) – of Preston;
-  buried 2.2.1838, aged 69.
+  buried 2-Feb-1838, aged 69.
 
 5.  *\[ chancel floor tomb closest to the altar \]*
 
@@ -119,7 +122,7 @@ Here lieth Interr'd the Body of / **THOMAS HARNETT** late of the Parish / of Min
 
 **From the parish registers:**
 
-- **THOMAS HARNETT** (died 1714) – of Minster; buried 9.8.1714.
+- **THOMAS HARNETT** (died 1714) – of Minster; buried 9-Aug-1714.
 
 6.  *\[ north wall nave closest to the chancel \]*
 
@@ -143,35 +146,35 @@ Also **ELIZABETH**, his wife, who died / September the 14<sup>th</sup> 1858 aged
 **From the parish registers:**
 
 - **HENRY COLLARD** (died 1858) – farmer at Gore Street Farm; buried
-  21.12.1858, aged 86.
-- **ELIZABETH COLLARD** (died 1858, his wife) – buried 21.9.1858, aged 84.
+  21-Dec-1858, aged 86.
+- **ELIZABETH COLLARD** (died 1858, his wife) – buried 21-Sep-1858, aged 84.
 - **MARY ANN COLLARD** (died 1817, their daughter) – of Gore Street;
-  baptised 31.1.1799; buried 15.5.1817, aged 18. *The tablet gives her
+  baptised 31-Jan-1799; buried 15-May-1817, aged 18. *The tablet gives her
   death as 19 May, four days after this burial date, so one of the two
   dates is probably misread.*
 - **JAMES COLLARD** (died 1822, their son) – of Gore Street; baptised
-  12.12.1819; buried 20.6.1822, aged 4.
+  12-Dec-1819; buried 20-Jun-1822, aged 4.
 - **JANE COLLARD** (died 1826, their daughter) – of Gore Street; baptised
-  28.3.1802; buried 18.3.1826, aged 24.
+  28-Mar-1802; buried 18-Mar-1826, aged 24.
 
 **The 14 children of Henry & Elizabeth Collard** – six sons and eight
 daughters, as the tablet says:
 
-- Henry, baptised 19.5.1796
-- Margaret, baptised 25.4.1797
-- Mary Ann, baptised 31.1.1799 (died 1817, above)
-- Elizabeth, baptised 11.12.1800
-- Jane, baptised 28.3.1802 (died 1826, above)
-- Harriet, baptised 21.10.1803
-- Emma, baptised 15.9.1805
+- Henry, baptised 19-May-1796
+- Margaret, baptised 25-Apr-1797
+- Mary Ann, baptised 31-Jan-1799 (died 1817, above)
+- Elizabeth, baptised 11-Dec-1800
+- Jane, baptised 28-Mar-1802 (died 1826, above)
+- Harriet, baptised 21-Oct-1803
+- Emma, baptised 15-Sep-1805
 - Ambrose, baptised 1807
-- John, baptised 11.12.1808 – possibly (a guess in the original notes)
-  the later John White Collard of East Peckham, buried 21.9.1861, aged 53
-- Charles, born 24.10.1810, baptised 25.11.1810 (or baptised 5.8.1812?)
-- William, born ?.2.1812, baptised 5.8.1812
-- Fanny, born 12.3.1814, baptised 20.8.1816
-- Maria, born 11.4.1816, baptised 20.8.1816
-- James, baptised 12.12.1819 (died 1822, above)
+- John, baptised 11-Dec-1808 – possibly (a guess in the original notes)
+  the later John White Collard of East Peckham, buried 21-Sep-1861, aged 53
+- Charles, born 24-Oct-1810, baptised 25-Nov-1810 (or baptised 5-Aug-1812?)
+- William, born ?-Feb-1812, baptised 5-Aug-1812
+- Fanny, born 12-Mar-1814, baptised 20-Aug-1816
+- Maria, born 11-Apr-1816, baptised 20-Aug-1816
+- James, baptised 12-Dec-1819 (died 1822, above)
 
 7.  *\[ north wall nave in the middle -- where the clock hung, before it was stolen \]*
 
@@ -197,7 +200,7 @@ Here also lyeth the Body of **Mrs / ANN TERREY** the beloved wife of / Mr ABRAHA
 
 **From the parish registers:**
 
-- **ANN TERRY** (died 1704) – widow; buried 19.7.1704.
+- **ANN TERRY** (died 1704) – widow; buried 19-Jul-1704.
 - **Family links:** their daughter Elizabeth married John Ayling, Vicar of
   Monkton (memorial 14).
 
@@ -207,9 +210,9 @@ Here also lyeth the Body of **Mrs / ANN TERREY** the beloved wife of / Mr ABRAHA
 ```
 
 ```{epigraph}
-Here lieth the Body of / **Mr JOHN BURKETT** / Vicar of this Parish / who died / on the 5<sup>th</sup> of April 1772 / Aged 30 years. //
+Here lieth the Body of / **Mr JOHN BURKETT** / Vicar of this Parish / who died / on the 5<sup>th</sup> of April 1772 / Aged 50 years. //
 
-Also **Mrs CATHARINE BURKETT** / Widow of the above named / Mr JOHN BURKETT / who died / on the 3<sup>rd</sup> March 1778 / Aged 30 Years ///
+Also **Mrs CATHARINE BURKETT** / Widow of the above named / Mr JOHN BURKETT / who died / on the 3<sup>rd</sup>?31<sup>st</sup> March 1778 / Aged 50 Years ///
 ```
 
 **Notes:**
@@ -241,10 +244,10 @@ This tablet was erected by his only surviving and affectionate daughter. M-E H. 
 **From the parish registers:**
 
 - **THOMAS DENNE** (died 1821) – son of Thomas & Elizabeth Denne; baptised
-  29.10.1766; buried 24.3.1821, aged 54.
+  29-Oct-1766; buried 24-Mar-1821, aged 54.
 - **THOMAS COLLARD DENNE** (died 1797, his infant son) – son of Thomas &
-  Mary; buried 18.4.1797.
-- **JANE DENNE** (died 1817, his daughter) – of Sarre; buried 21.11.1817,
+  Mary; buried 18-Apr-1797.
+- **JANE DENNE** (died 1817, his daughter) – of Sarre; buried 21-Nov-1817,
   aged 23.
 - **Family links:** "M-E H.", who put up the tablet, is his daughter
   Mary-Elizabeth Hilton.
@@ -262,9 +265,9 @@ Also of **NANNY**, wife of the above / JAMES **SMITH** / who died on the 7<sup>t
 
 **From the parish registers:**
 
-- **JAMES SMITH** (died 1830) – baptised 19.3.1770; buried 15.12.1830,
+- **JAMES SMITH** (died 1830) – baptised 19-Mar-1770; buried 15-Dec-1830,
   aged 61.
-- **NANNY SMITH** (died 1831, his wife) – buried 13.6.1831, aged 80. *Her
+- **NANNY SMITH** (died 1831, his wife) – buried 13-Jun-1831, aged 80. *Her
   age on the tablet is hard to read (60 or 80); the register supports 80.*
 
 12. *\[ south wall nave at the back \]*
@@ -309,12 +312,12 @@ Here lyes ye Body of **THO:** *(Thomas)* ye son of MR Wm *(William)* **YOUNG** &
 **From the parish registers:**
 
 - **JOHN AYLING** (died 1710) – clerk, Vicar of Monkton & Birchington for
-  48 years; buried 8.12.1710. See the [list of clergy](clergy.md) (vicar
+  48 years; buried 8-Dec-1710. See the [list of clergy](clergy.md) (vicar
   from 1662).
-- **ELIZABETH AYLING** (died 1706, his daughter) – buried 26.6.1706.
+- **ELIZABETH AYLING** (died 1706, his daughter) – buried 26-Jun-1706.
 - **THOMAS YOUNG** (died 1715, aged 9 months) – son of Mr ......? Vicar of
-  Chislet & his wife Anne; buried 26.1.1715.
-- **WILLIAM YOUNG** married **ANNE AYLING** on 12.10.1706.
+  Chislet & his wife Anne; buried 26-Jan-1715.
+- **WILLIAM YOUNG** married **ANNE AYLING** on 12-Oct-1706.
 - **Family links:** John Ayling's wife Elizabeth was the daughter of
   Abraham Terry (memorial 8). Their daughter Ann married William Young, so
   the Young children here were John Ayling's grandchildren.
@@ -325,16 +328,18 @@ Here lyes ye Body of **THO:** *(Thomas)* ye son of MR Wm *(William)* **YOUNG** &
 ```
 
 ```{epigraph}
-Here lyeth buried ye body of **LEBBIE ORCHARD** / sometime dwelling in Mounckton Courte in this parish. Whose soule deceased the ??? daye of October in the yere of our Lord god. M C C C C C L X X X . (1580) ? Whole (holy?) ? resteth with ? ///
+Here lyeth buried ye body of **LEBBIE ORCHARD** / sometime dwelling in Mounckton Courte in this parish. Who deceased the XXI *(21)* daye of October in the yere of our Lord god. M C C C C C L X X X . *(1580)* Whose soule resteth with God ///
 ```
 
 16. NICHOLAS ROBINSON (1594)
+
+*\[ ref: Charles Igglesden, 1932, "A Saunter thru Kent with Pen & Pencil". To be put back on a church wall after decoration \]*
 
 ```{rst-class} inscription
 ```
 
 ```{epigraph}
-Here lyeth buryed the bodye of **NICHOLAS ROBINSON** gent, sometyme dwelt in the Isle of Tenat, / in th parish Monketon at Gore Street, who departed this present lyfe the 23 of June 1594. / who had issue by FRANCES his wyfe 3 sonnes and 2 daughters. / "Respice finem" ///
+Here lyeth buryed the bodye of **NICHOLAS ROBINSON** gent, sometyme dwelt in the Isle of Tenat, / in the parish Monketon at Gore Street, who departed this present lyfe the 23 of June, 1594. / who had issue by FRANCES his wyfe three sonnes and two daughters. / "Respice. finem" ///
 ```
 
 **Notes:**
@@ -344,6 +349,8 @@ Here lyeth buryed the bodye of **NICHOLAS ROBINSON** gent, sometyme dwelt in the
 
 17. CHRISTOPHER BLECHYNDEN (1554)
 
+*\[ ???? -- ref: Charles Igglesden, 1932, "A Saunter thru Kent with Pen & Pencil". He quotes the author Z Cozens in 1793: a memorial on a brass plate nailed up in the vestry \]*
+
 ```{rst-class} inscription
 ```
 
@@ -351,7 +358,16 @@ Here lyeth buryed the bodye of **NICHOLAS ROBINSON** gent, sometyme dwelt in the
 Here lyeth **CHRISTOPHER BLECHYNDEN**, gentleman, late of the p'ish *(parish)* of Mountin *(Monkton)* / with AMES and MARGARET his wifes, which deceased the furste *(1st)* day of July An:1554 ///
 ```
 
-18. Brass of John Spicer
+18. *\[ a brass wall memorial to be put back on a church wall after decoration \]*
+
+```{rst-class} inscription
+```
+
+```{epigraph}
+In Memory of / **MICHAEL JEFFREY WELLARD SMITH** / J.P. T.D. / 1918 -- 1996 / Michael loved this village and its church / He served the community as a J. P. / Councillor, School Governor and Chairman / of the British Legion / A Churchwarden from 1993 -- 96 / he played a major part in the restoration of / the church at that time ///
+```
+
+19. Brass of John Spicer
 
 *\[ on the floor of the nave, just before the chancel step \]*
 
@@ -364,12 +380,3 @@ Monkton and is John Spicer, Vicar of Monkton from 1427 to 1451, (died 1460), in 
 
 *It is printed in this limited numbered edition of 200 only in AD 1988 to commemorate the
 commencement of the restoration work on the Church."*
-
-19. *\[ brass wall memorial -- to be put back on a church wall after decoration \]*
-
-```{rst-class} inscription
-```
-
-```{epigraph}
-In Memory of / **MICHAEL JEFFREY WELLARD SMITH** / J. P. T. D. / 1918 -- 1996 / Michael loved this village and its church / He served the community as a J. P. / Counciller, School Governor and Chairman / of the British Legion / A Churchwarden from 1993 -- 96 / he played a major part in the restoration of / the church at that time ///
-```
