@@ -41,8 +41,8 @@ If you spot an error, please let us know.
 ## ...and privacy
 
 We recognise that some information may be sensitive whether it is true or not and 
-we don't want this site to spread information that could cause harm, embarassment or offense.
-Please let us know if you anything on the website could fit that description 
+we don't want this site to spread information that could cause harm, embarrassment or offense.
+Please let us know if you read anything on the website could fit that description 
 and we will remove or update the item.  
 
 ## Version history

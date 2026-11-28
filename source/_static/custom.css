@@ -108,3 +108,23 @@ article figure.photo-thumb figcaption p {
 .admonition.site-tips > .admonition-title {
     font-size: var(--font-size--normal);
 }
+
+/* Memorial inscriptions on the "Memorials Inside the Church" page:
+   a stone-tinted panel in a serif face, so the words on the stone stand
+   apart from the location headings and register notes around them.
+   Applied with a `{.inscription}` line before an `{epigraph}` block. */
+blockquote.inscription {
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: normal;
+    font-size: 1.05em;
+    line-height: 1.6;
+    background: var(--color-background-secondary);
+    border-left: 4px solid var(--color-foreground-muted);
+    border-radius: 4px;
+    padding: 0.8em 1.2em;
+    margin: 0.5em 0 1em;
+}
+blockquote.inscription > div > p:last-child,
+blockquote.inscription > p:last-child {
+    margin-bottom: 0;
+}

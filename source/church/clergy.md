@@ -3,7 +3,7 @@
 ```{admonition} Note
 :class: note
 
-Originally recorded on a board that stood in the church porch, presently in storage.
+Recorded on a board that stands in the church porch.
 ```
 
 The church at Monkton was in existence at the time of the Doomsday Survey 1086, together with the church at Wode (Woodchurch). The inhabitants of Birchington were required to contribute to the upkeep of Monkton Church as late as 1356.
@@ -67,13 +67,13 @@ Monkton was created a vicarage with chapels at Birchington & Wade.
 | 1644 | MERIC CASSANBON DD *{ also CASAUBON }* |
 | 1647 | !!! GEORGE STANCOMBE *{ Ref. Hasted 1797 }* !!! |
 | 1660 | MERIC CASSANBON *(restored) { also CASAUBON }* |
-| 1597 -- 1662 | !!! Unlisted Vicar of Minster, [RICHARD CULMER](richard-culmer.md) *("Blue Dick")*, rescued by the vicar of Monkton from irate Minster parishioners !!! |
+| 1597 -- 1662 | !!! Unlisted Vicar of Minster, [RICHARD CULMER](richard-culmer.md) *("Blue Dick")*, rescued by the vicar of Monkton from irate Minster parishioners !!! Supposedly buried in the churchyard in an unmarked grave! |
 | 1662 | JOHN AYLING *{buried inside the church nave #14}* |
 | 1700 | !!! Start of church records -- all previous were burnt by the partying vicar and church wardens !!! |
 | 1710 | THOMAS WARDROPER | 
 | 1727 | JAMES BAYLEY |
 | 1729 | PETER VALLAVINE LLB *(nonconformist)* |
-| 1767 | JOHN BIRKETT *{ also Burket }* *{buried inside the church nave #9}* |
+| 1767 | JOHN BIRKETT *{ also Burkett }* *{buried inside the church nave #9}* |
 | 1772 | JOSEPH HARDY |
 | 1786 | JOHN PRAT *(from Curacy at Birchington)* |
 | 1810 | TUFTON CHAS SCOTT DD |

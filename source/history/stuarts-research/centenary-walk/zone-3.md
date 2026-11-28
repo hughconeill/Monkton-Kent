@@ -44,7 +44,7 @@ Zone 3 of the Centenary Mile Walk map.
 
 *Build date 1876.*
 
-Living here in the 70’s & ‘80’s was Alice DAWSON (buried in Monkton Churchyard in 1985) , pianist/organist at the Methodist Chapel, Monkton Church and Monkton School. Also, she voluntarily taught cooking at Monkton School. A school inspection barred her from volunteering so the School went 2 years with no one. So, she returned to volunteer just as before. Major HEDLEY would give her a lift to church in his car. It was a relative of hers, Ken Wharfe, who was for 6 years a bodyguard for Princess Diana, Princess of Wales. He wrote the expose book “Diana : Closely Guarded Secret” in 2002, having resigned his post in 1993, 4 years before Diana was tragically killed in a car accident in Paris in 1997.
+Living here in the 70’s & ‘80’s was Alice DAWSON (buried in Monkton Churchyard in 1985), pianist/organist at the Methodist Chapel, Monkton Church and Monkton School. Also, she voluntarily taught cooking at Monkton School. A school inspection barred her from volunteering so the School went 2 years with no one. So, she returned to volunteer just as before. Major HEDLEY would give her a lift to church in his car. It was a relative of hers, Ken Wharfe, who was for 6 years a bodyguard for Princess Diana, Princess of Wales. He wrote the expose book “Diana : Closely Guarded Secret” in 2002, having resigned his post in 1993, 4 years before Diana was tragically killed in a car accident in Paris in 1997.
 
 - **1911 census** – Edmund OSBOURNE (b1868) & wife Caroline (b1867) OSBOURNE. Also children :- Alice 11; and Edith 9, OSBOURNE. + mother Eliza ANSLEY (b1834).
 - **1921 census** – Edmund OSBOURNE (b1869) & wife Caroline (b1868) OSBOURNE. Also daughter Edith (b1902) OSBOURNE.
@@ -72,7 +72,7 @@ Living here in the 70’s & ‘80’s was Alice DAWSON (buried in Monkton Church
 
 The land for the building of the Chapel belonged to “Golden Point Farm” next door, possibly by St Dunstan’s Blind Association (owners of “Golden Point Farm”).
 
-About 1971, a group of ladies from the village set up the “Monday Birds” , and they met at the Methodist Chapel once a month. It was an antidote to the men-only MENS INSTITUTE on the other side of the road. Some of the ladies involved were Julie COOK, Jackie PLUCKROSE, Marjorie CULLY, Beryl JAKEMAN, Jean FULLER, Nellie TAYLOR and Pat KIRKE.
+About 1971, a group of ladies from the village set up the “Monday Birds”, and they met at the Methodist Chapel once a month. It was an antidote to the men-only MENS INSTITUTE on the other side of the road. Some of the ladies involved were Julie COOK, Jackie PLUCKROSE, Marjorie CULLY, Beryl JAKEMAN, Jean FULLER, Nellie TAYLOR and Pat KIRKE.
 
 Percy Edwin “Dido” SMITH (d. 1948) started a band at Monkton Methodist Chapel. He was also the bandmaster of the Minster Salvation Army Band. He lived in Sheriffs Court Lane.
 
@@ -94,7 +94,7 @@ During the late 1870s, the Reverend Ewan Maclachlan was among the first minister
 
 **A growing team.** Today, eight members help to oversee the chapel alongside its new deacon, Laura McBean, and her husband, the Reverend Duncan McBean. Their passion, drive and wealth of experience have brought a renewed sense of Methodist service to Monkton Chapel. Laura and Duncan are now a valued and regular part of the chapel’s outreach and worship, offering wholehearted support as it grows into a welcoming community space with faith firmly at its heart.
 
-**Longstanding friendship and service.** Among the Chapel’s most enduring supporters is Delphine Mitchell, its longest-serving parishioner. Together with her husband, Peter Mitchel, she has been a true mainstay and friend of Monkton Chapel. Delphine continues to attend worship regularly and generously provides refreshments for the Chapel’s outreach activities, while Maggie another lovely member also gives valued support to the Chapel community. Music has always brought warmth and joy to Monkton Chapel, and Stuart Horsburgh plays a special part in that tradition. A longstanding member, much-valued friend and gifted pianist, Stuart regularly fills the Chapel with music at services and community events. Encouraging musical creativity remains an important part of our mission, and we are now seeking funding for a new piano—an instrument that will support Stuart’s playing and help music flourish in the Chapel for years to come. Rachel Horsburgh and David Blackwell serve as Chapel readers, helping to lead worship, while Ann Andrews is the Chapel’s safeguarding officer. Together, the members contribute distinct skills and responsibilities to the life, care and future of Monkton Chapel.
+**Longstanding friendship and service.** Among the Chapel’s most enduring supporters is Delphine Mitchell, its longest-serving parishioner. Together with her husband, Peter Mitchell, she has been a true mainstay and friend of Monkton Chapel. Delphine continues to attend worship regularly and generously provides refreshments for the Chapel’s outreach activities, while Maggie another lovely member also gives valued support to the Chapel community. Music has always brought warmth and joy to Monkton Chapel, and Stuart Horsburgh plays a special part in that tradition. A longstanding member, much-valued friend and gifted pianist, Stuart regularly fills the Chapel with music at services and community events. Encouraging musical creativity remains an important part of our mission, and we are now seeking funding for a new piano—an instrument that will support Stuart’s playing and help music flourish in the Chapel for years to come. Rachel Horsburgh and David Blackwell serve as Chapel readers, helping to lead worship, while Ann Andrews is the Chapel’s safeguarding officer. Together, the members contribute distinct skills and responsibilities to the life, care and future of Monkton Chapel.
 
 **Leadership, structure and support.** Dr Peggy Kabonde, Superintendent of the circuit, has had a major impact on Monkton Chapel. Her guidance and understanding have helped steer the Chapel towards growth and development. With her support, clear roles and responsibilities have now been established for each member of the team. Behind the Chapel’s remarkable progress is a dedicated team working with energy and purpose. As treasurer, Barry Lee carefully manages the finances, helps keep the Chapel viable and oversees the refurbishment project and property. Lauraine Lee has designed the new space, drawing on her background in interior design to create a flexible, welcoming setting for many different uses. Sara Archer, the local parish clerk and Chapel secretary, has brought invaluable skill and determination to the fundraising effort, successfully securing grants for the refurbishment and community plans. So much has been achieved in such a short time through hard work, excellent communication and a shared passion for the mission. Together with donations from the Chapel’s outreach activities, an impressive £73,000 has been raised in just one year—and fundraising continues. With funding now secured, the complete refurbishment of Monkton Chapel is planned for completion in summer 2027. Monkton Chapel still stands amid the Kentish countryside, and services are held every two weeks. Alongside worship, its growing programme of music, movement and fellowship, creative arts reflect the determination of local people to protect both a historic building and the community life it represents. From its association with Christ Church Priory to the fully funded refurbishment planned for completion in summer 2027, the Chapel’s story is one of continuity, care and renewal. It remains a quiet but important landmark—a place of worship and belonging where Monkton’s history and its hopes for the future meet. If you would like to become part of Monkton Chapel’s incredible journey of hope, please come along and join the team. This is only the beginning!
 
@@ -161,12 +161,12 @@ Doreen DAW was a well-known village personality, largely from her job as the car
 
 - **1911 census** – ??? George BEAKE (1872) & wife Esther (b1871) BEAKE. ??? OR….
 - **1911 census** – ??? George PILCHER (b1865) cowman & Lydia (b1867) PILCHER. Also sons :- Richard 11; and Thomas 3, PILCHER. ???
-- **1921 census** – Edwin MARSH (b1888) & Florence (1889) MARSH. Also children :- Fanny 7; Edwin 3; and Frederick 1yr MARSH. + Edward Knight (b1901).
+- **1921 census** – Edwin MARSH (b1888) & Florence (1889) MARSH. Also children :- Fanny 7; Edwin 3; and Frederick 1, MARSH. + Edward KNIGHT (b1901).
 - **1939 census** – Ernest DUNK (b1881). Bertha DUNK (b1910).
-- **1973 Parish Council “Monkton Guide” census** – J.W. Knight.
-- **1977 Parish Council “Silver Jubilee Souvenir Guide”** – J.W. Knight.
-- **1981 Parish Council “Royal Wedding Souvenir Guide”** – J.W. Knight.
-- **1994 Parish Council “Centenary Celebrations”** – J.W. Knight.
+- **1973 Parish Council “Monkton Guide” census** – J.W. KNIGHT.
+- **1977 Parish Council “Silver Jubilee Souvenir Guide”** – J.W. KNIGHT.
+- **1981 Parish Council “Royal Wedding Souvenir Guide”** – J.W. KNIGHT.
+- **1994 Parish Council “Centenary Celebrations”** – J.W. KNIGHT.
 
 ## Left: #1, #2, #3 “Delce Cottages” and #4 “The Old Post Office”
 
@@ -174,7 +174,7 @@ Doreen DAW was a well-known village personality, largely from her job as the car
 
 \#4 “Delce Cottages” dates from 1739 and was an early official Post Office for Monkton. Photos of “The Old Post Office” show a rare post box. Prior to 1895 letter boxes were made and installed at the expense of the local sub postmaster and until the 1880’s was not of a standard type. The postmaster would have engaged a local craftsman to manufacture a suitable box, and the Monkton box is a rare survivor of this type of box. They are sometimes called ‘carpenter’s boxes’.
 
-This rare post box is at the “Old Post Office”. The building itself was Grade II listed in 1986 and dates from the mid 1700’s. Set into the front wall is a wooden post box bearing an unusual, enamelled sign :- “ LETTERS which contain coins will, if posted as ordinary letters, be charged on delivery with a SPECIAL REGISTRATION FEE of EIGHTPENCE”. Money letters were first introduced in 1792 as a means of combatting the theft of coins in letters. This registration was the forerunner of today’s registered letter system.”
+This rare post box is at the “Old Post Office”. The building itself was Grade II listed in 1986 and dates from the mid 1700’s. Set into the front wall is a wooden post box bearing an unusual, enamelled sign :- “LETTERS which contain coins will, if posted as ordinary letters, be charged on delivery with a SPECIAL REGISTRATION FEE of EIGHTPENCE”. Money letters were first introduced in 1792 as a means of combatting the theft of coins in letters. This registration was the forerunner of today’s registered letter system.”
 
 (The Letter Box Study Group – there’s a Society for everything, somewhere!).
 
@@ -211,7 +211,7 @@ The 1911 census lists an irregular block of 4 called “Doornes? Cottages” –
 
 ## #3 “Delce Cottages”
 
-- **1939 census** – Emma LAMPRELL (1850) . Also Minnie DAWS (1888) school cleaner, (mother of Clary Daws). Son :- Clarence ‘Clary’ (b1914) DAWS.
+- **1939 census** – Emma LAMPRELL (1850). Also Minnie DAWS (1888) school cleaner, (mother of Clary Daws). Son :- Clarence ‘Clary’ (b1914) DAWS.
 - **1973 Parish Council “Monkton Guide” census** – Jonathan Cole.
 - **1977 Parish Council “Silver Jubilee Souvenir Guide”** – Jonathan Cole.
 - **1981 Parish Council “Royal Wedding Souvenir Guide”** – Jonathan Cole.
@@ -296,33 +296,33 @@ A free school tied to church endowments and based at Monkton Vicarage served the
 
 ### List of headteachers 1872 – 2021
 
-- 1.11.1872 – 24.12.1875 - Mary HARRAD.
-- 1881 census – 14.1.1876 – 6.4.1887 - Emily HEAYMAN, teacher, from East Grinsted. & Bessie HEAYMAN, monitor. 86 scholars aged from 3 – 14 years.
-- 18.4.1887 – 22.3.1895 - Annie E MAY.
-- 23.3.1895 – 26.6.1896 - Miss L PRIZERMAN.
-- 20.7.1896 – 29.4.1898 - Miss S ROWLEDGE.
-- 2.5.1898 – 18.12.1903 - William Henry BURGESS.
-- 4.1.1904 – 16.5.1913 - Robert P POTTER
+- 1-Nov-1872 – 24-Dec-1875 - Mary HARRAD.
+- 1881 census – 14-Jan-1876 – 6-Apr-1887 - Emily HEAYMAN, teacher, from East Grinsted. & Bessie HEAYMAN, monitor. 86 scholars aged from 3 – 14 years.
+- 18-Apr-1887 – 22-Mar-1895 - Annie E MAY.
+- 23-Mar-1895 – 26-Jun-1896 - Miss L PRIZERMAN.
+- 20-Jul-1896 – 29-Apr-1898 - Miss S ROWLEDGE.
+- 2-May-1898 – 18-Dec-1903 - William Henry BURGESS.
+- 4-Jan-1904 – 16-May-1913 - Robert P POTTER
 - 1913 Kelly’s Directory – Robert P POTTER.
-- 9.10.1911 – 12.2.1912 - Mr E BAKER ( Acting Head )
-- 19.5.1913 – 4.7.1913 - Fred ROGERS
-- 7.7.1913 – 29.4.1920 - Albert Edward PRIOR ( His wife, Florence, of less than a year, dies in Kings Lynn, Norfolk in 1915. His older sister moves into the schoolhouse and teaches until October 1917. He enlists on 23.10.1916 aged 27.5, joining the 28th Battalion London Reg the Artists Rifles. Discharged 9.6.1917 as “unfit”. He returned to Monkton School on 3.3.1919, but not immediately living in the schoolhouse. He marries Dorothy Budds, and Dorothy’s sister-in-law Mrs Lillian Budds becomes assistant teacher from October 1917. In 1920 Dorothy’s sister Norah Budds briefly joined the staff. Albert Prior left Monkton School in May 1920, and went to Hersden School, Sturry. When he retired from teaching he became vicar of Elmsted and Hastingleigh near Wye in Kent. Lillian Budds left in 1930 and became headteacher of Minster School.)
+- 9-Oct-1911 – 12-Feb-1912 - Mr E BAKER (Acting Head)
+- 19-May-1913 – 4-Jul-1913 - Fred ROGERS
+- 7-Jul-1913 – 29-Apr-1920 - Albert Edward PRIOR (His wife, Florence, of less than a year, dies in Kings Lynn, Norfolk in 1915. His older sister moves into the schoolhouse and teaches until October 1917. He enlists on 23-Oct-1916 aged 27.5, joining the 28th Battalion London Reg the Artists Rifles. Discharged 9-Jun-1917 as “unfit”. He returned to Monkton School on 3-Mar-1919, but not immediately living in the schoolhouse. He marries Dorothy Budds, and Dorothy’s sister-in-law Mrs Lillian Budds becomes assistant teacher from October 1917. In 1920 Dorothy’s sister Norah Budds briefly joined the staff. Albert Prior left Monkton School in May 1920, and went to Hersden School, Sturry. When he retired from teaching he became vicar of Elmsted and Hastingleigh near Wye in Kent. Lillian Budds left in 1930 and became headteacher of Minster School.)
 - Monkton School was closed for 2 weeks between March 26th 1917 and April 16th 1917 as soldiers were billeted in the school rooms to recover,
-- 22.11.1916 - 31.1.1917 - Elsie BAYLEY ( Acting Head )
-- 1.2.1917 – 28.1.1919 - Katie BURMAN
+- 22-Nov-1916 - 31-Jan-1917 - Elsie BAYLEY (Acting Head)
+- 1-Feb-1917 – 28-Jan-1919 - Katie BURMAN
 - 1914 WW1 – Mr ROGERS; Mr Mrs Lillian BUDDS (sister-in-law to Mr Prior); Mrs HARRIS
-- 3.5.1920 - ?.?.???? - Mrs Daisy SIMPSON (b1876)
+- 3-May-1920 - ?-?-???? - Mrs Daisy SIMPSON (b1876)
 - 1936 – Miss Dorothy FOREMAN
 - ??? - Mrs F R M SMITH
 - 1975? – Mrs Jean ANGUS
-- ?.?.???? – 1.4.1981 - Mr Sam SEXTON
-- 1.4.1981 - ?.?.1986 - Mr Rob WEAVER
-- 1.1.1986 - ?.?.1990 - Mr WAKEFIELD
+- ?-?-???? – 1-Apr-1981 - Mr Sam SEXTON
+- 1-Apr-1981 - ?-?-1986 - Mr Rob WEAVER
+- 1-Jan-1986 - ?-?-1990 - Mr WAKEFIELD
 - Acting Heads - Noel TAYLOR; Miss Olive GREY; Nick IRELAND
-- 1.9.1990 – 30.8.2015 - Mrs Janet GRAHAM nee Clark.
-- 1.9.2015 - ?.5.2017 - Mrs Jean KENNETT
-- ?.5.2017 - ?.4.2019 - Mrs Karon WILSON ( Acting Head )
-- ?.4.2019 – 30.8.2021 - School federated with Minster. Executive Headteacher : Wendy STONE. Head of School : Karon WILSON.
+- 1-Sep-1990 – 30-Aug-2015 - Mrs Janet GRAHAM nee Clark.
+- 1-Sep-2015 - ?-May-2017 - Mrs Jean KENNETT
+- ?-May-2017 - ?-Apr-2019 - Mrs Karon WILSON (Acting Head)
+- ?-Apr-2019 – 30-Aug-2021 - School federated with Minster. Executive Headteacher : Wendy STONE. Head of School : Karon WILSON.
 
 School concerts were held in the School before the Village Hall was built in 1926.
 
@@ -342,7 +342,7 @@ Monkton School belonged to “Wilfred’s League of Gugnuncs”, sponsored by Th
 
 In the late 1970’s / early ‘80’s, there was an outbreak of TB in the school - the Headmistress and 2 pupils, who were sent to the Sea Bathing Hospital in Margate to recover. Everyone in the School had to be BCG vaccinated.
 
-Copy of May Day celebrations – Royal Jubilee 1977. Photocopy of kids and the maypole - article by Julie COOK. Kids practiced their dancing with Julie COOK and Evelyn LAWRENCE – with Alice DAWSON on the piano. It took place on Tuesday 7th June 1977 – there was Maypole Dancing twice , pm & evening.
+Copy of May Day celebrations – Royal Jubilee 1977. Photocopy of kids and the maypole - article by Julie COOK. Kids practiced their dancing with Julie COOK and Evelyn LAWRENCE – with Alice DAWSON on the piano. It took place on Tuesday 7th June 1977 – there was Maypole Dancing twice, pm & evening.
 
 For this 1977 Royal Jubilee Celebration, the art of “Maypole Dancing” was revived. Julie COOK AND Evelyn LAWRENCE, with Alice DAWSON on the piano, taught the children, taking advice from an expert at Minster School. It’s reported they had a good time!
 
@@ -380,7 +380,7 @@ In the 1987 hurricane, Friday 16th October, the school wall fell down, but Schoo
 
 *(WW1 started in July 1914!)*
 
-> “ Musketry. Nine boys were taken for musketry practice this afternoon.
+> “Musketry. Nine boys were taken for musketry practice this afternoon.
 >
 > May 18th. Musketry. Eight boys attended the practice this afternoon. Mr FULLER has kindly placed his rifle at the disposal of the boys.
 >
@@ -441,7 +441,7 @@ Renowned British artist Gilbert RUMBOLD (1896 – 1974) has made drawings of thi
 - **1994 Parish Council “Centenary Celebrations”** – E Sharpe.
 - **1911 census** – ??? “PARSONAGE COTTAGES” ??? semi-detached cottages { I’m guessing that these refer to #1 - #2? }
 
-Is this #1 ??? 1911 census - Henry SMITH (b1862) waggoner & wife Emily (b1863) SMITH. Also 6 children :- Ernest 22; Percy 19; Albert 18; Ethel 16; Frederick 11; Herbert 9, SMITH. Boarder Edwin SHOOBRIDGE (b1886) cowman. ( 6 rooms )
+Is this #1 ??? 1911 census - Henry SMITH (b1862) waggoner & wife Emily (b1863) SMITH. Also 6 children :- Ernest 22; Percy 19; Albert 18; Ethel 16; Frederick 11; Herbert 9, SMITH. Boarder Edwin SHOOBRIDGE (b1886) cowman. (6 rooms)
 
 Is this #2 ??? 1911 census - Harry MARSH (b1880) cowman & wife Alice (b1881) MARSH. Also children :- Harry 5; Alec? 3; Minnie 2, MARSH. + Thomas MOUNT (1844) father. + Amy MARSH (b1893) visitor.
 
@@ -449,7 +449,7 @@ Is this #2 ??? 1911 census - Harry MARSH (b1880) cowman & wife Alice (b1881) MAR
 
 ## Right: #3 “Parsonage Cottages”
 
-*4 were built post WW1.*
+*4 were built post WW1 - two semi-detached houses before Willets Hill.*
 
 - **1921 census** – Fred ROLFE (b1889) cowman & wife Glennie (b1889) ROLFE. Also children :- Phyllis 9; Frederick 7; Joan 2, ROLFE.
 - **1939 census** – Fred (b1888) cowman & wife Glennie (b1889) ROLFE. Also Joan (b1919) HORTON nee Rolfe.

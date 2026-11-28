@@ -7,7 +7,7 @@ changes in our village of Monkton (or Monocstun – the “Monks’ Land”) to 
 the fertile farming community of 100 years ago.
 
 My “Centenary Mile Walk of 1926” will take you along that journey pointing out
-the small farm tied cottages, the large houses, and the larger farmhouses.
+the small tied farm cottages, the large houses, and the larger farmhouses.
 Amongst and between them are the barns and sheds to store the harvest of hops,
 cherries, strawberries, apples, cucumbers, cauliflowers, arable crops and
 grazing land for sheep, cows, pigs, horses, turkeys and chickens. As well as

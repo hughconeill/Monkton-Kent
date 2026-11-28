@@ -52,6 +52,17 @@ without Sphinx warnings/errors and renders as expected.
   fans out to `names-alphabetical.md`, `numbered-stones.md`,
   `survey-by-location.md`, `register-appendix.md` — the churchyard survey data),
   `richard-culmer.md`, `war-memorial.md`, and `memorials-inside.md`.
+  `memorials-inside.md` numbers the 19 memorials as a Markdown ordered list
+  (location in `*\[ … \]*` after the number). Each inscription sits in a
+  shaded serif panel: a contentless ```` ```{rst-class} inscription ```` block
+  immediately before an ```` ```{epigraph} ```` block (styled by
+  `blockquote.inscription` in `custom.css`; the book converter drops
+  `rst-class` and prints the epigraph as an indented italic quote). Register
+  notes go *below* the panel as a "**From the parish registers:**" bullet
+  list (name in bold caps, who they are, then the register facts; flag
+  disagreements with the stone in italics), plus "**Family links:**" bullets
+  cross-referencing other memorials. Don't nest bullet lists there — the
+  converter flattens them.
   `war-memorial.md` gives each man on the memorial a `###` subheading
   (rank, name, dates, age) followed by his short biography (from the Dec
   2026 "MONKTON WAR MEMORIAL" document), under `## 1914 – 1918`,
@@ -131,7 +142,9 @@ without Sphinx warnings/errors and renders as expected.
 - `source/version-history.md` is a newest-first table of site releases
   (1.0 launched in the November 2026 Monkton News; 1.1 on 5 Nov 2026; 2 in the December 2026 Monkton News; 2.1 shortly after, adding Terry Marsh's final articles), linked
   from the root `toctree` and from `about.md`. **Add a row (and bump the
-  version admonition at the top of `index.md` to match) whenever a
+  version admonition at the top of `index.md` to match) (for the Version 2
+  releases the Date column reads "December '26 release (DD-Mon-YY)" — the
+  edition they belong to, then the actual publish date in brackets) whenever a
   significant update goes live** — new pages, sections, features, or a
   substantial batch of new material such as photos or articles. (Exception:
   for the small 2.1 release the user chose to keep the home-page admonition
@@ -183,6 +196,14 @@ without Sphinx warnings/errors and renders as expected.
   — prefer the most authoritative/primary source available (e.g. link a listed
   building to Historic England's own listing page over a Wikipedia mirror, when
   you have the exact listing URL).
+- **Dates**: `24-Jan-1934` style everywhere in tables, register notes and prose
+  (adopted Nov 2026 for US visitors); unknown parts as `?` (`?-Oct-1855`,
+  `?-?-????`, `?6-Dec-1810` = probably the 6th). Dates *transcribed from a stone
+  or brass* stay as carved — on the churchyard survey that's anything outside
+  the `*\[ … \]*` notes, on `memorials-inside.md` anything inside an
+  `{epigraph}`, and on `register-appendix.md` the dot-dates in quoted
+  inscriptions (#91, #237.5). Written-out prose dates ("3rd May 1915", e.g. the
+  war memorial biographies) are fine as they are.
 - **Disputed facts**: where sources disagree, say so on the page (see the
   `{admonition}` "Conflicting evidence" pattern) rather than silently picking one.
 - **Placeholders**: unresearched sections should stay clearly marked as placeholders
