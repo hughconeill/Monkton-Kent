@@ -142,7 +142,9 @@ without Sphinx warnings/errors and renders as expected.
 - `source/version-history.md` is a newest-first table of site releases
   (1.0 launched in the November 2026 Monkton News; 1.1 on 5 Nov 2026; 2 in the December 2026 Monkton News; 2.1 shortly after, adding Terry Marsh's final articles), linked
   from the root `toctree` and from `about.md`. **Add a row (and bump the
-  version admonition at the top of `index.md` to match) whenever a
+  version admonition at the top of `index.md` to match) (for the Version 2
+  releases the Date column reads "December '26 release (DD-Mon-YY)" — the
+  edition they belong to, then the actual publish date in brackets) whenever a
   significant update goes live** — new pages, sections, features, or a
   substantial batch of new material such as photos or articles. (Exception:
   for the small 2.1 release the user chose to keep the home-page admonition

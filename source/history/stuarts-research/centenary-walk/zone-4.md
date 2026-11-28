@@ -9,7 +9,7 @@ Zone 4 of the Centenary Mile Walk map.
 
 “Willetts Hill” would not have been the busy road that it is today, with a mini roundabout at the bottom. It was the eastern border of “Parsonage Farm” and no more than a farm track, where the cows would return for milking twice a day. In fact on maps, Millers Lane looks more substantial!
 
-The Seamark Close estate of 37 houses and bungalows was built on arable land in the 1960’s. Its entrance used to be a hedge (that Rev Henham used to cycle into !) and was the site for a spectacular decorative1953 structure for the Queen’s Coronation. It had 2 sturdy upright posts with flags, supported by scaffolding, and it had the words :- “ E.R. - FEAR GOD - HONOUR THE QUEEN “. ]
+The Seamark Close estate of 37 houses and bungalows was built on arable land in the 1960’s. Its entrance used to be a hedge (that Rev Henham used to cycle into !) and was the site for a spectacular decorative 1953 structure for the Queen’s Coronation. It had 2 sturdy upright posts with flags, supported by scaffolding, and it had the words :- “E.R. - FEAR GOD - HONOUR THE QUEEN”.
 
 ## Left: “Sports Field” – down the ‘Sports’ Drove
 
@@ -27,9 +27,9 @@ The Parish Council own the Field. And they would mark out an athletics track for
 
 Monkton Cricket Club were based at the Sports Field, with founding players such as John SHEPHERD, Vic COOK, Ken BURGESS and Charlie WOODCOCK.
 
-MONKTON SPORTS CLUB. 1988 President: Major HEDLEY (“Field House”). Chairman: John BARLOW (“the White Stag pub”). Vice-Presidents: Rev GOWER-SMITH (“the Vicarage”), M SMITH J.P. (Monkton Court Farm”), Mr C. BEECH. Hon.Sec.: C.J. WOODCOCK (“Brabourne”).
+MONKTON SPORTS CLUB. 1988 President: Major HEDLEY (“Field House”). Chairman: John BARLOW (“the White Stag pub”). Vice-Presidents: Rev GOWER-SMITH (“the Vicarage”), M SMITH J.P. (“Monkton Court Farm”), Mr C. BEECH. Hon.Sec.: C.J. WOODCOCK (“Brabourne”).
 
-It was a successful effort by worthy local volunteers, to get the field grassed (Ted and Gordon MORRIS ploughed and grassed the field) and the Pavilion built c1980’s. (John POTTER and Dave NORTH playing a major part). There was Charlie WOODCOCK who was at the forefront of it, and there used to be a plaque to his significant contribution. Now he has a bench in the corner of the field next to the Beacon built by Bill Hayward [Rachel Horsburgh’s father from Herne Bay] for the1994 Centenary Celebrations. To raise funds for the building, there were Duck Races at Plucks Gutter, Meat Raffles were held in the White Stag pub, and regular Wednesday night Bingo evenings in the Village Hall that got the village involved, and the “Useless Eustace” fund-raiser. (Research says Eustace is “a hotch-potch of the many asses who cheerfully go through life doing the wrong thing at the wrong time” – a cartoon character in the Daily Mirror from 1935. But I don’t know how it was used to create a fund-raising activity?) Peter ATTWELL and Ken BURGESS were among the helpful volunteers. (***APOLOGIES to any others who contributed but are not named here!***)
+It was a successful effort by worthy local volunteers, to get the field grassed (Ted and Gordon MORRIS ploughed and grassed the field) and the Pavilion built c1980’s. (John POTTER and Dave NORTH playing a major part). There was Charlie WOODCOCK who was at the forefront of it, and there used to be a plaque to his significant contribution. Now he has a bench in the corner of the field next to the Beacon built by Bill Hayward [Rachel Horsburgh’s father from Herne Bay] for the 1994 Centenary Celebrations. To raise funds for the building, there were Duck Races at Plucks Gutter, Meat Raffles were held in the White Stag pub, and regular Wednesday night Bingo evenings in the Village Hall that got the village involved, and the “Useless Eustace” fund-raiser. (Research says Eustace is “a hotch-potch of the many asses who cheerfully go through life doing the wrong thing at the wrong time” – a cartoon character in the Daily Mirror from 1935. But I don’t know how it was used to create a fund-raising activity?) Peter ATTWELL and Ken BURGESS were among the helpful volunteers. (***APOLOGIES to any others who contributed but are not named here!***)
 
 The Monkton Football Club for young and old was started by parish councillor John WAY, and weekend football was in full flow by the 1990’s and continues to this day.
 
@@ -46,10 +46,10 @@ The initial plan for a Sports Field was to put it on the land next to Major HEDL
 Pre-1884 the Farm was owned by Ambrose and Mary COLLARD, before they sold it to the WILLETTS.
 
 - 1839 James White; 1847 James White; 1851 James White; 1867 William & John White; 1890 Geoffrey Clutton; 1890 William John Bartlett; 1929 Henry Thomas Willett; 1955 Trevor Willett; 1967 Trevor Willett.
-- **1841 census** – #“Monkton Parsonage” - James WHITE (b c1786) farmer. William WHITE (b c1811). James WHITE (b c1816). John WHITE (b c1821). Mary WHITE (b c1816). Margaret WHITE (b c1816).Rachel WHITE (b c1821). + 12 more ???
+- **1841 census** – “Monkton Parsonage” - James WHITE (b c1786) farmer. William WHITE (b c1811). James WHITE (b c1816). John WHITE (b c1821). Mary WHITE (b c1816). Margaret WHITE (b c1816). Rachel WHITE (b c1821). + 12 more ???
 - **1901 census** – Henry Thomas WILLETT (b1866) & wife Elizabeth (b1868) WILLETT. Also son Thomas Matthew 2yr, WILLETT. Servants Harriet & Louisa.
 - **1911 census** – Henry Thomas WILLETT (b1866) farmer & wife Anne Elizabeth Allan WILLETT (b1867). Also 3 of 5 children :- John 6; Harry 5; Robert 4, WILLETT. + Emma (b1869) SIMMONS visitor. Servants Francis FRIEND 20; Daisy NICHOLLS 20; Glusa? STANDING 16. (13 rooms)
-- **1921 census** – Henry Thomas WILLETT (b1866) farmer & wife Anne Elizabeth Allan WILLETT (b1868). Sons :- John 16; and Robert 14. Daughter Joyce WILLETT 8. + boarder Johannes BAAR 22. Also servants Rose GORE (b1902) and Doris MARTIN (b1904) .
+- **1921 census** – Henry Thomas WILLETT (b1866) farmer & wife Anne Elizabeth Allan WILLETT (b1868). Sons :- John 16; and Robert 14. Daughter Joyce WILLETT 8. + boarder Johannes BAAR 22. Also servants Rose GORE (b1902) and Doris MARTIN (b1904).
 - **1939 census** – Henry T. WILLETT (b1866) farmer. Son John WILLETT (b1904) farmer and special constable. Daughters :- Madeline BULL nee Willett (b1901) and Joyce WILLETT (b1912). Gwendoline BOJLINGS? nee Chapman (b1918) servant.
 - **1973 Parish Council “Monkton Guide” census** – Trevor Willett.
 - **1977 Parish Council “Silver Jubilee Souvenir Guide”** – Trevor Willett.
@@ -103,10 +103,10 @@ The 1901 census was very poorly listed! It’s usually listed in house order, so
 - \#? John BEAKE (b1875) & wife R? (b1876) BEAKE. And daughter May 2yr BEAKE.
 - \#? Elgar? ?? (b1852) blacksmith & wife Margaret (b1848) ??? . Also 3 children :- Louisa 23; Robert 15; Frederick 10.
 - \#? Edward BRETT (b1833)
-- \#? Mary HUGHES (b1833). And son John (b1873)
-- \#? Emma LAMPRELL (b1851) Also daughters :- Mabel 16 & Minnie 12.
+- \#? Mary HUGHES (b1833). And son John (b1873) HUGHES.
+- \#? Emma LAMPRELL (b1851) Also daughters :- Mabel 16 & Minnie 12 LAMPRELL.
 - \#? George DRAY (b1860) wheelwright, carpenter & wife Emily (b1863) DRAY. Also 5 children :- Harry 13; Miriam 10; Ethel 4; Daisy 1. + Ernest GAZE 17.
-- \#? William BURGGLE? (b1872) teacher & wife Eliza (b1873) BURGGLE? Also 3 children :- William 5; Joseph 2; Lilian 1. Sister Winifred 15. Servant Nellie CHEESEMAN (b1881)
+- \#? William BURGGLE? (b1872) teacher & wife Eliza (b1873) BURGGLE? Also 3 children :- William 5; Joseph 2; Lillian 1 BURGGLE?. Sister Winifred 15. Servant Nellie CHEESEMAN (b1881)
 - \#? Thomas ANDREWS (b1851) & wife Mary (b1847) ANDREWS. + 8 others.
 - \#? Edward ANDREWS (b1870) & wife Elizabeth (b1870) ANDREWS. + 5 others.
 - \#? “PARSONAGE ?” - Henry ROGERS (b1859) fisherman. + 3 others
@@ -200,8 +200,8 @@ A schoolmistress was living at “The Vicarage”. There were 89 scholars aged 2
 - **1884-1894** – Richard Lee ALLNUTT, vicar of Monkton.
 - **1894-1901** – Robert Alfred WOOD, vicar of Monkton.
 - **1901 census** – “The Vicarage” - Rev Joseph White HORNE (b1846) Monkton vicar from 1901-1904 & wife Katherine (b1854) HORNE. 3 children :- James 8; Mary 7 and Joseph 1yr, HORNE + 4 servants.
-- **1911 census** – Rev Watkin Wynn WILLIAMS (b1860) Monkton vicar from 1904-1915 & wife Charlotte WILLIAMS (b1870). Son Watkin Wynn WILLIAMS 4yr. Visitor Arthur JONES (b1884) clergy. Servants Eliza Thorne (b1865); Emmie LEGG (b1896); Lancelotte CORNELL (b1898) ‘page’. ( 11 rooms )
-- **1921 census** – Frederick Fabian BRACKENBURY (b1853) Monkton vicar from 1915-1927 & wife Edith (b1853) BRACKENBURY. Daughter Agatha Bridget Fabian BRACKENBURY (b1893). + 3 servants Agnes 48; May 19 & William 14. Also Neal?(b1881) Indian civil service & Indian wife? Ethel (b1887) BRACKENBURY, & 2 children :- John 4; and Anthony 2; and Neal? 1yr, BRACKENBURY. + 1 more servant .
+- **1911 census** – Rev Watkin Wynn WILLIAMS (b1860) Monkton vicar from 1904-1915 & wife Charlotte WILLIAMS (b1870). Son Watkin Wynn WILLIAMS 4yr. Visitor Arthur JONES (b1884) clergy. Servants Eliza Thorne (b1865); Emmie LEGG (b1896); Lancelotte CORNELL (b1898) ‘page’. (11 rooms)
+- **1921 census** – Frederick Fabian BRACKENBURY (b1853) Monkton vicar from 1915-1927 & wife Edith (b1853) BRACKENBURY. Daughter Agatha Bridget Fabian BRACKENBURY (b1893). + 3 servants Agnes 48; May 19 & William 14. Also Neal?(b1881) Indian civil service & Indian wife? Ethel (b1887) BRACKENBURY, & 2 children :- John 4; and Anthony 2; and Neal? 1yr, BRACKENBURY. + 1 more servant.
 - **1939 census** – Rev Hubert HENHAM (1863-1948) Monkton vicar from 1927-1947. And Irene AGNEW (b1899).
 - **1973 Parish Council “Monkton Guide” census** – Rev F.R. Gower-Smith (1898-1984) vicar of Monkton from 1947-1972.
 - **1977 Parish Council “Silver Jubilee Souvenir Guide”** – (“Gower House”) - W YOUNG.
@@ -288,7 +288,7 @@ I haven’t found clear indications about all these cottages which I believe to 
 “Monkton Court Cottages” in the 1939 census listed after the “Royal Exchange” – I think they refer to cottages BEFORE & IN & AFTER the “Drove”.
 ```
 
-- **1939 census** – “Monkton Court Cottages” - Walter VICKERS (b1901) & wife Kathleen (b1903) VICKERS. Also son Frederick VICKERS (b1930) . + Ernest MARSHALL (b1905).
+- **1939 census** – “Monkton Court Cottages” - Walter VICKERS (b1901) & wife Kathleen (b1903) VICKERS. Also son Frederick VICKERS (b1930). + Ernest MARSHALL (b1905).
 - **1939 census** – “Monkton Court Cottages” - William GORE (b1898) cowman & wife Mary (b1891) GORE. + Elizabeth TURNER (b1865).
 - **1939 census** – “The Bungalow” “Monkton Court Farm”. Arthur BEAN (b1905) & wife Winifred (b1914?) BEAN.
 - **1939 census** – “Monkton Court Drove” - Walter (1897) HOOD cowman & wife Emily (1892) HOOD. Also Norman HOOD (b1919) poultryman. Stanley HOOD (b1924). Elizabeth GORE nee Hood (b1926) [ + 2 wartime redacted ].
@@ -364,7 +364,7 @@ I’m guessing that the following relate in some way to dwellings in or near “
 
 - **??? 1841 census** – #”Drove House” - Thomas BROWNING (b c1801) & wife Ann BROWNING (b c1821). Also children :- John 14; James 11; Phoebe 9; William 7, BROWNING.
 - **??? 1901 census** – ? # “Court Drove”? - William GATES (b1866) & wife Eliza Ellen (b1873) GATES. Also 5 children :– Ethel 12; William 10; Helen 8; Edith 5; Frederick 3mth, GATES.
-- **??? 1911 census** – ? # “Monkton Ct Drove Hop Pickers Hut” - Thomas HORTON (b1848) ( 1 room )
+- **??? 1911 census** – ? # “Monkton Ct Drove Hop Pickers Hut” - Thomas HORTON (b1848) (1 room)
 - **??? 1911 census** – ? # “Monkton Ct Drove Cottage” ? William PACKHAM (b1874) cowman & wife Harriet (b1879) PACKHAM. Also daughter Winifred PACKHAM 8yr. (detached cottage - 4 rooms)
 
 ## Left: “Docker Hill”
@@ -373,7 +373,7 @@ I’m guessing that the following relate in some way to dwellings in or near “
 
 - **1841 census** – #”Docker Hill” - John IMPET (b c1791) & wife Caroline IMPET (b c1791).
 - **1901 census** – # “Docker Hill” - Charles ?TELBEE (b1867) shepherd & wife Mary (b1866) ?TELBEE. Also 4 sons :- William 14; James 9; Edward 6; Frank 4, ?TELBEE.
-- **1911 census** – “Docker Hill Cottage” (shepherds’ cottage on the marshes ) Mr GARDNER. 3 pax.
+- **1911 census** – “Docker Hill Cottage” (shepherds’ cottage on the marshes) Mr GARDNER. 3 pax.
 - **1939 census** – Albert BRUNGER (b1897) shepherd & wife Maude (1906) BRUNGER [+1 wartime redacted ]
 
 Docker Hill Farm, on the Monkton Marshes. Home for the LOVE family in the 1930’s. Richard LOVE was a shepherd, with 4/5 children, Richard (b1923); Ethel (b1927); Brenda (1929); Ivy (b1932); and they all lived in the shepherd’s hut and walked to Monkton School.
@@ -447,7 +447,7 @@ William “Billie” ANDREWS (1908-1996) worked at “Monkton Ct Farm” from 19
 
 Monkton Ct Farmhouse used to be the Manor House. In 961 Queen Edwina gave the land/manor to the monks of Christchurch Canterbury. The village was known as “MONOCSTUNE” in the Doomsday Book 1086.
 
-In 1480 a new dormitory for the monks was built by Prior Selling, possibly the precursor to the present Monkton Court. Remained in the possession of the monks until the Dissolution by Henry 8th in c1538, and surrendered to the Crown, to Elizabeth 1, to her favourite Robert Dudley, Earl of Leicester, then back to the Cathedral. When the north aisle of Monkton Church was removed, an immense quantity of masonry, bits of the moulding of arches, pillars and capitals, were reused for the Farmhouse garden.F
+In 1480 a new dormitory for the monks was built by Prior Selling, possibly the precursor to the present Monkton Court. Remained in the possession of the monks until the Dissolution by Henry 8th in c1538, and surrendered to the Crown, to Elizabeth 1, to her favourite Robert Dudley, Earl of Leicester, then back to the Cathedral. When the north aisle of Monkton Church was removed, an immense quantity of masonry, bits of the moulding of arches, pillars and capitals, were reused for the Farmhouse garden.
 
 Sidney “Snowy” SMITH – his father George SMITH was bailiff at Monkton Ct Farm for over 60 years. George & Snowy started at Monkton Court Farm from the age of 14. George worked there for 56 years. Snowy was the Farmhouse gardener, and his wife Elsie worked in the Farmhouse. They lived in #5 “Church Row Cottages”. Snowy was still working part-time (in 1990?) after 58 years.
 
@@ -469,7 +469,7 @@ The report says: “Eileen Potter (who works on the farm minding young turkeys) 
 
 - **1841 census** – #“Monkton Court Lodge” - Sidney SMITH (b c1806) farmer. Elizabeth SMITH (b c1776). Ann NEVIN (b c1821). Sarah HUCKSTEP (b c1821). Henry FOAD (b c1811). John FOAD (b c1816). Isaac IMPET (b c1826). John NEEVES (b c1826). Thomas BROWNING (b c1826).
 - **1841 census** – #”Monkton Court” - Thomas SOLLY (b c1806) farmer & wife Mary (b c1811) SOLLY. Also children :- George SOLLY 5; James 3; and Mary 1yr, SOLLY. Herbert HOOPER (b c1891). Lawrence WASTALL (b c1821). Thomas ?GATNALL (b c1821). Thomas RALPH (b c1826). Henry STANDING (b c1826). Thomas HUCKSTEP (b c1827). Mary FOREMAN (b c1816). Mary SCOTT (b c1826). Sarah READ (b c1826).
-- **1911 census** – John Valentine Wellard SMITH (b1857) & wife Marian Esther (b1855) SMITH. Also sons :- Herbert Allnut SMITH (b1883); Allan Jeffrey Wellard SMITH (b1888); Lawrence Winsland SMITH (b1893). + servant Fanny RILEY (1895). ( 6 children - 12 rooms)
+- **1911 census** – John Valentine Wellard SMITH (b1857) & wife Marian Esther (b1855) SMITH. Also sons :- Herbert Allnut SMITH (b1883); Allan Jeffrey Wellard SMITH (b1888); Lawrence Winsland SMITH (b1893). + servant Fanny RILEY (1895). (6 children - 12 rooms)
 - **1921 census** – Herbert Allnut SMITH (b1883) farmer & wife Marjorie (b1888) SMITH. Also son Geoffrey Michael SMITH (b1919). Also John V.W. SMITH (b1855) farmer & wife Marian Esther SMITH (b1856). Also 2 servants Edith BOTTEN (b1885) & May SMITH (b1903).
 - **1939 census** – Herbert Allnut SMITH (b1882) farmer and head ARP warden & wife Marjorie (b1887) SMITH, local organiser for land (use?). + Irene Gladys SAYER (b1918) servant.
 - **1973 Parish Council “Monkton Guide” census** – J.W. SMITH (Monkton Ct Farm); M.J.W. SMITH (“Monkton Court”); R.A. LUNN (“The Lodge”).
@@ -589,9 +589,9 @@ At one time there were 6 individual cottages, but some have been combined over t
 - **1911 census** – #4 “Church Row Cottages” - Charlotte WHITE (b1865). Also son Frederick WHITE 12yr.
 - **1911 census** – #5 “Church Row Cottages” - James BAILEY (b1856) & wife Mary (b1866) BAILEY.
 - **1911 census** – #6 “Church Row Cottages” - Albert BAILEY (b1887) & wife Nellie (b1881) BAILEY. Also daughter Doris BAILEY 1yr.
-- **1921 census** – #? Sydney READ (b1881) cowman & wife Susie (b1887) READ. Also children :- Phyllis 14; John 12; Kathleen 10; Doris 8; Olive 6; Charles 1, READ. + 2 boarders Herbert LAWRENCE (b1901) cowman & James WRIGHT (b1892) dairyman. ( 4 rooms)
-- **1921 census** – #2 John BUSHELL (b1858) .
-- **1921 census** – #? Walter STEVENS (b1871) & wife Kate (b1871) STEVENS. Also children :- James 25; Elizabeth 23; Horace 21; Charles 19; Herbert 16; Ellen 13; Ivy 11, STEVENS; and g/son Edwin 10mth, STEVENS. ( 4 rooms )
+- **1921 census** – #? Sydney READ (b1881) cowman & wife Susie (b1887) READ. Also children :- Phyllis 14; John 12; Kathleen 10; Doris 8; Olive 6; Charles 1, READ. + 2 boarders Herbert LAWRENCE (b1901) cowman & James WRIGHT (b1892) dairyman. (4 rooms)
+- **1921 census** – #2 John BUSHELL (b1858).
+- **1921 census** – #? Walter STEVENS (b1871) & wife Kate (b1871) STEVENS. Also children :- James 25; Elizabeth 23; Horace 21; Charles 19; Herbert 16; Ellen 13; Ivy 11, STEVENS; and g/son Edwin 10mth, STEVENS. (4 rooms)
 - **1921 census** – #4 Fanny MARTIN (b1862). And son William MARTIN (b1902).
 
 ## #1 “Church Row Cottages”

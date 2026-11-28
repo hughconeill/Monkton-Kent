@@ -15,13 +15,13 @@ Sheriffs Court Farm was farmed by “the FULLER’s” – starting with Frederi
 
 Relatives of the FULLER’s from Manston would load a piano onto a trailer and sing Christmas carols at the homes of the friendly, generous farmers in Monkton and Gore Street.
 
-TV star Miriam MARGOLYES O.B.E. , (b1941) a British/Australian controversial comedian and actress, owned a cottage in Sheriffs Ct Lane.
+TV star Miriam MARGOLYES O.B.E., (b1941) a British/Australian controversial comedian and actress, owned a cottage in Sheriffs Ct Lane.
 
 There was a Market Garden small holding business called “Lilliotts” just on the corner of Sheriffs Court Lane.
 
-In the first field ( LEFT ) was a barn known as “The Kennels” where fox hounds would be kept. A ‘well-connected ‘tramp was known to live there before it was demolished.
+In the first field (LEFT) was a barn known as “The Kennels” where fox hounds would be kept. A ‘well-connected ‘tramp was known to live there before it was demolished.
 
-In 1926, the village postman, ( like Mr SETTERFIELD perhaps? ) would walk the whole village twice daily, with only the cottage names to guide him – no Monkton Street numbers!
+In 1926, the village postman, (like Mr SETTERFIELD perhaps?) would walk the whole village twice daily, with only the cottage names to guide him – no Monkton Street numbers!
 
 ```{note}
 On this Monkton Trail, look for the authentic farm labourers’ cottages, two up two down, without modern extensions. And realise that between the cottages were hedges, barns and sheds, and crops growing as far as the railway line on the left, and the top road, A299, on the right. In addition, there were just a few more substantial cottages and barns dotted about.
@@ -32,16 +32,16 @@ On this Monkton Trail, look for the authentic farm labourers’ cottages, two up
 ```{admonition} Stuart's query
 :class: note
 
-ALSO “ Rose Cottages “ ! in the 1911 & 1921 census. Not to be confused with “Rose Cottages” next to the School!
+ALSO “Rose Cottages”! in the 1911 & 1921 census. Not to be confused with “Rose Cottages” next to the School!
 ```
 
-- **1901 census** – Stephen SHONK (b1848) & wife Sarah (b1854) SHONK. Also 7 children :- Emily 18; Ernest 17; Frederick 14; Lily 13; Mabel ; Sidney 6; Margaret 5, SHONK. + g/mother Rebecca SNELLING (b1827).
+- **1901 census** – Stephen SHONK (b1848) & wife Sarah (b1854) SHONK. Also 7 children :- Emily 18; Ernest 17; Frederick 14; Lily 13; Mabel 9F; Sidney 6; Margaret 5, SHONK. + g/mother Rebecca SNELLING (b1827).
 - **1911 census** – #1 “Rose Cottages” - Ernest INGLETON (b1877) cowman & wife Kate (b1874) INGLETON. Also 3 children :- Florence 10; Charles 8; Violet 1yr, INGLETON.
 - **1921 census** – #1 “Rose Cottages” - Edwin MARSH (b1888) & wife Florence (b1889) MARSH. Also 3 children :- Fanny 7; Edwin 3; and Frederick 1yr, MARSH. + boarder Edward KNIGHT (b1901).
 - **1939 census** – Edmund RAYNER (b1897) & wife Rose (b1900) RAYNER. Also Kathleen NORRIS nee Rayner (b1920); Percy (b1922); Eileen (b1924).
 - **1973 Parish Council “Monkton Guide” census** – Edward Styles.
 - **1977 Parish Council “Silver Jubilee Souvenir Guide”** – M Boyce.
-- **1981 Parish Council “Royal Wedding Souvenir Guide”** – ( Vacant).
+- **1981 Parish Council “Royal Wedding Souvenir Guide”** – (Vacant).
 - **1994 Parish Council “Centenary Celebrations”** – Brian London.
 
 ## #2 “Elm Cottages”
@@ -100,7 +100,7 @@ On the LEFT are 6 cottages, “Solihull Cottages”, built by local builder W.S.
 
 ## #4 “Solihull Cottages”
 
-- **1901 census** – Elizabeth WILLIAMS? (1853) .
+- **1901 census** – Elizabeth WILLIAMS? (1853).
 - **1911 census** – Frederick BEERLING (b1860) shepherd & wife Liela? (b1870) BEERLING.
 - **1939 census** – George LOCKE (b1898). Also sons :- Harry (b1919) and Charley (b1911) LOCKE. + Mary LOCKE (b1872).
 - **1973 Parish Council “Monkton Guide” census** – A Wilson.
@@ -138,7 +138,7 @@ The 1901 CENSUS IS VERY POORLY LISTED – the address seems to be named “Monkt
 
 ### 1901 census – “Monkton Street” (possibly “Solihull Cottages”?)
 
-- \#? “Monkton St” - Godfrey BRYANT (b1850). + mother Philadelphia BRYANT (b1821) . + 2 others.
+- \#? “Monkton St” - Godfrey BRYANT (b1850). + mother Philadelphia BRYANT (b1821). + 2 others.
 - \#? “Monkton St” - James FULLER (b1866) & wife Ellen Elizabeth (b1873) FULLER. Son James 4yr. FULLER.
 - \#? “Monkton St” - Walter PATTERSON (b1845) bailiff, & wife Eliza (b1843) PATTERSON. +Edith (b1876) PATTERSON.
 - \#? “Monkton St” - John HISCOTT (b1840) & wife J? (b1842) HISCOTT. + 3 others.
@@ -146,7 +146,7 @@ The 1901 CENSUS IS VERY POORLY LISTED – the address seems to be named “Monkt
 - \#? “Monkton St” - James LARKINS (b1844) & wife Phoebe (b1845) LARKINS.
 - \#? “Monkton St” - James STRAND (b1836) gardener & wife Jane (b1840) STRAND. + 2 others.
 
-## Left: ”Pluckley Cottages” (now ”Beresford Lodge”)
+## Left: “Pluckley Cottages” (now “Beresford Lodge”)
 
 It’s remembered in the 1989 survey by owner William Hawker, as the site of 3 cottages plus a thatch cottage from before 1711, and a hand water pump in the garden. It became a market garden small holding for lover of horses, and owner of “Blossom”, Peter CROOK (1937 – 2011).
 
@@ -164,7 +164,7 @@ The Baroness DECIES (1893-1931) bought it and renamed it “Beresford Lodge”, 
 - **1981 Parish Council “Royal Wedding Souvenir Guide”** – Peter Crook.
 - **1994 Parish Council “Centenary Celebrations”** – D Evans.
 
-## Left: ”Oakley Cottage”
+## Left: “Oakley Cottage”
 
 - **1911 census** – Sarah SHONK (b1853). Also children :- Sidney SHONK (b1895) waggoners mate; and Maggie SHONK (b1896).
 - **1921 census** – Alfred KNOTT (b1865). + Phoebe KNOTT (b1840) mother. + Reginald CARR (b1900) nephew. Jane JACKSON (b1839) servant.
@@ -187,7 +187,7 @@ A Grade II listed building in 1972, dating from 1633 – 1799. (One of the 22 Li
 
 The VINSON’s Farm stretched north, all the way up to the A299 (dual carriageway) and south, down to the railway line.
 
-Robert S VINSON (1885 – 1974 – buried in Monkton Churchyard ) was a great charitable benefactor to the village.
+Robert S VINSON (1885 – 1974 – buried in Monkton Churchyard) was a great charitable benefactor to the village.
 
 He would give 3d to every school child when they went on a school trip.
 
@@ -203,19 +203,19 @@ In a 1964 newspaper article in the Thanet Times, the headlines are “Automation
 
 - **1911 census** – divided into 2 dwellings - Charles TWYMAN (b1866) bailiff & wife Emmie (b1864) TWYMAN. Also son Charles TWYMAN (1895) farm milkman. + boarder George PRETT (1883) farm waggoner.
 - **1911 census continued, divided house** – John KNOTT (b1838) & wife Mary? (b1842) KNOTT. Also son Alfred (1866) KNOTT; & g/son Reginald CARR (b1900).
-- **1921 census** – Charles TWYMAN (b1865) bailiff & wife Emmie (b1863) TWYMAN . Also Emmie HOBSON nee Twyman daughter (b1894). +Margaret HOBSON g/daughter (b1920).
+- **1921 census** – Charles TWYMAN (b1865) bailiff & wife Emmie (b1863) TWYMAN. Also Emmie HOBSON nee Twyman daughter (b1894). +Margaret HOBSON g/daughter (b1920).
 - **1973 Parish Council “Monkton Guide” census** – (unnamed).
 - **1977 Parish Council “Silver Jubilee Souvenir Guide”** – (unnamed).
 - **1981 Parish Council “Royal Wedding Souvenir Guide”** – R. Rose.
 - **1994 Parish Council “Centenary Celebrations”** – R. Rose.
 
-### “Monkton Lodge“ (?)
+### “Monkton Lodge” (?)
 
 - **1911 census** – Robert Linton HETHERINGTON (b1866) farmer. Also son John Lewis HETHERINGTON (b1899). + servants Lillian COX (b1883) & Elizabeth LANES (b1881).
 - **1921 census** – Robert VINSON (b1885) farmer. John VINSON brother (b1889) farmer.
 - **1939 census** – Robert VINSON (b1885) farmer, and special constable. & wife Alice (b1882) VINSON.
 
-### ”Walters Hall Cottages” (?)
+### “Walters Hall Cottages” (?)
 
 - **1921 census** – Robert STRINGER (b1880) & wife Annie (b1882) STRINGER. Also sons :- Hubert 17; Walter 14; and Frederick 12, and daughters :- Annie May 10; Ellen 7; and Edith 3, STRINGER. + baby son William George STRINGER.
 
@@ -231,7 +231,7 @@ In a 1964 newspaper article in the Thanet Times, the headlines are “Automation
 
 There were hop fields as far as the railway line. “Walters Hall Farm” (Vinson’s / Baxter’s) worked the last hop-garden in Thanet. Originally dried using a coal fire but then updated in the 1960’s with oil fired heating – hence the specially designed louvre ventilated roof on the kilns. One of their hop bags is on display at the Guiness Factory Museum in Dublin.
 
-Paul RAMMELT (1918 – 2008 ) was the head hop man at Walters Hall Farm.
+Paul RAMMELT (1918 – 2008) was the head hop man at Walters Hall Farm.
 
 INTERNET MEMORY from Francis Frith Collection photos. “The Smell of Drying Hops”. I remember standing in the oast house with my neighbour Mr Rammelt and my dad Eddie Styles, smelling the marvellous aroma of the hops as they were being dried. It is a smell that brings back many happy memories and stories about the hop fields.”
 
@@ -331,7 +331,7 @@ The present “Saxby Cottage” stands on the footprint of several demolished co
 
 ## Left: “Saxby Cottage” - (detached cottage)
 
-- **1911 census** – William NORRIS (b1882) traction engine driver & wife Gertrude (b1880) NORRIS. Also daughters :- Ethel 5; Ruth 1; Florence 13, NORRIS. + father-in-law Henry EASTLAND (b1844).
+- **1911 census** – William NORRIS (b1882) traction engine driver & wife Gertrude (b1880) NORRIS. Also daughters :- Florence 13; Ethel 5; Ruth 1, NORRIS. + father-in-law Henry EASTLAND (b1844).
 - **1921 census** – William NORRIS (b1882) traction engineer @ Wingham Engineering & wife Gertrude (b1880) NORRIS. Also children :- Ruth 11; Evelyn 8; William 1; & Frederick 10mth, NORRIS.
 - **1939 census** – William NORRIS (b1882) agricultural engineer and special constable, & wife Gertrude (b1880) NORRIS. Also Susan EASTLAND (b1872). Also Dorothy MAILLAIDET (b1905). And son Alfred MAILLAIDET (b1936).
 - **1973 Parish Council “Monkton Guide” census** – (unnamed).
@@ -349,9 +349,9 @@ Mrs Ruth JAMES nee NORRIS (b1910), remembers how her father, William NORRIS (b18
 
 ## #2 “Saxby Cottages” semi-detached cottage
 
-- **1911 census** – Mary MARTIN (b1833) Also son Robert Martin (b1874).
-- **1921 census** – George PILCHER (b1876) & wife Sylvia ? (b1869) PILCHER. +son Thomas (b1908). +son-in-law George ENGLISH (b1895) & daughter Lydia ENGLISH nee Pilcher (b1895). + their children :- George 3; Mildred 1; and Robert 4mth, ENGLISH.
-- **1939 census** – George PILCHER (b1866) & wife Elizabeth (b1868) PILCHER. Also son Thomas (1901) .
+- **1911 census** – Mary MARTIN (b1833) Also son Robert MARTIN (b1874).
+- **1921 census** – George PILCHER (b1876) & wife Sylvia ? (b1869) PILCHER. + son Thomas (b1908) PILCHER. +son-in-law George ENGLISH (b1895) & daughter Lydia ENGLISH nee Pilcher (b1895). + their children :- George 3; Mildred 1; and Robert 4mth, ENGLISH.
+- **1939 census** – George PILCHER (b1866) & wife Elizabeth (b1868) PILCHER. Also son Thomas (1901) PILCHER.
 
 ## #1 “Black Cottages”
 

@@ -20,7 +20,7 @@ Zone 2 of the Centenary Mile Walk map.
 
 *Semi-detached cottage.*
 
-- **1911 census** – William SHONK (b1884) waggoner & wife Edith (b1884) SHONK. + boarder Willian VENN? (b1856) blacksmith.
+- **1911 census** – William SHONK (b1884) waggoner & wife Edith (b1884) SHONK. + boarder William VENN? (b1856) blacksmith.
 - **1921 census** – Ernest SHONK (b1884) & wife Edith (b1884) SHONK. Also children :- Edith (b1911) and Ernest (b1919) SHONK.
 - **1939 census** – [#1 named “Terrys Cottages”] – Ernest SHONK (b1884) horseman & wife Edith (b1883) SHONK. + Ernest Charles SHONK (b1919) horseman. + Charles MARSH (b1886).
 - **1973 Parish Council “Monkton Guide” census** – ??? Beech.
@@ -55,13 +55,13 @@ In the 1939 census, this ‘hut’ is mysteriously included, but I don’t know 
 
 The 1901 census was very poorly listed! It’s usually listed in house order, so I’m guessing that these are the entries after “Solihull Cottages” for Zone 1 (until “Forge Cottage”).
 
-- \# ”MONKTON LODGE” (uninhabited) – GUESS: the demolished MONKTON HALL?
+- \# “MONKTON LODGE” (uninhabited) – GUESS: the demolished MONKTON HALL?
 - \# “SYDNEY VILLA” (GUESS: “Grove Cottages”?) – Charles ROGERS (b1872) market gardener & wife Emily Elizabeth (b1869) ROGERS. Also 3 children. + Boarder Elizabeth Lucy ROLLS (1880) school teacher.
 - \#? Charles SPAIN (b1868) & wife Mary (b1869) SPAIN. Also 3 children.
-- \#? Stephen MARTIN (b1826) & wife Mary (b1833) MARTIN. Also son Robert (b1874).
-- \#? Edward HALL (b1835) blacksmith & wife Harriet (b1833) HALL. + boarder William Fennell (b1847).
+- \#? Stephen MARTIN (b1826) & wife Mary (b1833) MARTIN. Also son Robert (b1874) MARTIN.
+- \#? Edward HALL (b1835) blacksmith & wife Harriet (b1833) HALL. + boarder William (b1847) FENNELL.
 - \#? Sarah CHANDLER (b1819).
-- \#? George JOHNSON (b1846) & wife ???(1847) JOHNSON. Also daughter Florence (b1886). + boarders John SUTTON (b1873) & Henry EASTLAND (b1879).
+- \#? George JOHNSON (b1846) & wife ???(1847) JOHNSON. Also daughter Florence (b1886) JOHNSON. + boarders John SUTTON (b1873) & Henry EASTLAND (b1879).
 - \#? Sarah TOLLHURST (b1829).
 - \#? Esther HAMMOND (b1826).
 - \#? John WHITNALL (b1829) + 2 others.
@@ -100,7 +100,7 @@ Landlord Mr H MILLS pours Ginger a pint, 26 October 1951.
 ```
 
 
-It later became the “White Stag” in the 1960’s, and briefly in recent times the “Olive Tree”, “the Stag”, and then “The New Stag” – and in 2026 it is presently closed. Originally a small beer house from after the Napoleonic Wars (1815) . The Duke of Wellington’s Beer Act of 1830 enabled any householder, for just 2 guineas a year (£2 5p : – : a guinea=21 shillings), to retail only beer between 4am and 10pm. It was naively believed that these ‘Tom & Jerry’ shops would wean the social drinker from the rotgut of spirits to ‘wholesome’ beer. In practice tipplers became just as soaked on beer as they ever did on gin, and ‘beer shops’ acquired a reputation as disorderly houses. In 1872 it was formerly named “The New Inn”.
+It later became the “White Stag” in the 1960’s, and briefly in recent times the “Olive Tree”, “the Stag”, and then “The New Stag” – and in 2026 it is presently closed. Originally a small beer house from after the Napoleonic Wars (1815). The Duke of Wellington’s Beer Act of 1830 enabled any householder, for just 2 guineas a year (£2 5p : – : a guinea=21 shillings), to retail only beer between 4am and 10pm. It was naively believed that these ‘Tom & Jerry’ shops would wean the social drinker from the rotgut of spirits to ‘wholesome’ beer. In practice tipplers became just as soaked on beer as they ever did on gin, and ‘beer shops’ acquired a reputation as disorderly houses. In 1872 it was formerly named “The New Inn”.
 
 The pub has belonged to a succession of breweries including Flints of Canterbury, Fremlins, and Shepherd Neame of Faversham.
 
@@ -129,7 +129,7 @@ Brian remembered a blizzard in the mid ‘70’s that had stranded a full coachl
 The local constabulary, Ken JONES from Monkton, and Bob SMITH from Minster (named ‘Smith & Jones’ after the TV programme!) kept a friendly eye on the pub.
 
 - **1881 census** – Emma ADAMS and her 5 children. Also listed in 1882 Kellys Directory.
-- **1891 census** – James HOLMES (b1836) publican & Jane (b1846). Also children :- Florence 8, Ellen 7, Charles 5, Lucy 4, Frank 2, Edith, 1yr, HOLMES.
+- **1891 census** – James HOLMES (b1836) publican & Jane (b1846) HOLMES. Also children :- Florence 8, Ellen 7, Charles 5, Lucy 4, Frank 2, Edith, 1yr, HOLMES.
 - **1901 census** – Charles BROWN/BROWSE (b1855) & wife Sarah Jane (b1849) BROWN/BROWSE.
 - **1911 census** – James CULLEN (b1852) licensed victualler & wife Ellen (b1852) CULLEN. Also sons :- Sydney 15; and Alfred 7, CULLEN.
 - **1921 census** – Alfred KINGMAN (b1870) & wife Emily (1874) KINGMAN. Also Ethel IRELAND (b1904) servant. + Ronald HAMMOND, (b1906) errand boy.
@@ -182,7 +182,7 @@ The Shop & Post Office, right, next to the New Inn.
 ```
 
 
-Shop first mentioned in the 1881 census, run by grocer and master baker John LAMB. In 1882 Kelly Directory John Lamb is listed as Post Office receiver. John LAMB was the 1st Parish Council chairman from 1894-99. He died in 1900, is buried in the Monkton churchyard, and he has a plaque in the Methodist Chapel for his service.
+Shop first mentioned in the 1881 census, run by grocer and master baker John LAMB. In 1882 Kelly Directory John LAMB is listed as Post Office receiver. John LAMB was the 1st Parish Council chairman from 1894-99. He died in 1900, is buried in the Monkton churchyard, and he has a plaque in the Methodist Chapel for his service.
 
 When Percy JARVIS shouted at some robbers in his Shop one time, it was heard in the pub next door, and they all came out running to catch the thief!
 
@@ -227,7 +227,7 @@ The Hornby model. More views in the [Gallery](../../../gallery.md).
 
 - **1881 census** – John LAMB.
 - **1882 Kelly’s Directory** – John LAMB – Post Office receiver.
-- **1891 census** – John LAMB (b1845) grocer and baker & Lucy (b1843) LAMB. Also children :- Bessie 19, Lucy 17, John 15, Annie 13, LAMB. + Percy Fox servant.
+- **1891 census** – John LAMB (b1845) grocer and baker & Lucy (b1843) LAMB. Also children :- Bessie 19, Lucy 17, John 15, Annie 13, LAMB. + Percy FOX servant.
 - **1911 census** – named “The Stores” - Henry ROLFE (b1875) & wife Ellen (1871) ROLFE. Also children :- Dorothy 12; Henry 11; Charles 9; Gweneth 4; Robert 2, ROLFE. + sister-in-law Fanny PENFOLD (b1868). (bakehouse at rear).
 - **1913 Kelly’s Directory** – Henry ROLFE (b1875) - sub postmaster.
 - **??? 1910’s?** – Ben EASTLAND - he resided at Monkton Stores, buried in an unmarked grave in Monkton churchyard in 1921 aged 35.
@@ -295,7 +295,7 @@ Aerial view looking south, showing the mystery house (date unknown).
 ## Left: #1 “Walters Hall Cottages”
 
 - **1911 census** – listed as Walter REEVES (b1882) cobbler. Also sister Lillian REEVES (b1879).
-- **1921 census** – James DEVERSON ( b1891) & wife Florence (b1892) DEVERSON. Also daughter Irene DEVERSON (b1914).
+- **1921 census** – James DEVERSON (b1891) & wife Florence (b1892) DEVERSON. Also daughter Irene DEVERSON (b1914).
 - **1939 census** – Arthur DANIELS (b1884) & wife Edna (b1881) DANIELS. Also 2 children :- Allan (b1919) and Marjorie (b1920) DANIELS.
 - **1973 Parish Council “Monkton Guide” census** – (vacant).
 - **1977 Parish Council “Silver Jubilee Souvenir Guide”** – (vacant).
@@ -408,13 +408,13 @@ In an Isle of Thanet Gazette newspaper article – 25-Feb-1966 – “Let’s ta
 
 Site manager Graham LEWIS was part of the London Caravan Group – who also had a site at Walton on the Naze in Essex. There is a strong connection between Foxhunter and south London. There was room for 360 units when the trees were removed in the 60’s / 70’s.
 
-The 30 acre site was bought by Colin SAUNDERS in 1977/79. It had a green doubled decker 1952 Routemaster bus that took site residents free to local towns and markets – it ended up in Las Vegas?
+The 30 acre site was bought by Colin SAUNDERS in 1977/79. It had a green double decker 1952 Routemaster bus that took site residents free to local towns and markets – it ended up in Las Vegas?
 
 Popular animals at the Park were Harvey the Cockatoo (1980-2005), Ringo the flamingo, 2 macaws that flew about the village and would attack dogs being walked on the “Drove”. Also peacocks that often paraded down Monkton Street or in nearby gardens, including mine!
 
 It had a £1m Mediterranean water feature garden with koi carp added in the ‘80’s, that was opened by entertainers Don Estelle and Windsor Davies from the TV series “It Ain’t Half Hot Mum!”
 
-There was a 1998 Channel 4 reality TV programme called “Holiday Park” that was an intriguing insight into the Park and its owner Colin Saunders. The Park also featured in a Channel 4 tv show “Four in a Bed” in October 2015 with a couple that lived on the Park .
+There was a 1998 Channel 4 reality TV programme called “Holiday Park” that was an intriguing insight into the Park and its owner Colin Saunders. The Park also featured in a Channel 4 tv show “Four in a Bed” in October 2015 with a couple that lived on the Park.
 
 ```{admonition} 1901 census – entries not yet matched to a house
 :class: note
@@ -422,9 +422,9 @@ There was a 1998 Channel 4 reality TV programme called “Holiday Park” that w
 The 1901 census was very poorly listed! It’s usually listed in house order, so these are the entries from “Forge House” for Zone 2, until the demolished “Walters Hall”.
 
 - \#? “FORGE HOUSE” [? GUESS] ? John TILL (b1837) blacksmith. Also 2 children :- William 33; and Amy 20, TILL.
-- \# “NEW INN” Charles BONEESE? (b1855) & wife Sarah Jane (b1849)
+- \# “NEW INN” Charles BONEESE? (b1855) & wife Sarah Jane (b1849) BONEESE?
 - \#? John Charles Hargreaves CLARK (b1844) architect, surveyor. & wife Rosina? (b1851) CLARK . + 5 others.
-- \#? William SMITH (b1849) & wife Phoebe (b1856) SMITH + boarder James Walsh (b1861).
+- \#? William SMITH (b1849) & wife Phoebe (b1856) SMITH + boarder James WALSH (b1861).
 - \#? Stephen PRITCHARD (b1846) & wife Susannah (b1955) PRITCHARD. Also 6 children :– Walter; Charles; Alice; Emma; Henry; Annie, PRITCHARD.
 - \#? Thomas ELLEN (b1832) & wife Eliza (b1835) ELLEN. Also 3 sons :– Henry; Fred; James ELLEN.
 - \#? John OSBOURNE (b1836) & wife Sarah (b1844) OSBOURNE. Also son Frederick (b1879) OSBOURNE.
@@ -432,7 +432,7 @@ The 1901 census was very poorly listed! It’s usually listed in house order, so
 - \#? James BAX (b1843) & wife Harriet (1846) BAX. Also 6 children :– Alfred 25; James 24; Ernest 22; Frederick 17; Arthur 15; Kate 13, BAX.
 - \#? George PATTERSON (b1859) & wife Harrietta? Louise (b1863) PATTERSON. + 2 boarders.
 - \#? William BAILEY (b1832) & wife Mary (b1832) BAILEY.
-- \# “WALTERS HALL (?Manor?) - George Alfred COLLETT (b1848) farmer & wife Georgina (b1851) COLLETT, Son George 18; daughter Dorothy 15. + 2 servants Ellen NICHOLS & Mary HAZELWOOD.
+- \# “WALTERS HALL (?Manor?) - George Alfred COLLETT (b1848) farmer & wife Georgina (b1851) COLLETT, Son George 18; daughter Dorothy 15, COLLETT. + 2 servants Ellen NICHOLS & Mary HAZELWOOD.
 
 ```
 
@@ -468,7 +468,7 @@ Mrs WETHERBY-WILLIAMS and her 2 grown up daughters had engaged “six beautiful 
 
 Upon becoming derelict it was demolished in 1948 and replaced by the present two bungalows on its imprint. Some villagers recall playing in the ruins.
 
-Mrs WETHERBY-WILLIAMSs eldest daughter, Margaret (1901-1984) was born in Canada, and became a popular crime writer, ‘MARGARET ERSKINE’, with 20+ novels all featuring Inspector Septimus Finch. These novels all feature large, eccentric families, old houses, secret rooms, psychic phenomena and familiar puzzles. An Internet search reveals that a year after Elizabeth disappeared, she was in Detroit, Michigan with her son Arthur. He died there. Elizabeth was last traced to Bexhill-on-Sea in 1946.
+Mrs WETHERBY-WILLIAMS's eldest daughter, Margaret (1901-1984) was born in Canada, and became a popular crime writer, ‘MARGARET ERSKINE’, with 20+ novels all featuring Inspector Septimus Finch. These novels all feature large, eccentric families, old houses, secret rooms, psychic phenomena and familiar puzzles. An Internet search reveals that a year after Elizabeth disappeared, she was in Detroit, Michigan with her son Arthur. He died there. Elizabeth was last traced to Bexhill-on-Sea in 1946.
 
 ## Right: “Elmbank”
 
@@ -512,7 +512,7 @@ Built in the 1920’s, and completed at the rate of one every 6 weeks, costing �
 
 ## #6 “Marsh View Cottages”
 
-- **1939 census** – George HAMMON (b1903) & wife Violet (b1902) HAMMON. Also Iris (b1934) HAMMON . + 3 others.
+- **1939 census** – George HAMMON (b1903) & wife Violet (b1902) HAMMON. Also Iris (b1934) HAMMON. + 3 others.
 - **1973 Parish Council “Monkton Guide” census** – G. Harnett.
 - **1977 Parish Council “Silver Jubilee Souvenir Guide”** – G Harnett.
 - **1981 Parish Council “Royal Wedding Souvenir Guide”** – G Harnett.
